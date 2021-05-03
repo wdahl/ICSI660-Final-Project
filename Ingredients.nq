@@ -66,20 +66,20 @@ _:b101 <http://schema.org/recipeIngredient> "1 pound sweet Italian sausage" .
 _:b101 <http://schema.org/recipeIngredient> "1 teaspoon Italian seasoning" .
 _:b101 <http://schema.org/recipeIngredient> "12 lasagna noodles" .
 _:b101 <http://schema.org/recipeIngredient> "16 ounces ricotta cheese" .
-_:b101 <http://schema.org/recipeIngredient> "1 ½ teaspoons dried basil leaves" .
-_:b101 <http://schema.org/recipeIngredient> "1 ½ teaspoons salt, divided, or to taste" .
+_:b101 <http://schema.org/recipeIngredient> "1 1/2 teaspoons dried basil leaves" .
+_:b101 <http://schema.org/recipeIngredient> "1 1/2 teaspoons salt, divided, or to taste" .
 _:b101 <http://schema.org/recipeIngredient> "2 (6 ounce) cans tomato paste" .
 _:b101 <http://schema.org/recipeIngredient> "2 (6.5 ounce) cans canned tomato sauce" .
 _:b101 <http://schema.org/recipeIngredient> "2 cloves garlic, crushed" .
 _:b101 <http://schema.org/recipeIngredient> "2 tablespoons white sugar" .
 _:b101 <http://schema.org/recipeIngredient> "4 tablespoons chopped fresh parsley" .
-_:b101 <http://schema.org/recipeIngredient> "¼ teaspoon ground black pepper" .
-_:b101 <http://schema.org/recipeIngredient> "½ cup minced onion" .
-_:b101 <http://schema.org/recipeIngredient> "½ cup water" .
-_:b101 <http://schema.org/recipeIngredient> "½ teaspoon fennel seeds" .
-_:b101 <http://schema.org/recipeIngredient> "¾ cup grated Parmesan cheese" .
-_:b101 <http://schema.org/recipeIngredient> "¾ pound lean ground beef" .
-_:b101 <http://schema.org/recipeIngredient> "¾ pound mozzarella cheese, sliced" .
+_:b101 <http://schema.org/recipeIngredient> "1/4 teaspoon ground black pepper" .
+_:b101 <http://schema.org/recipeIngredient> "1/2 cup minced onion" .
+_:b101 <http://schema.org/recipeIngredient> "1/2 cup water" .
+_:b101 <http://schema.org/recipeIngredient> "1/2 teaspoon fennel seeds" .
+_:b101 <http://schema.org/recipeIngredient> "3/4 cup grated Parmesan cheese" .
+_:b101 <http://schema.org/recipeIngredient> "3/4 pound lean ground beef" .
+_:b101 <http://schema.org/recipeIngredient> "3/4 pound mozzarella cheese, sliced" .
 _:b101 <http://schema.org/recipeInstructions> _:b106 .
 _:b101 <http://schema.org/recipeInstructions> _:b107 .
 _:b101 <http://schema.org/recipeInstructions> _:b108 .
@@ -309,12 +309,12 @@ _:b147 <http://schema.org/recipeCategory> "World Cuisine Recipes" .
 _:b147 <http://schema.org/recipeIngredient> "1 tablespoon chili powder" .
 _:b147 <http://schema.org/recipeIngredient> "1 teaspoon black pepper" .
 _:b147 <http://schema.org/recipeIngredient> "1 teaspoon sea salt" .
-_:b147 <http://schema.org/recipeIngredient> "1 ½ teaspoons ground cumin" .
-_:b147 <http://schema.org/recipeIngredient> "¼ teaspoon crushed red pepper flakes" .
-_:b147 <http://schema.org/recipeIngredient> "¼ teaspoon dried oregano" .
-_:b147 <http://schema.org/recipeIngredient> "¼ teaspoon garlic powder" .
-_:b147 <http://schema.org/recipeIngredient> "¼ teaspoon onion powder" .
-_:b147 <http://schema.org/recipeIngredient> "½ teaspoon paprika" .
+_:b147 <http://schema.org/recipeIngredient> "1 1/2 teaspoons ground cumin" .
+_:b147 <http://schema.org/recipeIngredient> "1/4 teaspoon crushed red pepper flakes" .
+_:b147 <http://schema.org/recipeIngredient> "1/4 teaspoon dried oregano" .
+_:b147 <http://schema.org/recipeIngredient> "1/4 teaspoon garlic powder" .
+_:b147 <http://schema.org/recipeIngredient> "1/4 teaspoon onion powder" .
+_:b147 <http://schema.org/recipeIngredient> "1/2 teaspoon paprika" .
 _:b147 <http://schema.org/recipeInstructions> _:b152 .
 _:b147 <http://schema.org/recipeYield> "1 ounce" .
 _:b147 <http://schema.org/review> _:b153 .
@@ -542,11 +542,11 @@ _:b190 <http://schema.org/recipeIngredient> "1 teaspoon vanilla extract" .
 _:b190 <http://schema.org/recipeIngredient> "2 eggs" .
 _:b190 <http://schema.org/recipeIngredient> "3 tablespoons butter, softened" .
 _:b190 <http://schema.org/recipeIngredient> "3 tablespoons unsweetened cocoa powder" .
-_:b190 <http://schema.org/recipeIngredient> "¼ teaspoon baking powder" .
-_:b190 <http://schema.org/recipeIngredient> "¼ teaspoon salt" .
-_:b190 <http://schema.org/recipeIngredient> "½ cup all-purpose flour" .
-_:b190 <http://schema.org/recipeIngredient> "½ cup butter" .
-_:b190 <http://schema.org/recipeIngredient> "⅓ cup unsweetened cocoa powder" .
+_:b190 <http://schema.org/recipeIngredient> "1/4 teaspoon baking powder" .
+_:b190 <http://schema.org/recipeIngredient> "1/4 teaspoon salt" .
+_:b190 <http://schema.org/recipeIngredient> "1/2 cup all-purpose flour" .
+_:b190 <http://schema.org/recipeIngredient> "1/2 cup butter" .
+_:b190 <http://schema.org/recipeIngredient> "1/3 cup unsweetened cocoa powder" .
 _:b190 <http://schema.org/recipeInstructions> _:b195 .
 _:b190 <http://schema.org/recipeInstructions> _:b196 .
 _:b190 <http://schema.org/recipeInstructions> _:b197 .
@@ -779,7 +779,7 @@ _:b235 <http://schema.org/recipeIngredient> "1 teaspoon salt" .
 _:b235 <http://schema.org/recipeIngredient> "1 whole chicken, cut into 6 pieces" .
 _:b235 <http://schema.org/recipeIngredient> "2 cloves garlic, crushed" .
 _:b235 <http://schema.org/recipeIngredient> "freshly ground black pepper to taste" .
-_:b235 <http://schema.org/recipeIngredient> "½ cup grated Parmesan cheese" .
+_:b235 <http://schema.org/recipeIngredient> "1/2 cup grated Parmesan cheese" .
 _:b235 <http://schema.org/recipeInstructions> _:b240 .
 _:b235 <http://schema.org/recipeInstructions> _:b241 .
 _:b235 <http://schema.org/recipeInstructions> _:b242 .
@@ -1000,11 +1000,11 @@ _:b279 <http://schema.org/nutrition> _:b283 .
 _:b279 <http://schema.org/recipeCategory> "Ingredients" .
 _:b279 <http://schema.org/recipeCategory> "Dessert Recipes" .
 _:b279 <http://schema.org/recipeCategory> "Frostings and Icings" .
-_:b279 <http://schema.org/recipeIngredient> "1 ½ teaspoons vanilla extract" .
+_:b279 <http://schema.org/recipeIngredient> "1 1/2 teaspoons vanilla extract" .
 _:b279 <http://schema.org/recipeIngredient> "2 cups confectioners' sugar, sifted" .
 _:b279 <http://schema.org/recipeIngredient> "2 tablespoons milk" .
 _:b279 <http://schema.org/recipeIngredient> "3 drops food coloring, or as needed" .
-_:b279 <http://schema.org/recipeIngredient> "½ cup unsalted butter, softened" .
+_:b279 <http://schema.org/recipeIngredient> "1/2 cup unsalted butter, softened" .
 _:b279 <http://schema.org/recipeInstructions> _:b284 .
 _:b279 <http://schema.org/recipeInstructions> _:b285 .
 _:b279 <http://schema.org/recipeYield> "2 1/2 cups" .
@@ -1257,9 +1257,9 @@ _:b328 <http://schema.org/recipeCategory> "Sauces and Condiments Recipes" .
 _:b328 <http://schema.org/recipeCategory> "Side Dish" .
 _:b328 <http://schema.org/recipeIngredient> "1 clove garlic, crushed" .
 _:b328 <http://schema.org/recipeIngredient> "1 cup heavy cream" .
-_:b328 <http://schema.org/recipeIngredient> "1 ½ cups freshly grated Parmesan cheese" .
-_:b328 <http://schema.org/recipeIngredient> "¼ cup butter" .
-_:b328 <http://schema.org/recipeIngredient> "¼ cup chopped fresh parsley" .
+_:b328 <http://schema.org/recipeIngredient> "1 1/2 cups freshly grated Parmesan cheese" .
+_:b328 <http://schema.org/recipeIngredient> "1/4 cup butter" .
+_:b328 <http://schema.org/recipeIngredient> "1/4 cup chopped fresh parsley" .
 _:b328 <http://schema.org/recipeInstructions> _:b333 .
 _:b328 <http://schema.org/recipeYield> "4 servings" .
 _:b328 <http://schema.org/review> _:b334 .
@@ -1473,14 +1473,14 @@ _:b369 <http://schema.org/recipeCategory> "Ingredients" .
 _:b369 <http://schema.org/recipeCategory> "Yeast Bread Recipes" .
 _:b369 <http://schema.org/recipeIngredient> "1 (18.25 ounce) package white cake mix" .
 _:b369 <http://schema.org/recipeIngredient> "2 teaspoons ground cinnamon" .
-_:b369 <http://schema.org/recipeIngredient> "2 ½ cups warm water" .
+_:b369 <http://schema.org/recipeIngredient> "2 1/2 cups warm water" .
 _:b369 <http://schema.org/recipeIngredient> "3 (.25 ounce) packages active dry yeast" .
-_:b369 <http://schema.org/recipeIngredient> "4 ½ cups all-purpose flour" .
-_:b369 <http://schema.org/recipeIngredient> "¼ cup butter, melted" .
-_:b369 <http://schema.org/recipeIngredient> "¼ cup chopped pecans, or to taste" .
-_:b369 <http://schema.org/recipeIngredient> "½ cup brown sugar" .
-_:b369 <http://schema.org/recipeIngredient> "½ cup butter, softened" .
-_:b369 <http://schema.org/recipeIngredient> "⅓ cup white sugar" .
+_:b369 <http://schema.org/recipeIngredient> "4 1/2 cups all-purpose flour" .
+_:b369 <http://schema.org/recipeIngredient> "1/4 cup butter, melted" .
+_:b369 <http://schema.org/recipeIngredient> "1/4 cup chopped pecans, or to taste" .
+_:b369 <http://schema.org/recipeIngredient> "1/2 cup brown sugar" .
+_:b369 <http://schema.org/recipeIngredient> "1/2 cup butter, softened" .
+_:b369 <http://schema.org/recipeIngredient> "1/3 cup white sugar" .
 _:b369 <http://schema.org/recipeInstructions> _:b374 .
 _:b369 <http://schema.org/recipeInstructions> _:b375 .
 _:b369 <http://schema.org/recipeInstructions> _:b376 .
@@ -1716,13 +1716,13 @@ _:b416 <http://schema.org/prepTime> "P0DT0H5M" .
 _:b416 <http://schema.org/recipeCategory> "100+ Breakfast and Brunch Recipes" .
 _:b416 <http://schema.org/recipeCategory> "Ingredients" .
 _:b416 <http://schema.org/recipeIngredient> "1 tablespoon white sugar" .
-_:b416 <http://schema.org/recipeIngredient> "1 ¾ cups milk" .
+_:b416 <http://schema.org/recipeIngredient> "1 3/4 cups milk" .
 _:b416 <http://schema.org/recipeIngredient> "2 cups all-purpose flour" .
 _:b416 <http://schema.org/recipeIngredient> "2 eggs" .
 _:b416 <http://schema.org/recipeIngredient> "4 teaspoons baking powder" .
-_:b416 <http://schema.org/recipeIngredient> "¼ teaspoon salt" .
-_:b416 <http://schema.org/recipeIngredient> "½ cup vegetable oil" .
-_:b416 <http://schema.org/recipeIngredient> "½ teaspoon vanilla extract" .
+_:b416 <http://schema.org/recipeIngredient> "1/4 teaspoon salt" .
+_:b416 <http://schema.org/recipeIngredient> "1/2 cup vegetable oil" .
+_:b416 <http://schema.org/recipeIngredient> "1/2 teaspoon vanilla extract" .
 _:b416 <http://schema.org/recipeInstructions> _:b421 .
 _:b416 <http://schema.org/recipeInstructions> _:b422 .
 _:b416 <http://schema.org/recipeYield> "6 servings" .
@@ -1809,7 +1809,7 @@ _:b431 <http://schema.org/worstRating> "1" .
 _:b431 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
 _:b432 <http://schema.org/author> _:b433 .
 _:b432 <http://schema.org/datePublished> "2012-05-25T17:37:37.447Z"^^<http://schema.org/Date> .
-_:b432 <http://schema.org/reviewBody> "HALF THE CALORIES, NO BRAINER!!  These waffles are good BUT...I made easy changes to make HUGE improvements to the nutritional value.  Instead of 2 eggs I used 3 egg whites and I used skim milk made into buttermilk instead of 2% milk (just add 1-1/2T lemon juice and let sit for 5 minutes). In place of ½ cup of oil I used fat-free vanilla yogurt.  I agree with other reviews that the recipe as written is a little bland so instead of 1 tbsp white sugar I used ¼ cup Splenda.  I also used 2 tsp of vanilla and about a heaping tsp cinnamon.  I can feel GOOD about serving a 195 calorie waffle as opposed to a 400 calorie waffle - especially when my picky husband can't tell the difference!" .
+_:b432 <http://schema.org/reviewBody> "HALF THE CALORIES, NO BRAINER!!  These waffles are good BUT...I made easy changes to make HUGE improvements to the nutritional value.  Instead of 2 eggs I used 3 egg whites and I used skim milk made into buttermilk instead of 2% milk (just add 1-1/2T lemon juice and let sit for 5 minutes). In place of 1/2 cup of oil I used fat-free vanilla yogurt.  I agree with other reviews that the recipe as written is a little bland so instead of 1 tbsp white sugar I used 1/4 cup Splenda.  I also used 2 tsp of vanilla and about a heaping tsp cinnamon.  I can feel GOOD about serving a 195 calorie waffle as opposed to a 400 calorie waffle - especially when my picky husband can't tell the difference!" .
 _:b432 <http://schema.org/reviewRating> _:b434 .
 _:b432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
 _:b433 <http://schema.org/name> "SDOUGLAS" .
@@ -1961,9 +1961,9 @@ _:b459 <http://schema.org/recipeIngredient> "3 cloves garlic, diced" .
 _:b459 <http://schema.org/recipeIngredient> "3 green onions, diced" .
 _:b459 <http://schema.org/recipeIngredient> "6 small red potatoes, quartered" .
 _:b459 <http://schema.org/recipeIngredient> "salt and ground black pepper to taste" .
-_:b459 <http://schema.org/recipeIngredient> "½ cup all-purpose flour" .
-_:b459 <http://schema.org/recipeIngredient> "½ cup grated Parmesan cheese" .
-_:b459 <http://schema.org/recipeIngredient> "½ cup sherry wine" .
+_:b459 <http://schema.org/recipeIngredient> "1/2 cup all-purpose flour" .
+_:b459 <http://schema.org/recipeIngredient> "1/2 cup grated Parmesan cheese" .
+_:b459 <http://schema.org/recipeIngredient> "1/2 cup sherry wine" .
 _:b459 <http://schema.org/recipeInstructions> _:b464 .
 _:b459 <http://schema.org/recipeInstructions> _:b465 .
 _:b459 <http://schema.org/recipeInstructions> _:b466 .
@@ -2203,7 +2203,7 @@ _:b54 <http://schema.org/recipeIngredient> "2 eggs" .
 _:b54 <http://schema.org/recipeIngredient> "2 teaspoons hot water" .
 _:b54 <http://schema.org/recipeIngredient> "2 teaspoons vanilla extract" .
 _:b54 <http://schema.org/recipeIngredient> "3 cups all-purpose flour" .
-_:b54 <http://schema.org/recipeIngredient> "½ teaspoon salt" .
+_:b54 <http://schema.org/recipeIngredient> "1/2 teaspoon salt" .
 _:b54 <http://schema.org/recipeInstructions> _:b59 .
 _:b54 <http://schema.org/recipeInstructions> _:b60 .
 _:b54 <http://schema.org/recipeInstructions> _:b61 .
@@ -2299,9 +2299,9 @@ _:b7 <http://schema.org/recipeIngredient> "1 bunch thin asparagus spears, trimme
 _:b7 <http://schema.org/recipeIngredient> "1 clove garlic, minced" .
 _:b7 <http://schema.org/recipeIngredient> "1 tablespoon lemon juice" .
 _:b7 <http://schema.org/recipeIngredient> "1 teaspoon sea salt" .
-_:b7 <http://schema.org/recipeIngredient> "1 ½ tablespoons grated Parmesan cheese" .
+_:b7 <http://schema.org/recipeIngredient> "1 1/2 tablespoons grated Parmesan cheese" .
 _:b7 <http://schema.org/recipeIngredient> "3 tablespoons olive oil" .
-_:b7 <http://schema.org/recipeIngredient> "½ teaspoon ground black pepper" .
+_:b7 <http://schema.org/recipeIngredient> "1/2 teaspoon ground black pepper" .
 _:b7 <http://schema.org/recipeInstructions> _:b12 .
 _:b7 <http://schema.org/recipeInstructions> _:b13 .
 _:b7 <http://schema.org/recipeInstructions> _:b14 .

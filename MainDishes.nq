@@ -100,13 +100,13 @@ _:b108 <http://schema.org/recipeIngredient> "2 tablespoons unsalted butter, soft
 _:b108 <http://schema.org/recipeIngredient> "2 tablespoons vegetable oil" .
 _:b108 <http://schema.org/recipeIngredient> "4 cloves garlic, chopped" .
 _:b108 <http://schema.org/recipeIngredient> "salt to taste" .
-_:b108 <http://schema.org/recipeIngredient> "¼ teaspoon dried sage" .
-_:b108 <http://schema.org/recipeIngredient> "¼ teaspoon ground black pepper, or to taste" .
-_:b108 <http://schema.org/recipeIngredient> "½ cup shredded sharp Cheddar cheese" .
-_:b108 <http://schema.org/recipeIngredient> "½ teaspoon dried sage" .
-_:b108 <http://schema.org/recipeIngredient> "½ teaspoon ground black pepper, or to taste" .
-_:b108 <http://schema.org/recipeIngredient> "½ teaspoon salt, or to taste" .
-_:b108 <http://schema.org/recipeIngredient> "⅔ cup dry white wine" .
+_:b108 <http://schema.org/recipeIngredient> "1/4 teaspoon dried sage" .
+_:b108 <http://schema.org/recipeIngredient> "1/4 teaspoon ground black pepper, or to taste" .
+_:b108 <http://schema.org/recipeIngredient> "1/2 cup shredded sharp Cheddar cheese" .
+_:b108 <http://schema.org/recipeIngredient> "1/2 teaspoon dried sage" .
+_:b108 <http://schema.org/recipeIngredient> "1/2 teaspoon ground black pepper, or to taste" .
+_:b108 <http://schema.org/recipeIngredient> "1/2 teaspoon salt, or to taste" .
+_:b108 <http://schema.org/recipeIngredient> "2/3 cup dry white wine" .
 _:b108 <http://schema.org/recipeInstructions> _:b113 .
 _:b108 <http://schema.org/recipeInstructions> _:b114 .
 _:b108 <http://schema.org/recipeInstructions> _:b115 .
@@ -233,10 +233,10 @@ _:b133 <http://schema.org/recipeIngredient> "1 cup chicken broth" .
 _:b133 <http://schema.org/recipeIngredient> "1 teaspoon fresh thyme" .
 _:b133 <http://schema.org/recipeIngredient> "2 cups peeled, cubed pumpkin" .
 _:b133 <http://schema.org/recipeIngredient> "2 tablespoons extra-virgin olive oil, divided" .
-_:b133 <http://schema.org/recipeIngredient> "¼ cup grated Parmigiano-Reggiano cheese  " .
-_:b133 <http://schema.org/recipeIngredient> "¼ teaspoon salt" .
-_:b133 <http://schema.org/recipeIngredient> "½ (16 ounce) package gemelli pasta" .
-_:b133 <http://schema.org/recipeIngredient> "⅛ teaspoon ground black pepper" .
+_:b133 <http://schema.org/recipeIngredient> "1/4 cup grated Parmigiano-Reggiano cheese  " .
+_:b133 <http://schema.org/recipeIngredient> "1/4 teaspoon salt" .
+_:b133 <http://schema.org/recipeIngredient> "1/2 (16 ounce) package gemelli pasta" .
+_:b133 <http://schema.org/recipeIngredient> "1/8 teaspoon ground black pepper" .
 _:b133 <http://schema.org/recipeInstructions> _:b138 .
 _:b133 <http://schema.org/recipeInstructions> _:b139 .
 _:b133 <http://schema.org/recipeInstructions> _:b140 .
@@ -335,10 +335,10 @@ _:b152 <http://schema.org/recipeIngredient> "1 teaspoon garlic powder" .
 _:b152 <http://schema.org/recipeIngredient> "1 teaspoon seasoning salt" .
 _:b152 <http://schema.org/recipeIngredient> "2 tablespoons all-purpose flour" .
 _:b152 <http://schema.org/recipeIngredient> "2 tablespoons butter" .
-_:b152 <http://schema.org/recipeIngredient> "¼ teaspoon ground black pepper" .
-_:b152 <http://schema.org/recipeIngredient> "½ teaspoon ground paprika" .
-_:b152 <http://schema.org/recipeIngredient> "¾ cup sour cream, or more to taste" .
-_:b152 <http://schema.org/recipeIngredient> "⅓ cup chopped onion" .
+_:b152 <http://schema.org/recipeIngredient> "1/4 teaspoon ground black pepper" .
+_:b152 <http://schema.org/recipeIngredient> "1/2 teaspoon ground paprika" .
+_:b152 <http://schema.org/recipeIngredient> "3/4 cup sour cream, or more to taste" .
+_:b152 <http://schema.org/recipeIngredient> "1/3 cup chopped onion" .
 _:b152 <http://schema.org/recipeInstructions> _:b157 .
 _:b152 <http://schema.org/recipeInstructions> _:b158 .
 _:b152 <http://schema.org/recipeYield> "4 servings" .
@@ -552,11 +552,11 @@ _:b192 <http://schema.org/recipeIngredient> "4 teaspoons reduced-fat sour cream"
 _:b192 <http://schema.org/recipeIngredient> "8 slices pickled jalapeno peppers" .
 _:b192 <http://schema.org/recipeIngredient> "aluminum foil" .
 _:b192 <http://schema.org/recipeIngredient> "nonfat cooking spray" .
-_:b192 <http://schema.org/recipeIngredient> "½ cup diced onion" .
-_:b192 <http://schema.org/recipeIngredient> "½ cup water" .
-_:b192 <http://schema.org/recipeIngredient> "½ teaspoon freshly ground black pepper" .
-_:b192 <http://schema.org/recipeIngredient> "½ teaspoon salt" .
-_:b192 <http://schema.org/recipeIngredient> "⅓ cup shredded Colby-Jack cheese" .
+_:b192 <http://schema.org/recipeIngredient> "1/2 cup diced onion" .
+_:b192 <http://schema.org/recipeIngredient> "1/2 cup water" .
+_:b192 <http://schema.org/recipeIngredient> "1/2 teaspoon freshly ground black pepper" .
+_:b192 <http://schema.org/recipeIngredient> "1/2 teaspoon salt" .
+_:b192 <http://schema.org/recipeIngredient> "1/3 cup shredded Colby-Jack cheese" .
 _:b192 <http://schema.org/recipeInstructions> _:b197 .
 _:b192 <http://schema.org/recipeInstructions> _:b198 .
 _:b192 <http://schema.org/recipeInstructions> _:b199 .
@@ -758,17 +758,17 @@ _:b232 <http://schema.org/recipeIngredient> "1 dash hot sauce, or to taste" .
 _:b232 <http://schema.org/recipeIngredient> "1 large egg, beaten" .
 _:b232 <http://schema.org/recipeIngredient> "1 tablespoon dry ranch dressing mix (such as Hidden Valley Ranch®)" .
 _:b232 <http://schema.org/recipeIngredient> "12 dill pickle slices, or to taste" .
-_:b232 <http://schema.org/recipeIngredient> "1 ½ teaspoons cayenne pepper" .
-_:b232 <http://schema.org/recipeIngredient> "1 ⅓ cups all-purpose flour" .
+_:b232 <http://schema.org/recipeIngredient> "1 1/2 teaspoons cayenne pepper" .
+_:b232 <http://schema.org/recipeIngredient> "1 1/3 cups all-purpose flour" .
 _:b232 <http://schema.org/recipeIngredient> "2 tablespoons cornstarch" .
 _:b232 <http://schema.org/recipeIngredient> "2 teaspoons kosher salt" .
 _:b232 <http://schema.org/recipeIngredient> "4 (5 ounce) skinless, boneless chicken breast halves" .
 _:b232 <http://schema.org/recipeIngredient> "4 soft hamburger buns, toasted and buttered" .
 _:b232 <http://schema.org/recipeIngredient> "6 tablespoons mayonnaise, or to taste" .
 _:b232 <http://schema.org/recipeIngredient> "canola oil for frying" .
-_:b232 <http://schema.org/recipeIngredient> "¼ cup milk" .
-_:b232 <http://schema.org/recipeIngredient> "½ cup buttermilk" .
-_:b232 <http://schema.org/recipeIngredient> "½ teaspoon freshly ground black pepper" .
+_:b232 <http://schema.org/recipeIngredient> "1/4 cup milk" .
+_:b232 <http://schema.org/recipeIngredient> "1/2 cup buttermilk" .
+_:b232 <http://schema.org/recipeIngredient> "1/2 teaspoon freshly ground black pepper" .
 _:b232 <http://schema.org/recipeInstructions> _:b237 .
 _:b232 <http://schema.org/recipeInstructions> _:b238 .
 _:b232 <http://schema.org/recipeInstructions> _:b239 .
@@ -1023,19 +1023,19 @@ _:b280 <http://schema.org/recipeIngredient> "2 tablespoons tomato paste" .
 _:b280 <http://schema.org/recipeIngredient> "2 tomatoes, cut into large chunks" .
 _:b280 <http://schema.org/recipeIngredient> "3 green cardamom pods " .
 _:b280 <http://schema.org/recipeIngredient> "5 whole cloves" .
-_:b280 <http://schema.org/recipeIngredient> "5 ¼ ounces broccoli, cut into large pieces" .
-_:b280 <http://schema.org/recipeIngredient> "8 ¾ ounces cauliflower, cut into large pieces" .
-_:b280 <http://schema.org/recipeIngredient> "¼ cup light vegetable oil" .
-_:b280 <http://schema.org/recipeIngredient> "¼ cup raw cashews" .
-_:b280 <http://schema.org/recipeIngredient> "¼ inch cinnamon stick" .
-_:b280 <http://schema.org/recipeIngredient> "¼ teaspoon chili powder" .
-_:b280 <http://schema.org/recipeIngredient> "¼ teaspoon ground coriander" .
-_:b280 <http://schema.org/recipeIngredient> "¼ teaspoon whole black peppercorns" .
-_:b280 <http://schema.org/recipeIngredient> "½ cup chopped fresh cilantro" .
-_:b280 <http://schema.org/recipeIngredient> "½ cup vegan yogurt" .
-_:b280 <http://schema.org/recipeIngredient> "½ cup water, divided" .
-_:b280 <http://schema.org/recipeIngredient> "½ tablespoon garam masala" .
-_:b280 <http://schema.org/recipeIngredient> "½ teaspoon ground turmeric" .
+_:b280 <http://schema.org/recipeIngredient> "5 1/4 ounces broccoli, cut into large pieces" .
+_:b280 <http://schema.org/recipeIngredient> "8 3/4 ounces cauliflower, cut into large pieces" .
+_:b280 <http://schema.org/recipeIngredient> "1/4 cup light vegetable oil" .
+_:b280 <http://schema.org/recipeIngredient> "1/4 cup raw cashews" .
+_:b280 <http://schema.org/recipeIngredient> "1/4 inch cinnamon stick" .
+_:b280 <http://schema.org/recipeIngredient> "1/4 teaspoon chili powder" .
+_:b280 <http://schema.org/recipeIngredient> "1/4 teaspoon ground coriander" .
+_:b280 <http://schema.org/recipeIngredient> "1/4 teaspoon whole black peppercorns" .
+_:b280 <http://schema.org/recipeIngredient> "1/2 cup chopped fresh cilantro" .
+_:b280 <http://schema.org/recipeIngredient> "1/2 cup vegan yogurt" .
+_:b280 <http://schema.org/recipeIngredient> "1/2 cup water, divided" .
+_:b280 <http://schema.org/recipeIngredient> "1/2 tablespoon garam masala" .
+_:b280 <http://schema.org/recipeIngredient> "1/2 teaspoon ground turmeric" .
 _:b280 <http://schema.org/recipeInstructions> _:b285 .
 _:b280 <http://schema.org/recipeInstructions> _:b286 .
 _:b280 <http://schema.org/recipeInstructions> _:b287 .
@@ -1391,10 +1391,10 @@ _:b349 <http://schema.org/recipeIngredient> "1 clove garlic, peeled and minced" 
 _:b349 <http://schema.org/recipeIngredient> "1 teaspoon salt" .
 _:b349 <http://schema.org/recipeIngredient> "2 egg whites, lightly beaten" .
 _:b349 <http://schema.org/recipeIngredient> "3 pounds ground turkey" .
-_:b349 <http://schema.org/recipeIngredient> "¼ cup chopped fresh parsley" .
-_:b349 <http://schema.org/recipeIngredient> "¼ cup finely diced onion" .
-_:b349 <http://schema.org/recipeIngredient> "¼ cup seasoned bread crumbs" .
-_:b349 <http://schema.org/recipeIngredient> "¼ teaspoon ground black pepper" .
+_:b349 <http://schema.org/recipeIngredient> "1/4 cup chopped fresh parsley" .
+_:b349 <http://schema.org/recipeIngredient> "1/4 cup finely diced onion" .
+_:b349 <http://schema.org/recipeIngredient> "1/4 cup seasoned bread crumbs" .
+_:b349 <http://schema.org/recipeIngredient> "1/4 teaspoon ground black pepper" .
 _:b349 <http://schema.org/recipeInstructions> _:b354 .
 _:b349 <http://schema.org/recipeInstructions> _:b355 .
 _:b349 <http://schema.org/recipeYield> "12 burgers" .
@@ -1635,11 +1635,11 @@ _:b395 <http://schema.org/recipeIngredient> "1 pound ground pork" .
 _:b395 <http://schema.org/recipeIngredient> "1 small onion, finely chopped" .
 _:b395 <http://schema.org/recipeIngredient> "1 tablespoon Italian seasoning" .
 _:b395 <http://schema.org/recipeIngredient> "1 tablespoon minced garlic" .
-_:b395 <http://schema.org/recipeIngredient> "1 ¼ cups bread crumbs" .
+_:b395 <http://schema.org/recipeIngredient> "1 1/4 cups bread crumbs" .
 _:b395 <http://schema.org/recipeIngredient> "2 tablespoons mayonnaise" .
 _:b395 <http://schema.org/recipeIngredient> "3 (30 ounce) jars marinara sauce, or as needed" .
 _:b395 <http://schema.org/recipeIngredient> "salt and ground black pepper to taste" .
-_:b395 <http://schema.org/recipeIngredient> "¼ cup milk, or more as needed" .
+_:b395 <http://schema.org/recipeIngredient> "1/4 cup milk, or more as needed" .
 _:b395 <http://schema.org/recipeInstructions> _:b400 .
 _:b395 <http://schema.org/recipeInstructions> _:b401 .
 _:b395 <http://schema.org/recipeInstructions> _:b402 .
@@ -1839,17 +1839,17 @@ _:b52 <http://schema.org/recipeIngredient> "1 lime, juiced" .
 _:b52 <http://schema.org/recipeIngredient> "1 tablespoon ground ginger" .
 _:b52 <http://schema.org/recipeIngredient> "1 tablespoon light brown sugar" .
 _:b52 <http://schema.org/recipeIngredient> "1 teaspoon chipotle chili powder, or to taste" .
-_:b52 <http://schema.org/recipeIngredient> "1 ½ cups apple cider" .
+_:b52 <http://schema.org/recipeIngredient> "1 1/2 cups apple cider" .
 _:b52 <http://schema.org/recipeIngredient> "2 (1 1/2 pound) pork tenderloins" .
 _:b52 <http://schema.org/recipeIngredient> "4 apples, peeled and cut into 8 pieces each" .
 _:b52 <http://schema.org/recipeIngredient> "4 tablespoons butter, cut into small pieces" .
 _:b52 <http://schema.org/recipeIngredient> "aluminum foil" .
 _:b52 <http://schema.org/recipeIngredient> "cooking spray" .
 _:b52 <http://schema.org/recipeIngredient> "salt and ground black pepper to taste" .
-_:b52 <http://schema.org/recipeIngredient> "½ teaspoon granulated garlic" .
-_:b52 <http://schema.org/recipeIngredient> "½ teaspoon ground ginger" .
-_:b52 <http://schema.org/recipeIngredient> "⅛ teaspoon chipotle chile powder" .
-_:b52 <http://schema.org/recipeIngredient> "⅛ teaspoon garam masala" .
+_:b52 <http://schema.org/recipeIngredient> "1/2 teaspoon granulated garlic" .
+_:b52 <http://schema.org/recipeIngredient> "1/2 teaspoon ground ginger" .
+_:b52 <http://schema.org/recipeIngredient> "1/8 teaspoon chipotle chile powder" .
+_:b52 <http://schema.org/recipeIngredient> "1/8 teaspoon garam masala" .
 _:b52 <http://schema.org/recipeInstructions> _:b57 .
 _:b52 <http://schema.org/recipeInstructions> _:b58 .
 _:b52 <http://schema.org/recipeInstructions> _:b59 .
@@ -1947,10 +1947,10 @@ _:b7 <http://schema.org/recipeIngredient> "1 (2 pound) salmon fillet, cut into 3
 _:b7 <http://schema.org/recipeIngredient> "1 teaspoon ground cardamom" .
 _:b7 <http://schema.org/recipeIngredient> "1 teaspoon ground coriander" .
 _:b7 <http://schema.org/recipeIngredient> "1 teaspoon paprika" .
-_:b7 <http://schema.org/recipeIngredient> "1 ½ teaspoons salt" .
+_:b7 <http://schema.org/recipeIngredient> "1 1/2 teaspoons salt" .
 _:b7 <http://schema.org/recipeIngredient> "2 tablespoons maple syrup" .
-_:b7 <http://schema.org/recipeIngredient> "¼ cup grapeseed oil" .
-_:b7 <http://schema.org/recipeIngredient> "½ teaspoon ground black pepper" .
+_:b7 <http://schema.org/recipeIngredient> "1/4 cup grapeseed oil" .
+_:b7 <http://schema.org/recipeIngredient> "1/2 teaspoon ground black pepper" .
 _:b7 <http://schema.org/recipeInstructions> _:b12 .
 _:b7 <http://schema.org/recipeInstructions> _:b13 .
 _:b7 <http://schema.org/recipeInstructions> _:b14 .
@@ -2077,13 +2077,13 @@ _:b91 <http://schema.org/recipeIngredient> "1 teaspoon butter, or as needed" .
 _:b91 <http://schema.org/recipeIngredient> "10 bird's eye chile peppers, chopped, or to taste" .
 _:b91 <http://schema.org/recipeIngredient> "2 kaffir lime leaves, or to taste" .
 _:b91 <http://schema.org/recipeIngredient> "2 tablespoons hot curry powder" .
-_:b91 <http://schema.org/recipeIngredient> "2 ½ pounds chicken thighs" .
+_:b91 <http://schema.org/recipeIngredient> "2 1/2 pounds chicken thighs" .
 _:b91 <http://schema.org/recipeIngredient> "3 tablespoons fish sauce" .
 _:b91 <http://schema.org/recipeIngredient> "3 tablespoons red curry paste, or more to taste" .
 _:b91 <http://schema.org/recipeIngredient> "4 tomatoes, quartered" .
 _:b91 <http://schema.org/recipeIngredient> "8 shallots, thinly sliced" .
 _:b91 <http://schema.org/recipeIngredient> "water to cover" .
-_:b91 <http://schema.org/recipeIngredient> "½ small bunch fresh cilantro, chopped, or to taste" .
+_:b91 <http://schema.org/recipeIngredient> "1/2 small bunch fresh cilantro, chopped, or to taste" .
 _:b91 <http://schema.org/recipeInstructions> _:b96 .
 _:b91 <http://schema.org/recipeInstructions> _:b97 .
 _:b91 <http://schema.org/recipeInstructions> _:b98 .

@@ -191,11 +191,11 @@ _:b130 <http://schema.org/recipeIngredient> "2 limes, cut into wedges, or as nee
 _:b130 <http://schema.org/recipeIngredient> "2 limes, juiced, or to taste" .
 _:b130 <http://schema.org/recipeIngredient> "2 pinches cayenne pepper" .
 _:b130 <http://schema.org/recipeIngredient> "2 tablespoons minced fresh rosemary" .
-_:b130 <http://schema.org/recipeIngredient> "½ cup chopped fresh cilantro" .
-_:b130 <http://schema.org/recipeIngredient> "½ cup kosher salt" .
-_:b130 <http://schema.org/recipeIngredient> "½ cup seeded and finely diced jalapeno pepper" .
-_:b130 <http://schema.org/recipeIngredient> "¾ cup water, or more as needed" .
-_:b130 <http://schema.org/recipeIngredient> "⅔ cup finely diced white onion" .
+_:b130 <http://schema.org/recipeIngredient> "1/2 cup chopped fresh cilantro" .
+_:b130 <http://schema.org/recipeIngredient> "1/2 cup kosher salt" .
+_:b130 <http://schema.org/recipeIngredient> "1/2 cup seeded and finely diced jalapeno pepper" .
+_:b130 <http://schema.org/recipeIngredient> "3/4 cup water, or more as needed" .
+_:b130 <http://schema.org/recipeIngredient> "2/3 cup finely diced white onion" .
 _:b130 <http://schema.org/recipeInstructions> _:b135 .
 _:b130 <http://schema.org/recipeInstructions> _:b136 .
 _:b130 <http://schema.org/recipeInstructions> _:b137 .
@@ -366,10 +366,10 @@ _:b165 <http://schema.org/recipeIngredient> "1 (8 ounce) can tomato sauce" .
 _:b165 <http://schema.org/recipeIngredient> "1 large egg, beaten" .
 _:b165 <http://schema.org/recipeIngredient> "1 pound skinless, boneless chicken breast halves" .
 _:b165 <http://schema.org/recipeIngredient> "2 tablespoons grated Parmesan cheese" .
-_:b165 <http://schema.org/recipeIngredient> "½ teaspoon garlic powder" .
-_:b165 <http://schema.org/recipeIngredient> "¾ cup shredded mozzarella cheese" .
-_:b165 <http://schema.org/recipeIngredient> "¾ teaspoon Italian seasoning" .
-_:b165 <http://schema.org/recipeIngredient> "⅓ cup bread crumbs" .
+_:b165 <http://schema.org/recipeIngredient> "1/2 teaspoon garlic powder" .
+_:b165 <http://schema.org/recipeIngredient> "3/4 cup shredded mozzarella cheese" .
+_:b165 <http://schema.org/recipeIngredient> "3/4 teaspoon Italian seasoning" .
+_:b165 <http://schema.org/recipeIngredient> "1/3 cup bread crumbs" .
 _:b165 <http://schema.org/recipeInstructions> _:b170 .
 _:b165 <http://schema.org/recipeInstructions> _:b171 .
 _:b165 <http://schema.org/recipeInstructions> _:b172 .
@@ -682,11 +682,11 @@ _:b227 <http://schema.org/recipeIngredient> "1 cup dried bread crumbs" .
 _:b227 <http://schema.org/recipeIngredient> "1 cup milk" .
 _:b227 <http://schema.org/recipeIngredient> "1 egg" .
 _:b227 <http://schema.org/recipeIngredient> "1 onion, chopped" .
-_:b227 <http://schema.org/recipeIngredient> "1 ½ pounds ground beef" .
+_:b227 <http://schema.org/recipeIngredient> "1 1/2 pounds ground beef" .
 _:b227 <http://schema.org/recipeIngredient> "2 tablespoons brown sugar" .
 _:b227 <http://schema.org/recipeIngredient> "2 tablespoons prepared mustard" .
 _:b227 <http://schema.org/recipeIngredient> "salt and pepper to taste" .
-_:b227 <http://schema.org/recipeIngredient> "⅓ cup ketchup" .
+_:b227 <http://schema.org/recipeIngredient> "1/3 cup ketchup" .
 _:b227 <http://schema.org/recipeInstructions> _:b232 .
 _:b227 <http://schema.org/recipeInstructions> _:b233 .
 _:b227 <http://schema.org/recipeInstructions> _:b234 .
@@ -919,20 +919,20 @@ _:b272 <http://schema.org/recipeIngredient> "1 pound sweet Italian sausage" .
 _:b272 <http://schema.org/recipeIngredient> "1 teaspoon Italian seasoning" .
 _:b272 <http://schema.org/recipeIngredient> "12 lasagna noodles" .
 _:b272 <http://schema.org/recipeIngredient> "16 ounces ricotta cheese" .
-_:b272 <http://schema.org/recipeIngredient> "1 ½ teaspoons dried basil leaves" .
-_:b272 <http://schema.org/recipeIngredient> "1 ½ teaspoons salt, divided, or to taste" .
+_:b272 <http://schema.org/recipeIngredient> "1 1/2 teaspoons dried basil leaves" .
+_:b272 <http://schema.org/recipeIngredient> "1 1/2 teaspoons salt, divided, or to taste" .
 _:b272 <http://schema.org/recipeIngredient> "2 (6 ounce) cans tomato paste" .
 _:b272 <http://schema.org/recipeIngredient> "2 (6.5 ounce) cans canned tomato sauce" .
 _:b272 <http://schema.org/recipeIngredient> "2 cloves garlic, crushed" .
 _:b272 <http://schema.org/recipeIngredient> "2 tablespoons white sugar" .
 _:b272 <http://schema.org/recipeIngredient> "4 tablespoons chopped fresh parsley" .
-_:b272 <http://schema.org/recipeIngredient> "¼ teaspoon ground black pepper" .
-_:b272 <http://schema.org/recipeIngredient> "½ cup minced onion" .
-_:b272 <http://schema.org/recipeIngredient> "½ cup water" .
-_:b272 <http://schema.org/recipeIngredient> "½ teaspoon fennel seeds" .
-_:b272 <http://schema.org/recipeIngredient> "¾ cup grated Parmesan cheese" .
-_:b272 <http://schema.org/recipeIngredient> "¾ pound lean ground beef" .
-_:b272 <http://schema.org/recipeIngredient> "¾ pound mozzarella cheese, sliced" .
+_:b272 <http://schema.org/recipeIngredient> "1/4 teaspoon ground black pepper" .
+_:b272 <http://schema.org/recipeIngredient> "1/2 cup minced onion" .
+_:b272 <http://schema.org/recipeIngredient> "1/2 cup water" .
+_:b272 <http://schema.org/recipeIngredient> "1/2 teaspoon fennel seeds" .
+_:b272 <http://schema.org/recipeIngredient> "3/4 cup grated Parmesan cheese" .
+_:b272 <http://schema.org/recipeIngredient> "3/4 pound lean ground beef" .
+_:b272 <http://schema.org/recipeIngredient> "3/4 pound mozzarella cheese, sliced" .
 _:b272 <http://schema.org/recipeInstructions> _:b277 .
 _:b272 <http://schema.org/recipeInstructions> _:b278 .
 _:b272 <http://schema.org/recipeInstructions> _:b279 .
@@ -1168,7 +1168,7 @@ _:b318 <http://schema.org/recipeIngredient> "1 pinch garlic powder, or to taste"
 _:b318 <http://schema.org/recipeIngredient> "1 teaspoon seasoned salt" .
 _:b318 <http://schema.org/recipeIngredient> "2 cups crushed saltine crackers" .
 _:b318 <http://schema.org/recipeIngredient> "6 skinless, boneless chicken breast halves" .
-_:b318 <http://schema.org/recipeIngredient> "½ cup margarine, melted" .
+_:b318 <http://schema.org/recipeIngredient> "1/2 cup margarine, melted" .
 _:b318 <http://schema.org/recipeInstructions> _:b323 .
 _:b318 <http://schema.org/recipeInstructions> _:b324 .
 _:b318 <http://schema.org/recipeInstructions> _:b325 .
@@ -1375,7 +1375,7 @@ _:b359 <http://schema.org/recipeIngredient> "1 teaspoon salt" .
 _:b359 <http://schema.org/recipeIngredient> "1 whole chicken, cut into 6 pieces" .
 _:b359 <http://schema.org/recipeIngredient> "2 cloves garlic, crushed" .
 _:b359 <http://schema.org/recipeIngredient> "freshly ground black pepper to taste" .
-_:b359 <http://schema.org/recipeIngredient> "½ cup grated Parmesan cheese" .
+_:b359 <http://schema.org/recipeIngredient> "1/2 cup grated Parmesan cheese" .
 _:b359 <http://schema.org/recipeInstructions> _:b364 .
 _:b359 <http://schema.org/recipeInstructions> _:b365 .
 _:b359 <http://schema.org/recipeInstructions> _:b366 .
@@ -1537,7 +1537,7 @@ _:b39 <http://schema.org/recipeIngredient> "1 green bell pepper, seeded and cut 
 _:b39 <http://schema.org/recipeIngredient> "1 red bell pepper, seeded and cut into 1-inch pieces" .
 _:b39 <http://schema.org/recipeIngredient> "1 tablespoon chile-garlic sauce" .
 _:b39 <http://schema.org/recipeIngredient> "1 tablespoon ginger-garlic paste" .
-_:b39 <http://schema.org/recipeIngredient> "1 ½ pounds skinless, boneless chicken breast, cut into 1-inch pieces" .
+_:b39 <http://schema.org/recipeIngredient> "1 1/2 pounds skinless, boneless chicken breast, cut into 1-inch pieces" .
 _:b39 <http://schema.org/recipeIngredient> "2 (8 ounce) cans pineapple tidbits in juice" .
 _:b39 <http://schema.org/recipeIngredient> "2 tablespoons cornstarch" .
 _:b39 <http://schema.org/recipeIngredient> "3 tablespoons avocado oil" .
@@ -1545,10 +1545,10 @@ _:b39 <http://schema.org/recipeIngredient> "3 tablespoons ketchup" .
 _:b39 <http://schema.org/recipeIngredient> "3 tablespoons soy sauce" .
 _:b39 <http://schema.org/recipeIngredient> "salt and ground black pepper to taste" .
 _:b39 <http://schema.org/recipeIngredient> "water as needed" .
-_:b39 <http://schema.org/recipeIngredient> "½ cup light brown sugar" .
-_:b39 <http://schema.org/recipeIngredient> "½ red onion, cut into 1-inch pieces" .
-_:b39 <http://schema.org/recipeIngredient> "⅓ cup rice vinegar" .
-_:b39 <http://schema.org/recipeIngredient> "⅛ teaspoon ground white pepper" .
+_:b39 <http://schema.org/recipeIngredient> "1/2 cup light brown sugar" .
+_:b39 <http://schema.org/recipeIngredient> "1/2 red onion, cut into 1-inch pieces" .
+_:b39 <http://schema.org/recipeIngredient> "1/3 cup rice vinegar" .
+_:b39 <http://schema.org/recipeIngredient> "1/8 teaspoon ground white pepper" .
 _:b39 <http://schema.org/recipeInstructions> _:b44 .
 _:b39 <http://schema.org/recipeInstructions> _:b45 .
 _:b39 <http://schema.org/recipeInstructions> _:b46 .
@@ -1650,13 +1650,13 @@ _:b403 <http://schema.org/recipeIngredient> "1 tablespoon Worcestershire sauce" 
 _:b403 <http://schema.org/recipeIngredient> "1 tablespoon chili powder" .
 _:b403 <http://schema.org/recipeIngredient> "1 tablespoon prepared yellow mustard" .
 _:b403 <http://schema.org/recipeIngredient> "1 teaspoon vegetable oil" .
-_:b403 <http://schema.org/recipeIngredient> "1 ½ teaspoons dried thyme" .
+_:b403 <http://schema.org/recipeIngredient> "1 1/2 teaspoons dried thyme" .
 _:b403 <http://schema.org/recipeIngredient> "2 large cloves garlic, crushed" .
 _:b403 <http://schema.org/recipeIngredient> "2 tablespoons butter, or as needed" .
 _:b403 <http://schema.org/recipeIngredient> "8 hamburger buns, split" .
-_:b403 <http://schema.org/recipeIngredient> "¼ cup light brown sugar" .
-_:b403 <http://schema.org/recipeIngredient> "½ cup apple cider vinegar" .
-_:b403 <http://schema.org/recipeIngredient> "½ cup chicken broth" .
+_:b403 <http://schema.org/recipeIngredient> "1/4 cup light brown sugar" .
+_:b403 <http://schema.org/recipeIngredient> "1/2 cup apple cider vinegar" .
+_:b403 <http://schema.org/recipeIngredient> "1/2 cup chicken broth" .
 _:b403 <http://schema.org/recipeInstructions> _:b408 .
 _:b403 <http://schema.org/recipeInstructions> _:b409 .
 _:b403 <http://schema.org/recipeInstructions> _:b410 .
@@ -1877,8 +1877,8 @@ _:b446 <http://schema.org/recipeCategory> "Meat and Poultry" .
 _:b446 <http://schema.org/recipeCategory> "Pork" .
 _:b446 <http://schema.org/recipeIngredient> "1 cup packed brown sugar" .
 _:b446 <http://schema.org/recipeIngredient> "2 pounds kielbasa sausage, sliced thin" .
-_:b446 <http://schema.org/recipeIngredient> "¼ cup prepared horseradish" .
-_:b446 <http://schema.org/recipeIngredient> "½ cup ketchup" .
+_:b446 <http://schema.org/recipeIngredient> "1/4 cup prepared horseradish" .
+_:b446 <http://schema.org/recipeIngredient> "1/2 cup ketchup" .
 _:b446 <http://schema.org/recipeInstructions> _:b451 .
 _:b446 <http://schema.org/recipeYield> "8 servings" .
 _:b446 <http://schema.org/review> _:b452 .
@@ -2065,20 +2065,20 @@ _:b484 <http://schema.org/recipeIngredient> "1 (12 ounce) package dried rice noo
 _:b484 <http://schema.org/recipeIngredient> "1 lime, cut into wedges" .
 _:b484 <http://schema.org/recipeIngredient> "1 teaspoon chili powder, or more to taste " .
 _:b484 <http://schema.org/recipeIngredient> "12 ounces chicken breast, cut into 1/2-inch strips" .
-_:b484 <http://schema.org/recipeIngredient> "1 ½ cups dry-roasted, unsalted peanuts" .
-_:b484 <http://schema.org/recipeIngredient> "1 ½ tablespoons white sugar, or more to taste" .
-_:b484 <http://schema.org/recipeIngredient> "1 ½ teaspoons dried ground Asian radish" .
-_:b484 <http://schema.org/recipeIngredient> "1 ½ teaspoons minced garlic" .
-_:b484 <http://schema.org/recipeIngredient> "1 ½ teaspoons salt" .
+_:b484 <http://schema.org/recipeIngredient> "1 1/2 cups dry-roasted, unsalted peanuts" .
+_:b484 <http://schema.org/recipeIngredient> "1 1/2 tablespoons white sugar, or more to taste" .
+_:b484 <http://schema.org/recipeIngredient> "1 1/2 teaspoons dried ground Asian radish" .
+_:b484 <http://schema.org/recipeIngredient> "1 1/2 teaspoons minced garlic" .
+_:b484 <http://schema.org/recipeIngredient> "1 1/2 teaspoons salt" .
 _:b484 <http://schema.org/recipeIngredient> "2 cups fresh bean sprouts" .
 _:b484 <http://schema.org/recipeIngredient> "2 tablespoons tamarind pulp" .
 _:b484 <http://schema.org/recipeIngredient> "4 eggs" .
 _:b484 <http://schema.org/recipeIngredient> "cold water, as needed" .
-_:b484 <http://schema.org/recipeIngredient> "¼ cup oyster sauce" .
-_:b484 <http://schema.org/recipeIngredient> "½ cup chopped fresh chives" .
-_:b484 <http://schema.org/recipeIngredient> "½ cup peanut oil" .
-_:b484 <http://schema.org/recipeIngredient> "½ cup rice wine vinegar" .
-_:b484 <http://schema.org/recipeIngredient> "½ cup white sugar" .
+_:b484 <http://schema.org/recipeIngredient> "1/4 cup oyster sauce" .
+_:b484 <http://schema.org/recipeIngredient> "1/2 cup chopped fresh chives" .
+_:b484 <http://schema.org/recipeIngredient> "1/2 cup peanut oil" .
+_:b484 <http://schema.org/recipeIngredient> "1/2 cup rice wine vinegar" .
+_:b484 <http://schema.org/recipeIngredient> "1/2 cup white sugar" .
 _:b484 <http://schema.org/recipeInstructions> _:b489 .
 _:b484 <http://schema.org/recipeInstructions> _:b490 .
 _:b484 <http://schema.org/recipeInstructions> _:b491 .
@@ -2298,11 +2298,11 @@ _:b529 <http://schema.org/recipeIngredient> "1 tablespoon chopped garlic" .
 _:b529 <http://schema.org/recipeIngredient> "1 tablespoon dried sage" .
 _:b529 <http://schema.org/recipeIngredient> "1 teaspoon sea salt" .
 _:b529 <http://schema.org/recipeIngredient> "3 large eggs" .
-_:b529 <http://schema.org/recipeIngredient> "½ (8 ounce) package bacon" .
-_:b529 <http://schema.org/recipeIngredient> "½ (8 ounce) package shredded sharp Cheddar cheese" .
-_:b529 <http://schema.org/recipeIngredient> "½ cup sour cream" .
-_:b529 <http://schema.org/recipeIngredient> "½ small onion, finely chopped" .
-_:b529 <http://schema.org/recipeIngredient> "¾ cup milk" .
+_:b529 <http://schema.org/recipeIngredient> "1/2 (8 ounce) package bacon" .
+_:b529 <http://schema.org/recipeIngredient> "1/2 (8 ounce) package shredded sharp Cheddar cheese" .
+_:b529 <http://schema.org/recipeIngredient> "1/2 cup sour cream" .
+_:b529 <http://schema.org/recipeIngredient> "1/2 small onion, finely chopped" .
+_:b529 <http://schema.org/recipeIngredient> "3/4 cup milk" .
 _:b529 <http://schema.org/recipeInstructions> _:b534 .
 _:b529 <http://schema.org/recipeInstructions> _:b535 .
 _:b529 <http://schema.org/recipeInstructions> _:b536 .
@@ -2527,16 +2527,16 @@ _:b575 <http://schema.org/recipeCategory> "Meat and Poultry" .
 _:b575 <http://schema.org/recipeIngredient> "1 cup frozen green peas" .
 _:b575 <http://schema.org/recipeIngredient> "1 cup sliced carrots" .
 _:b575 <http://schema.org/recipeIngredient> "1 pound skinless, boneless chicken breast halves - cubed" .
-_:b575 <http://schema.org/recipeIngredient> "1 ¾ cups chicken broth" .
+_:b575 <http://schema.org/recipeIngredient> "1 3/4 cups chicken broth" .
 _:b575 <http://schema.org/recipeIngredient> "2 (9 inch)  unbaked pie crusts" .
-_:b575 <http://schema.org/recipeIngredient> "¼ teaspoon black pepper" .
-_:b575 <http://schema.org/recipeIngredient> "¼ teaspoon celery seed" .
-_:b575 <http://schema.org/recipeIngredient> "½ cup sliced celery" .
-_:b575 <http://schema.org/recipeIngredient> "½ teaspoon salt" .
-_:b575 <http://schema.org/recipeIngredient> "⅓ cup all-purpose flour" .
-_:b575 <http://schema.org/recipeIngredient> "⅓ cup butter" .
-_:b575 <http://schema.org/recipeIngredient> "⅓ cup chopped onion" .
-_:b575 <http://schema.org/recipeIngredient> "⅔ cup milk" .
+_:b575 <http://schema.org/recipeIngredient> "1/4 teaspoon black pepper" .
+_:b575 <http://schema.org/recipeIngredient> "1/4 teaspoon celery seed" .
+_:b575 <http://schema.org/recipeIngredient> "1/2 cup sliced celery" .
+_:b575 <http://schema.org/recipeIngredient> "1/2 teaspoon salt" .
+_:b575 <http://schema.org/recipeIngredient> "1/3 cup all-purpose flour" .
+_:b575 <http://schema.org/recipeIngredient> "1/3 cup butter" .
+_:b575 <http://schema.org/recipeIngredient> "1/3 cup chopped onion" .
+_:b575 <http://schema.org/recipeIngredient> "2/3 cup milk" .
 _:b575 <http://schema.org/recipeInstructions> _:b580 .
 _:b575 <http://schema.org/recipeInstructions> _:b581 .
 _:b575 <http://schema.org/recipeInstructions> _:b582 .
@@ -2679,18 +2679,18 @@ _:b6 <http://schema.org/recipeIngredient> "2 tablespoons chili powder" .
 _:b6 <http://schema.org/recipeIngredient> "2 tablespoons salted butter, softened" .
 _:b6 <http://schema.org/recipeIngredient> "2 teaspoons baking powder" .
 _:b6 <http://schema.org/recipeIngredient> "5 tablespoons cornmeal" .
-_:b6 <http://schema.org/recipeIngredient> "¼ cup white sugar" .
-_:b6 <http://schema.org/recipeIngredient> "¼ teaspoon cayenne pepper" .
-_:b6 <http://schema.org/recipeIngredient> "¼ teaspoon ground black pepper" .
-_:b6 <http://schema.org/recipeIngredient> "¼ teaspoon ground paprika" .
-_:b6 <http://schema.org/recipeIngredient> "¼ teaspoon vanilla extract" .
-_:b6 <http://schema.org/recipeIngredient> "½ cup milk" .
-_:b6 <http://schema.org/recipeIngredient> "½ large onion, diced" .
-_:b6 <http://schema.org/recipeIngredient> "½ teaspoon dried oregano" .
-_:b6 <http://schema.org/recipeIngredient> "½ teaspoon garlic powder" .
-_:b6 <http://schema.org/recipeIngredient> "½ teaspoon onion powder" .
-_:b6 <http://schema.org/recipeIngredient> "½ teaspoon salt" .
-_:b6 <http://schema.org/recipeIngredient> "¾ cup all-purpose flour" .
+_:b6 <http://schema.org/recipeIngredient> "1/4 cup white sugar" .
+_:b6 <http://schema.org/recipeIngredient> "1/4 teaspoon cayenne pepper" .
+_:b6 <http://schema.org/recipeIngredient> "1/4 teaspoon ground black pepper" .
+_:b6 <http://schema.org/recipeIngredient> "1/4 teaspoon ground paprika" .
+_:b6 <http://schema.org/recipeIngredient> "1/4 teaspoon vanilla extract" .
+_:b6 <http://schema.org/recipeIngredient> "1/2 cup milk" .
+_:b6 <http://schema.org/recipeIngredient> "1/2 large onion, diced" .
+_:b6 <http://schema.org/recipeIngredient> "1/2 teaspoon dried oregano" .
+_:b6 <http://schema.org/recipeIngredient> "1/2 teaspoon garlic powder" .
+_:b6 <http://schema.org/recipeIngredient> "1/2 teaspoon onion powder" .
+_:b6 <http://schema.org/recipeIngredient> "1/2 teaspoon salt" .
+_:b6 <http://schema.org/recipeIngredient> "3/4 cup all-purpose flour" .
 _:b6 <http://schema.org/recipeInstructions> _:b11 .
 _:b6 <http://schema.org/recipeInstructions> _:b12 .
 _:b6 <http://schema.org/recipeInstructions> _:b13 .
@@ -3023,15 +3023,15 @@ _:b72 <http://schema.org/recipeIngredient> "1 teaspoon dried thyme" .
 _:b72 <http://schema.org/recipeIngredient> "1 teaspoon sea salt" .
 _:b72 <http://schema.org/recipeIngredient> "10 baby carrots, thinly sliced" .
 _:b72 <http://schema.org/recipeIngredient> "2 cloves garlic, minced" .
-_:b72 <http://schema.org/recipeIngredient> "2 tablespoons garlic and herb seasoning blend (such as Mrs. Dash®)" .
-_:b72 <http://schema.org/recipeIngredient> "¼ cup Italian-seasoned bread crumbs" .
-_:b72 <http://schema.org/recipeIngredient> "¼ cup all-purpose flour" .
-_:b72 <http://schema.org/recipeIngredient> "¼ cup minced onion" .
-_:b72 <http://schema.org/recipeIngredient> "½ (8 ounce) package fresh mushrooms, sliced" .
-_:b72 <http://schema.org/recipeIngredient> "½ large onion, chopped" .
-_:b72 <http://schema.org/recipeIngredient> "½ teaspoon cracked black pepper" .
-_:b72 <http://schema.org/recipeIngredient> "½ teaspoon dried parsley" .
-_:b72 <http://schema.org/recipeIngredient> "½ teaspoon sea salt" .
+_:b72 <http://schema.org/recipeIngredient> "2 tablespoons garlic and herb seasoning blend (such as Mrs. Dash)" .
+_:b72 <http://schema.org/recipeIngredient> "1/4 cup Italian-seasoned bread crumbs" .
+_:b72 <http://schema.org/recipeIngredient> "1/4 cup all-purpose flour" .
+_:b72 <http://schema.org/recipeIngredient> "1/4 cup minced onion" .
+_:b72 <http://schema.org/recipeIngredient> "1/2 (8 ounce) package fresh mushrooms, sliced" .
+_:b72 <http://schema.org/recipeIngredient> "1/2 large onion, chopped" .
+_:b72 <http://schema.org/recipeIngredient> "1/2 teaspoon cracked black pepper" .
+_:b72 <http://schema.org/recipeIngredient> "1/2 teaspoon dried parsley" .
+_:b72 <http://schema.org/recipeIngredient> "1/2 teaspoon sea salt" .
 _:b72 <http://schema.org/recipeInstructions> _:b77 .
 _:b72 <http://schema.org/recipeInstructions> _:b78 .
 _:b72 <http://schema.org/recipeInstructions> _:b79 .
@@ -3129,8 +3129,8 @@ _:b90 <http://schema.org/recipeIngredient> "1 tablespoon lemon-pepper seasoning"
 _:b90 <http://schema.org/recipeIngredient> "2 cloves garlic, smashed and finely chopped" .
 _:b90 <http://schema.org/recipeIngredient> "2 skinless, boneless chicken breast halves" .
 _:b90 <http://schema.org/recipeIngredient> "2 tablespoons paprika" .
-_:b90 <http://schema.org/recipeIngredient> "2 ½ tablespoons extra-virgin olive oil, divided" .
-_:b90 <http://schema.org/recipeIngredient> "½ medium onion, chopped" .
+_:b90 <http://schema.org/recipeIngredient> "2 1/2 tablespoons extra-virgin olive oil, divided" .
+_:b90 <http://schema.org/recipeIngredient> "1/2 medium onion, chopped" .
 _:b90 <http://schema.org/recipeInstructions> _:b95 .
 _:b90 <http://schema.org/recipeInstructions> _:b96 .
 _:b90 <http://schema.org/recipeInstructions> _:b97 .
