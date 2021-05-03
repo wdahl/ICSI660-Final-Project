@@ -1,0 +1,3148 @@
+    [
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                "name": "Main Dish Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/13290/main-dish/seafood/",
+                "name": "Seafood Main Dish Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/13293/main-dish/seafood/salmon/",
+                "name": "Salmon",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/15850/main-dish/seafood/salmon/salmon-fillets/",
+                "name": "Salmon Fillet Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/237297/cardamom-maple-salmon/",
+          "name": "Cardamom Maple Salmon",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1122495.jpg",
+            "width": 2592,
+            "height": 2592
+          },
+          "datePublished": "2019-04-02T07:03:06.000Z",
+          "description": "I am a salmon lover. This is a great recipe for a slightly exotic flavor of Indian inspiration with a maple twist. The flavor is exceptional, delicious, and unique. Orange zest may be added for an extra flavor twist.",
+          "prepTime": "P0DT0H15M",
+          "cookTime": "P0DT0H10M",
+          "totalTime": "P0DT0H25M",
+          "recipeYield": "6 servings",
+          "recipeIngredient": [
+            "1 ½ teaspoons salt",
+            "1 teaspoon paprika",
+            "1 teaspoon ground cardamom",
+            "1 teaspoon ground coriander",
+            "½ teaspoon ground black pepper",
+            "¼ cup grapeseed oil",
+            "2 tablespoons maple syrup",
+            "1 (2 pound) salmon fillet, cut into 3-inch pieces"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Stir salt, paprika, cardamom, coriander, and black pepper together in a bowl. Add oil and maple syrup and stir until evenly combined.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Preheat a non-stick frying pan over medium-high heat, about 350 degrees F (175 degrees C).\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Dredge salmon pieces through the maple syrup mixture until evenly coated on all sides.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Cook salmon in the preheated pan until fish flakes easily with a fork, 5 to 7 minutes per side.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Main Dish Recipes",
+            "Seafood Main Dish Recipes",
+            "Salmon",
+            "Salmon Fillet Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "rhardoon"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.490909090909091,
+            "ratingCount": 55,
+            "itemReviewed": "Cardamom Maple Salmon",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "345.2 calories",
+            "carbohydrateContent": "5.2 g",
+            "cholesterolContent": "74.4 mg",
+            "fatContent": "23.8 g",
+            "fiberContent": "0.5 g",
+            "proteinContent": "26.3 g",
+            "saturatedFatContent": "3.8 g",
+            "servingSize": null,
+            "sodiumContent": "654.4 mg",
+            "sugarContent": "4 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2017-10-04T05:40:25.927Z",
+              "reviewBody": "Very tasty! I only used 2 Tbsp. of oil and I think next time I will half the salt. I cooked it on medium for 6 minutes per side to avoid having the sauce stick to the pan. Very easy to make and great flavor!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Raechael",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/raechael/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2014-04-22T04:13:06.84Z",
+              "reviewBody": "What an amazing recipe! I made it exactly as written except that I grilled it outdoors instead of cooking in a pan. The flavor was outstanding. The cardamom really takes this to another level so don't leave it out! It's a pricey spice but well worth it! I will be making this frequently especially for guests because it will definitely impress. Next time I will try it with the orange zest as suggested. Thank you for the great recipe!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "France C",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/francecevallos/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2014-10-15T01:18:25.233Z",
+              "reviewBody": "I loved the flavor combination. Will keep in the rotation for weeknight meals. I like to buy a large tray of salmon at Costco and then freeze it in smaller portions - this is a great way to use the frozen/thawed leftovers.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "RachelCooks4u",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3130874/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2015-01-12T02:19:13.97Z",
+              "reviewBody": "My husband fishes in Alaska every year I always have a freezer full of fresh Salmon and I am always looking for new recipes this one is a keeper it is simple and simply delicious. Don't hesitate give it a try.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Ramona Webster",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/5491170/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2015-05-06T03:28:51.073Z",
+              "reviewBody": "Wow! Fabulous flavor and so easy to prepare! I usually poach our salmon so just made a half recipe of the sauce and poured it on top of 3 salmon filets from Costco. I only used an 1/8 teaspoon of black pepper as some of the family have sensitive stomachs. I added perhaps one or two tablespoons of water so there would be enough moisture to create steam to poach the fish when the lid was placed on the pan. I'll be making this again and again! UPDATE: I made this for a second time poaching as before. This time I sprinkled the dry spices over the salmon and drizzled a bit of maple on each filet. I skipped the oil entirely and everyone liked it even better than last time. It's my new \"impress the company\" recipe!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "greenthumb",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3745381/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2014-10-20T18:00:22.08Z",
+              "reviewBody": "Ahhhhhmazing. But the Cordamom can be overpowering so my recommendation is to use a little less than the recipe calls for. Even so I followed the recipe exactly and it was fantastic. I cooked it for a friend and she couldn't get enough of it! She said to me: \"This is restaurant quality food.\" Will definitely make again and again.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Christine Flower",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/14283928/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2016-04-12T04:41:00.92Z",
+              "reviewBody": "delightful! we eat a lot of Indian cuisine so I had all the spices on hand. I added a little cayenne since we like heat. baked at 400 degrees for 20 minutes. To my taste the flavors were very subtle and didn't overpower the flavor of the fish but rather complemented it nicely.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Amanda SusieQ",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/17392447/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2014-10-14T00:12:37.777Z",
+              "reviewBody": "Tasted great. Easy to make. Family loved it.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Amanda Wangerin-Johnson",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/14449065/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2014-10-26T13:56:56.137Z",
+              "reviewBody": "I m always looking for new ways to fix salmon. This was a nice change from what seems like the same old boring seasonings. The spice combination complimented the salmon very well. My only problem was keeping the salmon from burning. Thank goodness hubby is a sport when it comes to eating charred food. I reduced the heat to a lower setting but the longer cook time still resulted in a slightly burnt coating. I think this would be fantastic cooked on a grill.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "DIZ&#9829;",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/diz/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-05-31T17:35:08.940Z",
+              "reviewBody": "It was ok but nothing special to my taste",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Inch",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/inch/"
+              }
+            }
+          ]
+        }
+      ],
+      
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                "name": "Meat and Poultry Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/205/meat-and-poultry/pork/",
+                "name": "Pork",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/1014/meat-and-poultry/pork/tenderloin/",
+                "name": "Pork Tenderloin Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/277116/spicy-pork-tenderloin-with-apples-and-sweet-potatoes/",
+          "name": "Spicy Pork Tenderloin with Apples and Sweet Potatoes",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7251995.jpg",
+            "width": 0,
+            "height": 0
+          },
+          "datePublished": "2020-03-05T05:20:59.000Z",
+          "description": "Jazz up your pork tenderloin with this spicy-sweet combo of apples, cider, sweet potatoes, and as much or as little heat as your palate requires! This easy oven dish only needs one other pot to reduce the sauce on top of the stove. It is large enough for a crowd or for leftovers later in the week. Add a green veggie or a salad, and some crusty dinner bread, and you are good to go!",
+          "prepTime": "P0DT0H30M",
+          "cookTime": "P0DT0H55M",
+          "totalTime": "P0DT0H85M",
+          "recipeYield": "12 servings",
+          "recipeIngredient": [
+            "cooking spray",
+            "1 tablespoon ground ginger",
+            "1 tablespoon light brown sugar",
+            "1 teaspoon chipotle chili powder, or to taste",
+            "salt and ground black pepper to taste",
+            "2 (1 1/2 pound) pork tenderloins",
+            "4 apples, peeled and cut into 8 pieces each",
+            "1 large sweet potato, peeled and cut into 1 1/2-inch pieces",
+            "4 tablespoons butter, cut into small pieces",
+            "1 ½ cups apple cider",
+            "1 lime, juiced",
+            "½ teaspoon granulated garlic",
+            "½ teaspoon ground ginger",
+            "⅛ teaspoon chipotle chile powder",
+            "⅛ teaspoon garam masala",
+            "salt and ground black pepper to taste",
+            "aluminum foil"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Preheat the oven to 425 degrees F (220 degrees C). Spray a 9x13-inch baking dish with cooking spray.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Mix together 1 tablespoon ginger, brown sugar, 1 teaspoon chili powder, salt, and pepper in a bowl to create a rub. Rub combined seasonings on all sides of the pork tenderloins, using the entire amount.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Place apples and sweet potatoes in the bottom of the prepared pan; dot with butter.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Mix together apple cider, lime juice, garlic, 1/2 teaspoon ginger, 1/8 teaspoon chili powder, garam masala, salt, and pepper in a bowl. Pour over apples and sweet potatoes and place tenderloins on top.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Bake in the preheated oven for 20 minutes. Ladle cooking liquid over apples and sweet potatoes, turn tenderloins over, and continue baking until pork is slightly pink at the center, about 20 minutes longer. A meat thermometer placed in the center of the thickest tenderloin should read 145 degrees F (63 degrees C).\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Remove apples and sweet potatoes to a serving platter using a slotted spoon. Place tenderloins on top and cover with aluminum foil.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Pour cooking liquid from the baking dish into a 1-quart saucepan. Heat over medium-high heat until liquid comes to a boil. Boil, stirring occasionally, until the mixture is reduced by one half, 10 to 15 minutes.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Drizzle sauce over pork, apples, and sweet potatoes. Slice tenderloins and serve.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Meat and Poultry Recipes",
+            "Pork",
+            "Pork Tenderloin Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Bibi"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.3,
+            "ratingCount": 10,
+            "itemReviewed": "Spicy Pork Tenderloin with Apples and Sweet Potatoes",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "211.7 calories",
+            "carbohydrateContent": "20.3 g",
+            "cholesterolContent": "59.3 mg",
+            "fatContent": "6.4 g",
+            "fiberContent": "2.5 g",
+            "proteinContent": "18.5 g",
+            "saturatedFatContent": "3.3 g",
+            "servingSize": null,
+            "sodiumContent": "117.3 mg",
+            "sugarContent": "11.2 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2019-12-16T07:21:22.597Z",
+              "reviewBody": "Very satisfying and easy to make.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Steve D.",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/16795058/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-01-03T10:52:12.55Z",
+              "reviewBody": "My husband and I loved this entree and would highly recommend it! I substituted Bone-In Pork Shoulder Spare Rib meat and Yukon Gold Potatoes (what I had on hand) and found it to be delicious! The funny thing is...I'm not even a big pork fan by nature. L&M from MN",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Lynne Johnson",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/24806048/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-12-15T04:14:41.12Z",
+              "reviewBody": "OMG this was soooo good. Leftovers were good too. I made some changes only because I bought a 3.8 pound top pork loin on sale for 8 instead of the 1.9 pound pork tenderloin for 16. So I had to go to my good old Betty Crocker cookbook and to the internet to get cooking times. Did all of the ingredients the same except left off garlic and doubled all the ingredients and increased apple cider to 2 cups. I did the rub ahead of time because I was home anyway and let it sit under a blanket of plastic rap for 4 hours before cooking. Betty Crocker said to cook Top Pork Loin at 325 for 30-40 mins per pound to get internal temp of 170. I cooked it for a total of about 2 hours at 350 with just the cider mix (no sweets or apples). Also had to look up Sweet Potatos = 350 degrees for about an hour. So added them after Pork loin cooked for one hour. And I looked up Apples = 350 for about 15 minutes (I did smaller slices - like 8/apple). Even though I did over cook it a smidge when I made the first cut liquid squirted out and I knew it would be juicy and tender which it was. For leftovers we put potoatoes/apples/juice in sauce pan on low. And my husband dabbed some of the juice on the pork slices and put brown sugar/ginger mix on each side. He cooked them separately in the oven on stoneware plate at 350 for about 7 minutes then broiled at 500 until a little bubbly - a couple minutes.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Colleen Vaughn",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2543524/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-12-19T01:52:40.54Z",
+              "reviewBody": "I liked the seasonings very much but while the sweet potatoes cooked to perfection the apples were mushy. I would recommend making sure you use a firm apple like Granny Smith or Pippin.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Pam",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/15756158/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-05-01T10:53:24.9Z",
+              "reviewBody": "I forgot to get apple cider vinegar when I made this, but it was still delicious.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Brian James",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/19991988/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-12-12T12:01:48.977Z",
+              "reviewBody": "Strong cumin taste. I will probably omit the garam masala next time. Apples & sweet potatoes were perfect.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Donna",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/25390927/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-11-26T11:30:51.82Z",
+              "reviewBody": "I followed the recipe exactly. It tasted good but it was dry. There was no extra sauce to cook on the stovetop. Next time I make it I will use more apples.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Donna Corea",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/24084700/"
+              }
+            }
+          ]
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                "name": "World Cuisine Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+                "name": "Asian",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/276989/als-burmese-chicken-curry/",
+          "name": "Al's Burmese Chicken Curry",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7062050.jpg",
+            "width": 0,
+            "height": 0
+          },
+          "datePublished": "2020-02-19T05:50:47.000Z",
+          "description": "A chicken curry with the balanced elements of spicy and sour with the traditional flavors of Southeast Asia. Serve with basmati rice. This will taste even better if you leave it for a day or two before eating.",
+          "prepTime": "P0DT0H20M",
+          "cookTime": "P0DT2H40M",
+          "totalTime": "P0DT2H60M",
+          "recipeYield": "6 servings",
+          "recipeIngredient": [
+            "1 teaspoon butter, or as needed",
+            "8 shallots, thinly sliced",
+            "3 tablespoons red curry paste, or more to taste",
+            "2 tablespoons hot curry powder",
+            "1 tablespoon ground red chile pepper",
+            "2 ½ pounds chicken thighs",
+            "1 lemongrass, smashed and cut into 1-inch pieces",
+            "10 bird's eye chile peppers, chopped, or to taste",
+            "1 tablespoon ground coriander",
+            "2 kaffir lime leaves, or to taste",
+            "3 tablespoons fish sauce",
+            "water to cover",
+            "1 (14 ounce) can coconut milk",
+            "4 tomatoes, quartered",
+            "½ small bunch fresh cilantro, chopped, or to taste"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Melt butter in a wok over medium heat. Add shallots and fry until golden, about 10 minutes. Remove shallots and set aside. Add curry paste to the wok and toast until fragrant, about 3 minutes. Stir in curry powder and ground chile. Add chicken and cook, stirring, until lightly browned, about 5 minutes. Stir in lemongrass, chiles peppers, coriander, and lime leaves.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Pour in fish sauce and enough water to cover chicken. Add coconut milk; cook for 10 minutes. Toss in tomatoes and cook until starting to soften, about 10 minutes more. Reduce heat to low and simmer until flavors blend, 2 to 3 hours.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Remove lemongrass and lime leaves. Garnish curry with the fried shallots and cilantro.\n"
+            }
+          ],
+          "recipeCategory": [
+            "World Cuisine Recipes",
+            "Asian"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Alex Illes"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 1,
+            "ratingCount": 1,
+            "itemReviewed": "Al's Burmese Chicken Curry",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "520.8 calories",
+            "carbohydrateContent": "21.8 g",
+            "cholesterolContent": "108.2 mg",
+            "fatContent": "34.1 g",
+            "fiberContent": "3.8 g",
+            "proteinContent": "34.4 g",
+            "saturatedFatContent": "18.1 g",
+            "servingSize": null,
+            "sodiumContent": "814.2 mg",
+            "sugarContent": "6 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2020-09-02T02:27:51.763Z",
+              "reviewBody": "Sorry, but this is all wrong.  Raw chicken on the bone should take no more than 45 minutes - 1 hour to cook while braising.  2 - 3 hours is way too much, and it calls for the chicken to be browned first.  I give every new recipe the benefit of the doubt, and I followed the instructions.  I went with 2 hours.  As I expected, the chicken was basically mush by the end.  The picture that accompanies this recipe is 100% misleading.  And 3 cups of water?  Way too much.  This came out like chicken soup.  It would have been WAYYY richer and superior texture-wise to cook the shallots and make a masala with the spices.  Then add only coconut milk (no water at all) and let that simmer for 10 minutes.   Brown the chicken separately and then add it into the coconut milk mixture to simmer for 10 - 15 minutes.  This wasted about 4 hours of my time and some of my $.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Super Home Chef",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/24943391/"
+              }
+            }
+          ]
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                "name": "Meat and Poultry Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/202/meat-and-poultry/game-meats/",
+                "name": "Game Meats",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/667/meat-and-poultry/game-meats/venison/",
+                "name": "Venison",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/277079/sweet-potato-and-venison-shepherds-pie/",
+          "name": "Sweet Potato and Venison Shepherd's Pie",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7234883.jpg",
+            "width": 0,
+            "height": 0
+          },
+          "datePublished": "2019-11-14T04:19:26.000Z",
+          "description": "A hearty, warming, and comforting venison shepherd's pie that's perfect for opening day!",
+          "prepTime": "P0DT0H45M",
+          "cookTime": "P0DT2H0M",
+          "totalTime": "P0DT2H50M",
+          "recipeYield": "6 servings",
+          "recipeIngredient": [
+            "1 large sweet potato",
+            "2 tablespoons unsalted butter, softened",
+            "2 tablespoons milk, or more as needed",
+            "½ teaspoon salt, or to taste",
+            "¼ teaspoon ground black pepper, or to taste",
+            "¼ teaspoon dried sage",
+            "1 pinch freshly ground nutmeg",
+            "½ cup shredded sharp Cheddar cheese",
+            "2 tablespoons vegetable oil",
+            "1 (8 ounce) package cremini mushrooms, sliced",
+            "1 large onion, chopped",
+            "2 carrots, peeled and chopped",
+            "1 stalk celery, chopped",
+            "4 cloves garlic, chopped",
+            "salt to taste",
+            "1 pound ground venison",
+            "1 teaspoon dried thyme",
+            "1 teaspoon dried oregano",
+            "1 teaspoon garlic powder",
+            "1 teaspoon onion powder",
+            "½ teaspoon ground black pepper, or to taste",
+            "½ teaspoon dried sage",
+            "2 tablespoons all-purpose flour",
+            "⅔ cup dry white wine",
+            "1 cup low-sodium chicken broth",
+            "1 cup frozen peas"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Preheat the oven to 375 degrees F (190 degrees C).\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Pierce the sweet potato several times with a fork and wrap in aluminum foil. Place on a baking sheet.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Roast in the preheated oven until sweet potato is fork-tender, 70 to 90 minutes. Remove from the oven and let cool enough to handle, 5 to 10 minutes.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Reduce oven temperature to 350 degrees F (175 degrees C). Lightly grease a 9-inch deep-dish pie plate and place on a rimmed baking sheet to prevent bubbling over.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Peel skin off the sweet potato and place flesh into a large bowl. Add butter, milk, salt, pepper, sage, and nutmeg. Beat using an electric mixer until ingredients are combined. Mix in Cheddar cheese gently. Set aside.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Heat vegetable oil in a Dutch oven over medium-high heat. Add mushrooms, onion, carrots, celery, and garlic. Sprinkle with salt. Cook until vegetables have softened, 5 to 7 minutes. Add venison, thyme, oregano, garlic powder, onion powder, 1/2 teaspoon salt, pepper, and sage. Stir to combine, breaking up any large pieces of venison. Cook until venison is no longer pink, 5 to 7 minutes.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Stir flour into the pot and cook for 1 minute. Pour in white wine and stir to loosen any browned bits from the bottom of the pan. Cook until wine has reduced slightly, 2 to 3 minutes. Stir in broth. Allow mixture to come to a simmer; continue to cook until filling has thickened, 5 to 10 minutes. Stir in peas. Taste and adjust salt and pepper as necessary. Remove from heat and let cool slightly.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Pour filling into the prepared pie plate. Top with sweet potato mixture and spread gently across the top, covering most of the filling.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Bake in the preheated oven until top is set and filling is bubbling, about 30 minutes. Allow to cool slightly before serving.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Meat and Poultry Recipes",
+            "Game Meats",
+            "Venison"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Kim"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.333333333333333,
+            "ratingCount": 6,
+            "itemReviewed": "Sweet Potato and Venison Shepherd's Pie",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "358.3 calories",
+            "carbohydrateContent": "29.5 g",
+            "cholesterolContent": "76.2 mg",
+            "fatContent": "14.2 g",
+            "fiberContent": "5.8 g",
+            "proteinContent": "23.1 g",
+            "saturatedFatContent": "6.4 g",
+            "servingSize": null,
+            "sodiumContent": "444.9 mg",
+            "sugarContent": "7.7 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2019-11-13T08:50:36.76Z",
+              "reviewBody": "super good but the broth peas and wine were missing from my ingredients. lucky I had these. just wanted to bring attention to this.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "mklavery",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/8014462/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-02-17T18:27:03.56Z",
+              "reviewBody": "I used ground moose. Left out sage and nutmeg. Found there were too many flavours and that they covered up the taste of the meat. Maybe that was the point? The topping was tasty. May use that on another recipe. Won't make again.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+              },
+              "author": {
+                "@type": "Person",
+                "name": "dds",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/28741255/"
+              }
+            }
+          ]
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                "name": "Meat and Poultry Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/205/meat-and-poultry/pork/",
+                "name": "Pork",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/276904/gemelli-pasta-with-roasted-pumpkin-and-pancetta/",
+          "name": "Gemelli Pasta with Roasted Pumpkin and Pancetta",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7167605.jpg",
+            "width": 0,
+            "height": 0
+          },
+          "datePublished": "2019-11-02T07:24:39.000Z",
+          "description": "Roasting the pumpkin brings out the sweetness, which pairs well with the salty pancetta. This \"primo piatto,\" or first course, is simple and delicious!",
+          "prepTime": "P0DT0H10M",
+          "cookTime": "P0DT0H45M",
+          "totalTime": "P0DT0H55M",
+          "recipeYield": "4 servings",
+          "recipeIngredient": [
+            "2 cups peeled, cubed pumpkin",
+            "2 tablespoons extra-virgin olive oil, divided",
+            "1 teaspoon fresh thyme",
+            "¼ teaspoon salt",
+            "⅛ teaspoon ground black pepper",
+            "½ (16 ounce) package gemelli pasta",
+            "1 (4 ounce) package diced pancetta",
+            "1 cup chicken broth",
+            "¼ cup grated Parmigiano-Reggiano cheese  "
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Pile diced pumpkin on the baking sheet. Drizzle with 1 tablespoon olive oil and toss lightly to coat. Spread pumpkin out and sprinkle with thyme, salt, and pepper.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Bake in the preheated oven for 20 minutes. Remove and set aside.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Bring a large pot of unsalted water to a boil. Add gemelli pasta and boil until just nearly tender, about 9 minutes.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Heat remaining olive oil in a large pan over medium heat. Add pancetta and cook until starting to brown, 4 to 5 minutes. Add the roasted pumpkin and cook, stirring frequently, 2 to 3 minutes more. Pour in chicken broth and bring to a boil.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Drain pasta and add to the pan with the pumpkin mixture. Continue cooking until pasta is tender yet firm to the bite, 1 to 2 minutes more. Serve immediately, topped with Parmigiano-Reggiano cheese.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Meat and Poultry Recipes",
+            "Pork"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Kim's Cooking Now"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "itemReviewed": "Gemelli Pasta with Roasted Pumpkin and Pancetta",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "355.7 calories",
+            "carbohydrateContent": "45.8 g",
+            "cholesterolContent": "16.1 mg",
+            "fatContent": "13.6 g",
+            "fiberContent": "2.3 g",
+            "proteinContent": "13.8 g",
+            "saturatedFatContent": "3.4 g",
+            "servingSize": null,
+            "sodiumContent": "729.9 mg",
+            "sugarContent": "3 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": []
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                "name": "Side Dish",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+                "name": "Sauces and Condiments Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/",
+                "name": "Sauce Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/496/side-dish/sauces-and-condiments/sauces/pasta-sauces/",
+                "name": "Pasta Sauce Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/563/side-dish/sauces-and-condiments/sauces/pasta-sauces/creamy/",
+                "name": "Creamy",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/276859/beef-stroganoff-with-ground-beef/",
+          "name": "Beef Stroganoff with Ground Beef",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7323467.jpg",
+            "width": 0,
+            "height": 0
+          },
+          "datePublished": "2019-11-06T06:39:55.000Z",
+          "description": "Ground beef makes this stroganoff sauce a quick, tasty comfort food served over noodles or mashed spuds.",
+          "prepTime": "P0DT0H10M",
+          "cookTime": "P0DT0H20M",
+          "totalTime": "P0DT0H30M",
+          "recipeYield": "4 servings",
+          "recipeIngredient": [
+            "2 tablespoons butter",
+            "1 cup sliced fresh mushrooms",
+            "⅓ cup chopped onion",
+            "1 pound lean ground beef",
+            "2 tablespoons all-purpose flour",
+            "1 teaspoon garlic powder",
+            "1 teaspoon seasoning salt",
+            "½ teaspoon ground paprika",
+            "¼ teaspoon ground black pepper",
+            "1 (10.75 ounce) can  condensed cream of mushroom soup",
+            "¾ cup sour cream, or more to taste",
+            "1 tablespoon liquid smoke, or to taste",
+            "1 tablespoon Worcestershire sauce"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Melt butter in a large skillet over medium-high heat. Add mushrooms and onions and saute until onions have turned translucent, about 5 minutes. Add ground beef and cook and stir until browned and crumbly, 5 to 7 minutes. Sprinkle with flour, garlic powder, seasoning salt, paprika, and pepper; stir until mixed in.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Add condensed soup, sour cream, liquid smoke, and Worcestershire sauce. Reduce heat to medium, and cook and stir until sauce has thickened, 5 to 7 minutes.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Side Dish",
+            "Sauces and Condiments Recipes",
+            "Sauce Recipes",
+            "Pasta Sauce Recipes",
+            "Creamy"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Deena Kordt"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.037037037037037,
+            "ratingCount": 27,
+            "itemReviewed": "Beef Stroganoff with Ground Beef",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "495.2 calories",
+            "carbohydrateContent": "13.9 g",
+            "cholesterolContent": "102.7 mg",
+            "fatContent": "38.4 g",
+            "fiberContent": "0.8 g",
+            "proteinContent": "23.9 g",
+            "saturatedFatContent": "16.9 g",
+            "servingSize": null,
+            "sodiumContent": "891.5 mg",
+            "sugarContent": "2.8 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2020-02-02T08:33:41.823Z",
+              "reviewBody": "Would be my last choice in a beef stroganoff recipe...  If you make it as per the recipe, it tastes like beef stroganoff without garlic and an over abundance of salt and worcestershire sauce.  I had to eat it, since I went to the trouble of making it, but I never would again.  There are lots of GOOD stroganoff recipes out there.  There is no reason to use this one.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Larry Syverson",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/12295580/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-07-11T08:28:39.353Z",
+              "reviewBody": "Tasty. Got finished with preparation and realized I had forgotten the flour—probably why it wasn’t overly thick. Will not use flour in the future. Also, it would be helpful to dilute the soup. Those 2 things should solve the thickness issue.  Used fresh garlic and red pepper flakes. Altogether an easy and yummy basic meal. Husband loved it.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "pgrasso",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/27548001/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-10-26T06:18:31.82Z",
+              "reviewBody": "Good recipe! A little bland according to instructions. I add salt/pepper to taste. Also used fresh garlic.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Ian Malloy",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/27161379/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-02-07T07:17:33.733Z",
+              "reviewBody": "This was easy to put together. It's a good basic recipe. It's given me a place to start and build on. I'll make it again, but next time a little more salt and fresh garlic. I'll experiment with other seasonings as well. It has a lot of potential.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Thom",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/28963206/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-02-09T09:21:43.517Z",
+              "reviewBody": "I used this stroganoff as a layer in my shepherds pie dinner and it was amazing!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Amber Ward",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/27359543/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-03-25T07:12:47.653Z",
+              "reviewBody": "Needed a dish with 'soft' meat for someone who has had recent dental surgery. This met the need. Great taste. Easy . Quick . Would definitely fix again.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Susan Wright",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/18060168/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-11-22T08:00:36.607Z",
+              "reviewBody": "Very easy and delicious recipe. The sauce is very thick. If you like a thinner stroganoff I think this would be good by including a little beef broth when adding the ingredients at the end.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "fabeveryday",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/fabeveryday/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-07-19T06:53:29.43Z",
+              "reviewBody": "Ironically, I don't like mushrooms.. so didn't add fresh mushroom, but did use can of mushroom soup, per recipe.  Also didn't add liquid smoke, subbed beef stock, which help to thin out stroganoff.  My hubby and I both loved it.  Needs fresh parsley as garnish, didn't have, but did add some dried parsley.  Delish!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Laurie Mullay",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/24959307/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-12-05T02:45:38.367Z",
+              "reviewBody": "I made this and followed the recipe with only these changes.  I only had \"smoked paprika\" and because of this I did not put in the full amount of liquid smoke.  I would say if using the smoked paprika do not add any liquid smoke.  Otherwise, recipe was easy and quick and would make again.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Judy",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/10642443/"
+              }
+            }
+          ]
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                "name": "Main Dish Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/17246/main-dish/stuffed-main-dishes/",
+                "name": "Stuffed Main Dish Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/13289/main-dish/stuffed-main-dishes/stuffed-bell-peppers/",
+                "name": "Stuffed Bell Pepper Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/276832/low-carb-turkey-stuffed-peppers/",
+          "name": "Low Carb Turkey-Stuffed Peppers",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7193347.jpg",
+            "width": 0,
+            "height": 0
+          },
+          "datePublished": "2020-06-30T01:28:21.000Z",
+          "description": "Put a healthier family classic on the dinner table by substituting ground turkey for ground beef, and using frozen riced cauliflower instead of high-carb white rice.",
+          "prepTime": "P0DT0H15M",
+          "cookTime": "P0DT0H55M",
+          "totalTime": "P0DT0H70M",
+          "recipeYield": "4 stuffed pepper halves",
+          "recipeIngredient": [
+            "nonfat cooking spray",
+            "1 tablespoon olive oil",
+            "1 pound ground turkey",
+            "½ cup diced onion",
+            "3 tablespoons diced fresh jalapeno pepper, or to taste",
+            "2 cloves garlic, chopped",
+            "2 cups frozen cauliflower rice (such as Green Giant®)",
+            "1 (14.5 ounce) can diced tomatoes, undrained",
+            "1 (8 ounce) can tomato sauce",
+            "½ cup water",
+            "2 teaspoons sambal oelek chili paste",
+            "½ teaspoon salt",
+            "½ teaspoon freshly ground black pepper",
+            "2 large bell peppers, any color - cut in half lengthwise, cored, and seeded",
+            "4 (1 inch) cubes Colby-Jack cheese",
+            "aluminum foil",
+            "⅓ cup shredded Colby-Jack cheese",
+            "4 teaspoons reduced-fat sour cream",
+            "8 slices pickled jalapeno peppers"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Preheat the oven to 375 degrees F (190 degrees C). Spray a baking dish with cooking spray.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Heat olive oil in a large skillet over medium heat. Stir in ground turkey, onion, jalapeno, and garlic. Cook and stir until turkey browns and vegetables are tender, 8 to 10 minutes. Drain grease from the skillet. Add frozen riced cauliflower, tomatoes, tomato sauce, water, chili paste, salt, and pepper; stir until well incorporated.  Reduce heat and simmer for 5 minutes.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Place bell pepper halves in the prepared baking dish. Place 1 Colby-Jack cheese cube in each pepper half, and fill with turkey mixture. Spoon remaining turkey mixture into the dish around the peppers.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Cover dish with aluminum foil, and bake in the preheated oven for 30 minutes. Remove foil and sprinkle each pepper with shredded Colby-Jack cheese. Bake, uncovered, until peppers are soft and cheese has melted, about 10 minutes more.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "To serve, spoon a little turkey mixture onto a plate, and place a bell pepper half on top of it. Top each serving with 1 teaspoon sour cream and 2 jalapeno slices.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Main Dish Recipes",
+            "Stuffed Main Dish Recipes",
+            "Stuffed Bell Pepper Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "lutzflcat"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.909090909090909,
+            "ratingCount": 11,
+            "itemReviewed": "Low Carb Turkey-Stuffed Peppers",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "462.8 calories",
+            "carbohydrateContent": "21.6 g",
+            "cholesterolContent": "130.1 mg",
+            "fatContent": "27.2 g",
+            "fiberContent": "6.4 g",
+            "proteinContent": "36.4 g",
+            "saturatedFatContent": "12.5 g",
+            "servingSize": null,
+            "sodiumContent": "1313.5 mg",
+            "sugarContent": "8.4 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2020-05-04T03:29:59.553Z",
+              "reviewBody": "Amazing!! My husband loved, loved, loved them. He didn't even notice he was eating KETO recipe. I modified the recipe by adding Las Palmas chili sauce instead of tomato sauce; also added cheese to the turkey meat mixture. Will definitely do again",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Sasha",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/25316298/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-11-17T23:02:17.56Z",
+              "reviewBody": "I added sliced portobello mushrooms because I love them and used Victoria White Linen Marinara. I couldn t find the chili paste so I used red pepper flakes and chili powder. This recipe is really easy has a lot of flavor and makes a lot of leftovers.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "wintuk03",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3801832/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-04-26T00:54:25.663Z",
+              "reviewBody": "I used chili powder instead of paste. My 3 year old loved it!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Amy",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/27413020/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-05-13T04:41:29.63Z",
+              "reviewBody": "Really good! I made it exactly as instructed (er.... except I did 5 cloves of garlic... hehehe) since I’ve never made anything like this before and I’m a novice cook. I’m not on keto but just a wanted something tasty and healthy. I usually don’t like cauliflower but the cauliflower rice was well incorporated and didn’t bother me at all. The only thing is that I would like to find a way to make the sauce of the mixture just a little bit thicker next time (maybe slightly less water or a little bit of some kind of thickener? Or let it simmer a bit longer?). Sorry my picture isn’t great, the red plates we have don’t make food the most photogenic. Anyway it was delicious and I’d definitely make it again even if I can’t thicken it.\n\nUpdate: I had extra mixture when making this recently (I bought the peppers a couple days ahead and one went bad so I could only make two rather than four) and I just added some of it to some leftover spaghetti. Delicious!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "evilhag",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/evilhag/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-02-23T22:27:56.89Z",
+              "reviewBody": "Loved it! I probably wouldn’t add water next time, because my personal preference is for a thicker sauce.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "beth",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/28141938/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-04-12T20:12:38.593Z",
+              "reviewBody": "We really enjoyed this!  I did not add the water and it came out fine. I used Swiss cheese in each pepper and  mozzarella  on top.  Will make this again",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Cinde",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/24430635/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-07-21T04:47:11.583Z",
+              "reviewBody": "Delicious and easy to make. Had no chili paste so used chili powder, didn't add water, and added an extra clove of garlic. Great recipe!!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Adele for Mich",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/27817572/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-01-30T06:15:37.023Z",
+              "reviewBody": "FANTASTIC and easy ! And GOOD you.  Vanessa",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Vanessa McGregor",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/28897638/"
+              }
+            }
+          ]
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                "name": "Meat and Poultry Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+                "name": "Chicken",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/",
+                "name": "Chicken Breast Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/276887/copycat-fried-chicken-sandwich/",
+          "name": "Copycat Fried Chicken Sandwich",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7219742.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Copycat Fried Chicken Sandwich"
+          },
+          "datePublished": "2019-10-30T21:27:50.000Z",
+          "description": "I tried to make a copycat Popeyes® fried chicken sandwich and ended up with a hybrid between that and the one from Chick-fil-A®. So you get the best of both worlds and what's more, this DIY version never runs out, not even on Sundays.",
+          "prepTime": "P0DT0H20M",
+          "cookTime": "P0DT0H5M",
+          "totalTime": "P0DT2H40M",
+          "recipeYield": "4 sandwiches",
+          "recipeIngredient": [
+            "1 cup buttermilk",
+            "2 teaspoons kosher salt",
+            "1 dash hot sauce, or to taste",
+            "1 tablespoon dry ranch dressing mix (such as Hidden Valley Ranch®)",
+            "4 (5 ounce) skinless, boneless chicken breast halves",
+            "1 ⅓ cups all-purpose flour",
+            "2 tablespoons cornstarch",
+            "2 teaspoons kosher salt",
+            "½ teaspoon freshly ground black pepper",
+            "1 ½ teaspoons cayenne pepper",
+            "1 tablespoon dry ranch dressing mix (such as Hidden Valley Ranch®)",
+            "1 large egg, beaten",
+            "½ cup buttermilk",
+            "¼ cup milk",
+            "canola oil for frying",
+            "4 soft hamburger buns, toasted and buttered",
+            "6 tablespoons mayonnaise, or to taste",
+            "12 dill pickle slices, or to taste"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Whisk buttermilk, salt, hot sauce, and ranch dressing mix together in a large bowl. Cut diagonal slits into the thick ends of chicken breasts and toss into marinade until well coated. Transfer to the refrigerator to marinate for 2 to 4 hours.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Meanwhile, make the breading: Mix flour, cornstarch, salt, pepper, cayenne, and ranch dressing mix together in a shallow dish.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Make the wash: Whisk egg, buttermilk, and milk together in another bowl until combined.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Use a fork to pull chicken from marinade, letting any excess drip off. Dip into the breading to coat both sides; shake off any excess. Dip into egg wash mixture to saturate surface; return to breading to coat, shake off excess, and repeat once more. Let sit on a wire rack to dry, at least 15 minutes.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Heat oil in a deep-fryer to between 350 degrees F (175 degrees C) and 375 degrees F (190 degrees C).\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Fry chicken breasts in the hot oil until golden, crispy, and no longer pink in the centers, 4 to 5 minutes, flipping halfway through. Transfer to a plate topped with crinkled up aluminum foil to prevent bottoms from getting soggy.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Spread mayonnaise over hamburger bun halves. Stuff with pickles and chicken.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Meat and Poultry Recipes",
+            "Chicken",
+            "Chicken Breast Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Chef John"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.64,
+            "ratingCount": 25,
+            "itemReviewed": "Copycat Fried Chicken Sandwich",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "811.1 calories",
+            "carbohydrateContent": "74.6 g",
+            "cholesterolContent": "139.8 mg",
+            "fatContent": "39.6 g",
+            "fiberContent": "3.1 g",
+            "proteinContent": "37 g",
+            "saturatedFatContent": "7.9 g",
+            "servingSize": null,
+            "sodiumContent": "3181.5 mg",
+            "sugarContent": "5.9 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2019-11-12T06:25:49.61Z",
+              "reviewBody": "Very good, simple straightforward and delicious.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Karen Schnebele",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/20065767/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-12-06T08:00:50.377Z",
+              "reviewBody": "wow. we've made this as ordered, but we also used the buttermilk marinade for chicken wings and are REALLY pleased with the results. We haven't been back to that... place since we started making this recipe. If you do it right, it comes out great.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "kristi sprinkle",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/11708480/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-11-14T06:42:18.507Z",
+              "reviewBody": "I'll admit that I did make a couple changes: I used pickle juice instead of buttermilk (didn't have it) to marinate the chicken I didn't add any hot sauce and I forgot to add the ranch mix to the marinade so I split it between the wet and dry coating. I was most impressed by the crunchiness of the batter! I have a go-to Chic-Fil-A copycat recipe that possibly has a slightly better flavor due to the addition of a TB of powdered sugar in the dry batter but it does not achieve the crust that you'll get with this recipe. I really liked the flavor! I definitely recommend marinating your chicken overnight or as long as you can before cooking.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "1111juju1111",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/7185708/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-11-14T08:39:33.11Z",
+              "reviewBody": "I followed this recipe and it does not have the taste of either Popeye's or Chick fil a",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+              },
+              "author": {
+                "@type": "Person",
+                "name": "tadam1000",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/26437675/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-11-29T04:00:18.87Z",
+              "reviewBody": "Made this the way Chef suggested (mostly) and split the recipe two ways to make a mild version for me and a spicy version for my husband. The breading was great but I think next time I will use slightly less cornstarch because I think that might be why the breading comes off the chicken when you bite into it. I didn't really care though the overall seasoning is awesome.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Elizabeth W",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/19569642/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-11-21T08:20:16.887Z",
+              "reviewBody": "This had a breading that was similar to a cross between a Mc chicken sandwich and a Chick-fil-A sandwich. I highly recommend you only use one chicken breast to make two sandwiches. If you prefer the bun a Chick-fil-A sandwich comes on, you really need to use brioche buns and be sure to toast it before assembling your sandwich. Do not be afraid to add the cayenne pepper to your breading. it doesn’t really add any heat, just flavor. I also added hot sauce to mayo. At 40 years old, this is the first fried chicken I have ever successfully made. It is super easy if you follow the recipe. Good luck and Enjoy!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Kimberly Atkinson",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/24966033/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-04-21T02:44:38.487Z",
+              "reviewBody": "So first off, I'm not certain how much this tastes like either Chick-fil-A or Popeye's but it was delicious.  I followed the entire recipe to a T as far as the marinade, wash and breading but made chicken tenders instead of sandwiches using breast tenderloin filets.  We all loved it!!  I cut back a tad on the cayenne pepper so probably only used about 1 tsp and I made my own buttermilk using the milk combined with lemon juice.  The chicken was super moist and the breading extremely flavorful-it didn't even need salt or pepper afterwards.  I served the chicken fingers will ranch, honey mustard and BBQ dipping sauces.  My BF (who's not a huge fan of chicken) said multiple times during dinner \"this chicken is REALLY good\" and even mentioned it twice the following day so I'm taking that as a good sign:). These will most definitely be made again!\nThe only issue I had was the chicken stuck to the wire deep fry basket and lost some coating when I tried to use tongs to get them out.  We switched to a spatula on the last batch which was more efficient altho that's a user failure!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Jmoore10",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/11502352/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-06-10T11:20:34.687Z",
+              "reviewBody": "I made this for my BF who is a fan of the Popeye's spicy chicken sandwich. The only thing I did differently was to use boneless, skinless thighs. He prefers those cuts vs breasts, and it worked out way juicer! I also found a recipe for the spicy mayonnaise which made the man even happier!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "fruitdog",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/8937272/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-10-10T20:47:14.597Z",
+              "reviewBody": "This is a very tasty sandwich that I will definitely make again. I cut the breasts in half horizontally to make two thinner pieces, then pounded them out to 1/2 inch. They fit the jumbo burger buns perfectly. Slather on the mayo,it is great with the chicken and pickle slices. Wish I would have got a pic, oh well next time. And that will be soon. The coating adhered great too!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Autumneyes",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/15792753/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Copycat Fried Chicken Sandwich",
+            "uploadDate": "2019-10-31T14:00:56.461Z",
+            "duration": "PT9M18.208S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2Fe5356708-5a8f-4722-a0c1-bd5985879634%2F7e3fbd42-e773-4768-8cf2-fa7ae452d1b1%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6099193799001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                "name": "World Cuisine Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+                "name": "Asian",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/233/world-cuisine/asian/indian/",
+                "name": "Indian",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/276575/instant-pot-vegan-korma/",
+          "name": "Instant Pot® Vegan Korma",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7159025.jpg",
+            "width": 0,
+            "height": 0
+          },
+          "datePublished": "2019-10-30T23:17:17.000Z",
+          "description": "Spicy and flavorful vegan korma made in an Instant Pot®. There is a bit of preparation as with any korma, but cooking time is reduced, which helps free up time in the kitchen as well as saving the integrity of the ingredients. The result is a dish with larger pieces of vegetables you can sink your teeth into. This is best served with naan bread or brown basmati rice.",
+          "prepTime": "P0DT0H30M",
+          "cookTime": "P0DT0H15M",
+          "totalTime": "P0DT0H55M",
+          "recipeYield": "4 servings",
+          "recipeIngredient": [
+            "1 red onion, quartered, divided",
+            "1 green bird's eye chile pepper, stemmed",
+            "½ cup water, divided",
+            "¼ cup raw cashews",
+            "2 cloves garlic",
+            "2 tablespoons tomato paste",
+            "1 (1 inch) piece fresh ginger",
+            "5 whole cloves",
+            "3 green cardamom pods ",
+            "1 black cardamom pod",
+            "1 bay leaf",
+            "1 teaspoon cumin seeds",
+            "¼ teaspoon whole black peppercorns",
+            "¼ teaspoon ground coriander",
+            "¼ inch cinnamon stick",
+            "¼ cup light vegetable oil",
+            "8 ¾ ounces cauliflower, cut into large pieces",
+            "5 ¼ ounces broccoli, cut into large pieces",
+            "2 tomatoes, cut into large chunks",
+            "1 cup canned chickpeas (garbanzo beans), drained with liquid reserved",
+            "1 carrot, sliced",
+            "1 red bird's eye chile pepper, chopped",
+            "½ tablespoon garam masala",
+            "½ teaspoon ground turmeric",
+            "¼ teaspoon chili powder",
+            "1 cup baby spinach leaves",
+            "1 cup full-fat coconut milk",
+            "½ cup vegan yogurt",
+            "2 ounces roasted cashews, chopped",
+            "½ cup chopped fresh cilantro"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Blend 1/4 of the onion, green chile pepper, 1/4 cup water, cashews, garlic, tomato paste, and ginger together in an electric blender, adding extra water if necessary, until paste is creamy and has the consistency of a pesto. Set aside.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Combine cloves, green and black cardamom pods, bay leaf, cumin seeds, peppercorns, coriander, and cinnamon in a mortar. Smash using a pestle to break open spices slightly, 3 to 4 times. Thinly slice remaining onion quarters.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Turn on a multi-functional pressure cooker (such as Instant Pot®) and select Saute function. Add smashed spice mixture and toast until fragrant, about 30 seconds. Pour in oil followed by cashew pesto, onion slices, cauliflower, broccoli, tomatoes, chickpeas, carrot, red chile pepper, garam masala, turmeric, and chili powder. Stir. Cancel the Saute function. Close and lock the lid.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Select high pressure according to manufacturer's instructions; set timer for 5 minutes. Allow 10 minutes for pressure to build.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes. Unlock and remove the lid. Stir in spinach and mix to help wilt. Stir in coconut milk and yogurt. Mix and serve with roasted cashews and cilantro on top.\n"
+            }
+          ],
+          "recipeCategory": [
+            "World Cuisine Recipes",
+            "Asian",
+            "Indian"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Buckwheat Queen"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.666666666666667,
+            "ratingCount": 3,
+            "itemReviewed": "Instant Pot® Vegan Korma",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "544.4 calories",
+            "carbohydrateContent": "45 g",
+            "cholesterolContent": null,
+            "fatContent": "38.7 g",
+            "fiberContent": "11.8 g",
+            "proteinContent": "12.9 g",
+            "saturatedFatContent": "15.7 g",
+            "servingSize": null,
+            "sodiumContent": "449.1 mg",
+            "sugarContent": "8.3 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2021-01-27T07:21:17.843Z",
+              "reviewBody": "I really liked the cashew paste! I should have kept the veggies in bigger pieces or cooked them less; the broccoli and cauliflower turned to mush for me. Taste and adjust seasoning as you go; I added a lot of salt.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "LauraF",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/lauramf/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-08-17T00:00:52.51Z",
+              "reviewBody": "I made the assumption that the remaining 3/4 onion is added at the same time as the broccoli and cauloflower.\n\nHint: If you make a double recipe, you will use the whole can of tomato paste and the whole can of coconut milk. However, you'll need to cook it in two batches unless your Intant Pot is huge.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Seathrun",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3280804/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-06-12T07:19:26.01Z",
+              "reviewBody": "Wow- that cashew pesto is something else- the flavor is YUMMY.   My IP is wonky- I should have  set the cook time for 2 minutes- at 5 minutes my veggies  on the bottom turned to mush.  The spices were so warm and delicious.   I did have to season with a lot of salt.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "FrackFamily5 CA—>CT",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/frackfamily5/"
+              }
+            }
+          ]
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                "name": "Meat and Poultry Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+                "name": "Chicken",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/662/meat-and-poultry/chicken/whole-chicken/",
+                "name": "Whole Chicken Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/255263/sicilian-roasted-chicken/",
+          "name": "Sicilian Roasted Chicken",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3922864.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Sicilian Roasted Chicken"
+          },
+          "datePublished": "2020-02-19T04:50:29.000Z",
+          "description": "I made up this one to resemble the rotisserie chicken I love so much. It is so expensive here, so here's my version.",
+          "prepTime": "P0DT0H15M",
+          "cookTime": "P0DT1H0M",
+          "totalTime": "P0DT1H15M",
+          "recipeYield": "6 servings",
+          "recipeIngredient": [
+            "cooking spray",
+            "1 whole chicken, cut into 8 pieces",
+            "1 teaspoon salt",
+            "1 teaspoon ground black pepper",
+            "1 teaspoon ground paprika",
+            "1 teaspoon garlic powder",
+            "1 teaspoon dried oregano"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Preheat oven to 425 degrees F (220 degrees C). Grease a 9x13-inch pan with cooking spray.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Arrange chicken pieces in the baking pan. Sprinkle salt, pepper, paprika, garlic powder, and oregano over both sides.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Roast in the preheated oven until chicken is browned and the juices run clear, about 1 hour. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).\n"
+            }
+          ],
+          "recipeCategory": [
+            "Meat and Poultry Recipes",
+            "Chicken",
+            "Whole Chicken Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "BramptonMommyof2"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.606334841628959,
+            "ratingCount": 221,
+            "itemReviewed": "Sicilian Roasted Chicken",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "431.3 calories",
+            "carbohydrateContent": "0.9 g",
+            "cholesterolContent": "145.5 mg",
+            "fatContent": "25.7 g",
+            "fiberContent": "0.4 g",
+            "proteinContent": "46.1 g",
+            "saturatedFatContent": "7.2 g",
+            "servingSize": null,
+            "sodiumContent": "528.4 mg",
+            "sugarContent": "0.2 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2018-02-05T01:31:00.61Z",
+              "reviewBody": "This was just OK for us. Have to be honest, we didn’t care for the strong flavor of paprika. Don’t know why this is called “Sicilian” roasted chicken because paprika is not a spice that is really used in Sicily or any part of Italy for that matter. More like “Hungarian” chicken. I make a similar dish to this without the paprika, but add granulated garlic, onion powder, dried oregano & rosemary, or some already mixed dried Italian seasoning. First step is to  dry the chicken pieces off with paper towels before adding seasonings so it browns up nicely and has a crispy skin. If using all breasts, give them a light brushing with olive oil first. This helps to keep the meat moister.  Then just lay it out on a sheet pan and roast for about 35-45 min at  400°, depending on what kind of oven you have. Mine is convection so takes less time. Easy and delicious.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "VickiefromCa",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/7021690/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2018-02-03T06:58:29.6Z",
+              "reviewBody": "Basically this is a roasted chicken but in parts rather than a whole chicken.  Roasted chicken is so much better tasting than fried chicken.  As for the comment about paprika ( it is a fine crushed red pepper which can be sweet depending on which you use), it is a staple in most Sicilian cooking recipes.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "radfox59",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/5012395/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2018-02-03T01:51:31.177Z",
+              "reviewBody": "Yes, I will make it again.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Elaine Kittler",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/8125788/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2017-06-15T10:00:06.143Z",
+              "reviewBody": "I've made it several times now. Use thighs and legs.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Donna ",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/13398048/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2016-09-08T04:25:37.3Z",
+              "reviewBody": "Simple and yummy! I have to admit that I did just eyeball the seasonings. I used a mix of legs and thighs b/c that's what my family likes the best. Really nice flavors...I will be making this again! Thanks for sharing. :)",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Christina",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/christina/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2018-02-07T06:40:34.833Z",
+              "reviewBody": "I used large chicken Breasts instead of pieces and it turned out great.  Doesn't need quite the time for baking, probably 45 minutes vs an hour.   It made the Chicken very tangy, but not too spicy.  Will keep the recipe and use it again.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Anngabza",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/11921355/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2018-02-07T07:18:13.097Z",
+              "reviewBody": "I used Costco’s chickeb thighs, bone-in, skin-on.  It was so easy I was amazed at how delicious it was.  Both my husband and I are still raving over the yummy simplicity.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "A little more gin",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/12875618/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2018-02-08T08:27:02.91Z",
+              "reviewBody": "Simple to make and delicious! I added a bit of onion powder, but that was the only change I made. My family loved it!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "AnnD",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/20800829/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2018-01-31T07:57:31.233Z",
+              "reviewBody": "I love roast chicken & loved this recipe. So flavorful and delicious!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Bev",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3220549/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Sicilian Roasted Chicken ",
+            "description": "This easy roasted chicken is infused with delicious Sicilian flavors!",
+            "uploadDate": "2020-02-18T20:49:04.436Z",
+            "duration": "PT1M0.075S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F3efb4501-8af8-490e-be3a-ec4766bce46c%2Fdb4ba3ad-b1ec-4d41-87bb-ac83986d0a7f%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6133544046001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                "name": "Meat and Poultry Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/206/meat-and-poultry/turkey/",
+                "name": "Turkey",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/693/meat-and-poultry/turkey/ground/",
+                "name": "Ground Turkey Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/39748/actually-delicious-turkey-burgers/",
+          "name": "Actually Delicious Turkey Burgers",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7818569.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Actually Delicious Turkey Burgers"
+          },
+          "datePublished": "2001-08-28T21:07:20.000Z",
+          "description": "This is a simple and delicious recipe. After making them the first time my husband said 'no more' to beef burgers. These are really good - any cooking method may be used, and they freeze very well. The recipe can also be used for meatballs or meat loaves.",
+          "prepTime": "P0DT0H15M",
+          "cookTime": "P0DT0H15M",
+          "totalTime": "P0DT0H30M",
+          "recipeYield": "12 burgers",
+          "recipeIngredient": [
+            "3 pounds ground turkey",
+            "¼ cup seasoned bread crumbs",
+            "¼ cup finely diced onion",
+            "2 egg whites, lightly beaten",
+            "¼ cup chopped fresh parsley",
+            "1 clove garlic, peeled and minced",
+            "1 teaspoon salt",
+            "¼ teaspoon ground black pepper"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "In a large bowl, mix ground turkey, seasoned bread crumbs, onion, egg whites, parsley, garlic, salt, and pepper. Form into 12 patties.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Cook the patties in a medium skillet over medium heat, turning once, to an internal temperature of 180 degrees F (85 degrees C).\n"
+            }
+          ],
+          "recipeCategory": [
+            "Meat and Poultry Recipes",
+            "Turkey",
+            "Ground Turkey Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Trudi Davidoff"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.580620155038759,
+            "ratingCount": 2580,
+            "itemReviewed": "Actually Delicious Turkey Burgers",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "183.5 calories",
+            "carbohydrateContent": "2.3 g",
+            "cholesterolContent": "89.6 mg",
+            "fatContent": "9.5 g",
+            "fiberContent": "0.2 g",
+            "proteinContent": "20.9 g",
+            "saturatedFatContent": "2.6 g",
+            "servingSize": null,
+            "sodiumContent": "354.5 mg",
+            "sugarContent": "0.3 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2006-07-01T23:39:46.967Z",
+              "reviewBody": "Delicious, but needed enhancements. I added 1/2 cup finely chopped red bell pepper, 10 shakes of Worcesteshire, more garlic, seasoning salt, splash of light soy, dried parsley, a whole egg not just the white. (For those that say your patties fall apart..I have a trick...You add the yolk of the egg as it helps to hold the mix together even when you have them flat as possible. Also put a light coating of flour on the patties just before you cook them ensuring that you shake off the excess flour. The flour helps form a light, crusty exterior and holds the patty and makes it easier to flip.) The egg yolk and extra bell pepper meant I had to add more breadcrumbs and for those who say their mix is sticky, you should probably add more crumbs anyway. How well they hold together in you hand is how well they hold on the pan. Juicy and very tasty.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "AUSSIEMUM1",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1414774/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-01-29T18:00:40.663Z",
+              "reviewBody": "I grilled these on my George Foreman grill, however, I was concerned that the grill would cook the burgers too fast (no heat control).  So what I did was put the burgers on the cold grill, then plug it in.  15 mins later, the burgers were perfect! I cooked three and froze the rest...can't wait to see how they turn out!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "ACB2424",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/859433/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-01-27T15:14:22.7Z",
+              "reviewBody": "I am on a low cholesterol diet.  I am also a carnivore.  I love meat, but have been trying to cut down on fats & load up on fruit, veggies and the occasional red meat.  I found this recipe to be really good with the following additions: 1)  added a few drops of hickory seasoning liquid smoke  2)  add a few drops of Worcestershire sauce, 3) add a small, plastic package of soy sauce, leftover from a Chinese restaurant. This will guarantee that these babies will taste like beef.  I tried this on my equally carnivorous roomie, who proclaimed that due to my dilgent efforts, some can be fooled into thinking they're eating a Quarter Pounder, no cheese, extra onion.  Speaking of onion, shred fine with a shredder.  I used parsley from my garden.  Good going, Trudi!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "OSKRWILDE1",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/225810/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-01-29T18:03:22.273Z",
+              "reviewBody": "These burgers were scrumptious! I'd take them any day over regular hamburgers! (The husband, who's a big turkey fan, adored them too). When I made them, I substituted onion powder for chopped onion, left out the garlic, and added a few tablespoons of soy sauce, a couple teaspoons of worchestershire, and a few shakes of hot sauce. I also used Lawry's seasoning salt instead of regular salt. And I used italian-style bread crumbs. I put these on the grill, and sprinkled a little garlic powder and a little more worchestershire sauce on them as they cooked. I served them topped with lettuce, red onion, ketchup, and mustard, and they were so flavorful and juicy! Some other users said they added mushrooms to keep the burgers from being dry, but i found that the worchestershire will do the job just fine, and adds better flavor!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "LAYZIEBABY",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/845166/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-05-12T03:54:43.527Z",
+              "reviewBody": "I tried this recipe three times...the first time I followed the directions exactly as written and thought that the burgers came out pretty good. The second time (after taking the advice of other users) I added a splash of liquid smoke, a splash of worcestershire sauce, and a splash of soy sauce. This recipe was a little tastier. The third time was definitely the best....instead of 1/4 cup of bread crumbs, I used 3/4 cup of Italian bread crumbs. I used one whole egg instead of two egg whites. I omitted the teaspoon of salt and added 2 Tablespoons of soy sauce instead. I added the splash of liquid smoke and worcestershire. Instead of trying to peel and mince the clove of garlic, I added 1 teaspoon of minced garlic out of the jar. The rest of the recipe (onion, parsley, pepper) I kept the same. Finally...I tried to pan fry the first two times, but grilled them on the BBQ the third time....10X better flavor! The one thing I learned is that you MUST spray the hell out of the grill with Pam to keep the patties from sticking.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "stosh63",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/4262505/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-04-13T19:40:00.727Z",
+              "reviewBody": "Delicious! I used fresh bread crumbs (this helps with the dryness problem others complained of) and seasoned it with a little bit of Italian seasoning.  They were really juicy. \n\nI was also careful to shape them gently (with a slight indentation in the center so that it would not \"puff\") and not press down on them during cooking, so they retained more juices.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "chavela22",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1492742/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-01-29T18:04:50.21Z",
+              "reviewBody": "I have now made this recipe twice, and it was delicious both times.  The first time I had enough left over to make a meatloaf as well.  I combined some tomato sauce, brown sugar, salt and worcestshire sauce and poured it over the loaf in the pan before baking it.  It was great.  I would highly recommend this recipe to someone who may have tried turkey for burgers, but were turned off by the bland texture and taste.  This recipe overcomes all those issues, and is lowfat and healthful, too.  Thanks for the recipe.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Paula",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/184913/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-01-27T15:12:58.78Z",
+              "reviewBody": "I add a generous sprinkle of McCormick's Montreal Steak Seasoning on top of the patties, and they are perfect.  Works well for turkey or beef.  Also, I used Egg Beaters, and could not tell the difference.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MARISSAW",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/242896/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-06-05T13:37:39.873Z",
+              "reviewBody": "Add worchester sauce and seasoning salt. These were very good!!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Michelle Ramey",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/689448/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-06-16T22:36:46.920Z",
+              "reviewBody": "If you are thinking about making these on the grill, DON'T!!! I grilled them and about half of them \"melted\" through the grates.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Amy!",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2293706/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Actually Delicious Turkey Burgers",
+            "description": "These turkey burgers are so tasty, you may just give up beef for good.",
+            "uploadDate": "2012-06-01T17:05:26.980Z",
+            "duration": "PT2M29.483S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F260820f7-ad52-480c-bf2a-e1acda6791e4%2F03eb0ef4-7d32-4e5f-a07a-edb5b69dc15e%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1667757629001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                "name": "Main Dish Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/15455/main-dish/meatballs/",
+                "name": "Meatball Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/17659/main-dish/meatballs/italian-meatballs/",
+                "name": "Italian Meatball Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/274323/natashas-out-of-this-world-instant-pot-meatballs/",
+          "name": "Natasha's Out-Of-This World Instant Pot® Meatballs",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8716309.jpg",
+            "width": 0,
+            "height": 0
+          },
+          "datePublished": "2019-06-30T10:26:29.000Z",
+          "description": "These are such amazing Instant Pot® meatballs that will melt in your mouth the good way! Serve over noodles, rice, or on a sandwich roll!",
+          "prepTime": "P0DT0H15M",
+          "cookTime": "P0DT0H20M",
+          "totalTime": "P0DT0H40M",
+          "recipeYield": "10 servings",
+          "recipeIngredient": [
+            "1 pound ground beef",
+            "1 pound ground pork",
+            "1 small onion, finely chopped",
+            "1 tablespoon minced garlic",
+            "1 tablespoon Italian seasoning",
+            "salt and ground black pepper to taste",
+            "1 ¼ cups bread crumbs",
+            "¼ cup milk, or more as needed",
+            "2 tablespoons mayonnaise",
+            "3 (30 ounce) jars marinara sauce, or as needed",
+            "1 cup water"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Combine beef, pork, and onions in a large bowl using your hands or a spoon. Halfway through mixing, add garlic, Italian seasoning, salt, and pepper and mix well.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Combine bread crumbs, milk, and mayonnaise in a small bowl until you get a thick consistency, adding more milk if needed. Mix into meat mixture until thoroughly combined.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Form golf ball-sized meatballs and place on a plate or a pan.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Combine marinara sauce and water in a multi-functional pressure cooker (such as Instant Pot&reg;). Place meatballs in sauce, making sure meatballs are covered at all times, adding sauce and stirring if needed. Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 10 minutes. Allow 10 to 15 minutes for pressure to build.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid. An instant-read thermometer inserted into the center of a meatball should read at least 165 degrees F (74 degrees C).\n"
+            }
+          ],
+          "recipeCategory": [
+            "Main Dish Recipes",
+            "Meatball Recipes",
+            "Italian Meatball Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "NatashaPattonII"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "ratingCount": 1,
+            "itemReviewed": "Natasha's Out-Of-This World Instant Pot® Meatballs",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "475 calories",
+            "carbohydrateContent": "45.8 g",
+            "cholesterolContent": "64.4 mg",
+            "fatContent": "21.8 g",
+            "fiberContent": "7.5 g",
+            "proteinContent": "22.3 g",
+            "saturatedFatContent": "6.9 g",
+            "servingSize": null,
+            "sodiumContent": "1215.8 mg",
+            "sugarContent": "23.7 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2020-11-11T03:52:51.703Z",
+              "reviewBody": "Delicious and easy. I made a little less than half a recipe an used one jar of sauce.  I think a full recipe with 3 jars and maybe a little more water would be perfect",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Linda T",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/lindat/"
+              }
+            }
+          ]
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "Article",
+          "headline": "12 One-Pot Broccoli Main Dishes for Easy, Complete Meals",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2017%2F10%2F620660-Ham-and-Broccoli-Bake-Photo-by-dustysun-resized.jpg",
+              "width": 650,
+              "height": 465,
+              "caption": "Photo by dustysun"
+            }
+          ],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Carl Hanson"
+            }
+          ],
+          "publisher": {
+            "@type": "Organization",
+            "name": "Allrecipes",
+            "url": "https://www.allrecipes.com",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.allrecipes.com/img/logo.png",
+              "width": 209,
+              "height": 60
+            },
+            "sameAs": [
+              "https://www.facebook.com/allrecipes",
+              "https://twitter.com/Allrecipes",
+              "https://www.pinterest.com/allrecipes/",
+              "https://www.instagram.com/allrecipes/"
+            ]
+          },
+          "datePublished": "2020-04-20T20:39:15.000Z",
+          "dateModified": "2020-04-20T23:55:54.000Z",
+          "description": "<p>Get your healthy broccoli the easy way! These all-in-one broccoli-based recipes are complete meals. Some get it done with a sheet pan, others a skillet, pie pan, or casserole dish. But the bottom line: all you'll need is one dish to make these delicious and diverse meals.</p>",
+          "mainEntityOfPage": "https://www.allrecipes.com/gallery/one-pot-broccoli-main-dishes/"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "ItemList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "url": "https://www.allrecipes.com/recipe/241287/baked-italian-chicken-dinner/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "url": "https://www.allrecipes.com/recipe/245666/healthy-broccoli-cheese-bake/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "url": "https://www.allrecipes.com/recipe/8854/broccoli-chicken-divan/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "url": "https://www.allrecipes.com/recipe/74437/hummus-pizza/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "url": "https://www.allrecipes.com/recipe/25644/ham-potato-and-broccoli-casserole/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "url": "https://www.allrecipes.com/recipe/24148/easy-broccoli-quiche/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "url": "https://www.allrecipes.com/recipe/20962/broccoli-lasagna/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "url": "https://www.allrecipes.com/recipe/211166/ham-and-broccoli-bake/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "url": "https://www.allrecipes.com/recipe/8965/broccoli-chicken-casserole-i/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "url": "https://www.allrecipes.com/recipe/256554/chicken-sausage-gnocchi-skillet/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "url": "https://www.allrecipes.com/recipe/272257/cheesy-bacon-pasta-bake-with-broccoli-crumble/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "url": "https://www.allrecipes.com/recipe/256394/healthy-steak-stir-fry/"
+            }
+          ]
+        }
+      ]    
+    ]
+        

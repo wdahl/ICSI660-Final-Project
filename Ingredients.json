@@ -1,0 +1,3580 @@
+    [
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                "name": "Ingredients",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+                "name": "Vegetables",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/918/side-dish/vegetables/asparagus/",
+                "name": "Asparagus",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/17426/side-dish/vegetables/asparagus/baked/",
+                "name": "Baked",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/214931/oven-roasted-asparagus/",
+          "name": "Oven-Roasted Asparagus",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2017%2F01%2F1001600-Oven-Roasted-Asparagus-Photo-by-Kims-Cooking-Now-resize.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Oven-Roasted Asparagus"
+          },
+          "datePublished": "2020-05-20T00:44:17.000Z",
+          "description": "Salty and savory, the roasting method kills the natural bitterness of asparagus.  Try it next to grilled fish or lamb.",
+          "prepTime": null,
+          "cookTime": null,
+          "totalTime": null,
+          "recipeYield": "4 servings",
+          "recipeIngredient": [
+            "1 bunch thin asparagus spears, trimmed",
+            "3 tablespoons olive oil",
+            "1 ½ tablespoons grated Parmesan cheese",
+            "1 clove garlic, minced",
+            "1 teaspoon sea salt",
+            "½ teaspoon ground black pepper",
+            "1 tablespoon lemon juice"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Preheat an oven to 425 degrees F (220 degrees C).\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Place the asparagus into a mixing bowl, and drizzle with the olive oil. Toss to coat the spears, then sprinkle with Parmesan cheese, garlic, salt, and pepper. Arrange the asparagus onto a baking sheet in a single layer.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Bake in the preheated oven until just tender, 12 to 15 minutes depending on thickness. Sprinkle with lemon juice just before serving.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Side Dish",
+            "Vegetables",
+            "Asparagus",
+            "Baked"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "swedishmilk"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.790390196710739,
+            "ratingCount": 3101,
+            "itemReviewed": "Oven-Roasted Asparagus",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "123 calories",
+            "carbohydrateContent": "5.2 g",
+            "cholesterolContent": "1.7 mg",
+            "fatContent": "10.8 g",
+            "fiberContent": "2.4 g",
+            "proteinContent": "3.3 g",
+            "saturatedFatContent": "1.8 g",
+            "servingSize": null,
+            "sodiumContent": "471.4 mg",
+            "sugarContent": "2.2 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2010-07-16T17:20:01.397Z",
+              "reviewBody": "I make this all the time, and it's unbelievably good!  I use this recipe exactly, except I've never tried it with garlic.  I'm going to try it next time! Also, instead of tossing the asparagus with the parmesan, I toss with all the other ingredients and lay in a single layer, then sprinkle the parmesan all over the top.  I bake mine at 350 degrees for 10-12 minutes, depending on the thickness of the asparagus.  Oh, and a hint: if you line the baking sheet with aluminum foil, there's hardly any clean up!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Jen",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3770396/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-02-16T01:17:09.363Z",
+              "reviewBody": "I prepared the asparagus exactly as the recipe indicated, including all the optional ingredients.  It was delicious, but very salty.  I recommend reducing the salt to 1/2 tsp or 1/4 tsp.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Alice A",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/4284155/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-07-12T23:34:55.48Z",
+              "reviewBody": "I make asparagus this way all the time!  Didn't know it could taste so good!  Do add the garlic though...I don't use the lemon juice.  400 degrees for 10 minutes works in my oven.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "tammy t",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2330660/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-03-22T21:34:41.413Z",
+              "reviewBody": "Best way I've cooked asparagus yet!  I coated the asparagus with everything but the parmesan cheese.  Then when I put it on a foil lined cookie sheet, I sprinkled the cheese.  When it cooked the cheese got crispy and gave it a kind of deep fried texture.  It was great, and easy and will make it this way everytime.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "tascott75",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/6702180/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-06-18T02:07:41.263Z",
+              "reviewBody": "Optional Parmesan, garlic, and lemon juice - a definite yes to all three! This is excellent and turned out perfectly.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "naples34102",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/naples34102/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-09-30T22:16:13.397Z",
+              "reviewBody": "Nice recipe, however I prefer my asparagus to be a little crisper. 12 minutes was too long for the thick stalks I had... 8 minutes would be about right at 425.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MOLLE888",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/molle888/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-10-11T17:39:24.78Z",
+              "reviewBody": "A tasty, easy-to-prepare asparagus recipe. Like other reviewers I would say 12 minutes is altogether too long for thin stalks. Six to eight minutes works for me. I added all the optional ingredients, except the lemon juice, halved the salt and oil (there was lots) and served with Salmon with Brown Sugar Glaze (also from this site). Thanks for the recipe.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Barb A.",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2377088/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-11-02T01:54:25.16Z",
+              "reviewBody": "Be sure to follow the footnote tip to remove tough part of stem by snapping the asparagus in two.  The fresher it is, the better this works, so I do this as soon as I get home from the store (also makes weeknight cooking quicker & easier when I am ready to make).  I also like to line the baking sheet with aluminum foil for easy clean up.  Instead of tossing with olive oil I spray with cooking spray after the asparagus is spread in an even layer on the sheet.  I promise it tastes just as good.  Then I sprinkle with coarse salt & fine pepper (sprinkle from up high to more evenly distribute the seasonings).",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Carmen Cavanaugh",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/4028265/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2012-09-14T22:41:42.337Z",
+              "reviewBody": "I used fresh long green beans instead of asparagus, because the asparagus was out of season. delicious!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "LoveJoy",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/7969037/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2012-01-04T14:46:50.730Z",
+              "reviewBody": "I used half the salt and still it was way to salty. otherwise it was good.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+              },
+              "author": {
+                "@type": "Person",
+                "name": "food friend",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2985575/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Oven-Roasted Asparagus",
+            "description": "This easy technique makes asparagus tangy and savory. Enjoy!",
+            "uploadDate": "2012-10-06T18:49:13.123Z",
+            "duration": "PT2M47.334S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F7aec9997-6b00-4a22-9c5c-7e6e70f43a5a%2F4601afd8-2cbb-43da-b3ef-d3ef6147f316%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1882448396001"
+          }
+        }
+      ],
+
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                "name": "Ingredients",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+                "name": "Cookies",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/16394/desserts/cookies/drop-cookies/",
+                "name": "Drop Cookie Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/",
+          "name": "Best Chocolate Chip Cookies",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2019%2F12%2Fbest-chocolate-chip-cookies.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Best Chocolate Chip Cookies"
+          },
+          "datePublished": "1998-04-18T20:10:32.000Z",
+          "description": "Crisp edges, chewy middles.",
+          "prepTime": "P0DT0H20M",
+          "cookTime": "P0DT0H10M",
+          "totalTime": "P0DT0H60M",
+          "recipeYield": "4 dozen",
+          "recipeIngredient": [
+            "1 cup butter, softened",
+            "1 cup white sugar",
+            "1 cup packed brown sugar",
+            "2 eggs",
+            "2 teaspoons vanilla extract",
+            "1 teaspoon baking soda",
+            "2 teaspoons hot water",
+            "½ teaspoon salt",
+            "3 cups all-purpose flour",
+            "2 cups semisweet chocolate chips",
+            "1 cup chopped walnuts"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Preheat oven to 350 degrees F (175 degrees C).\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water.  Add to batter along with salt. Stir in flour, chocolate chips, and nuts. Drop by large spoonfuls onto ungreased pans.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Bake for about 10 minutes in the preheated oven, or until edges are nicely browned.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Dessert Recipes",
+            "Cookies",
+            "Drop Cookie Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Dora"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.615166823960473,
+            "ratingCount": 18013,
+            "itemReviewed": "Best Chocolate Chip Cookies",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "297.8 calories",
+            "carbohydrateContent": "38.9 g",
+            "cholesterolContent": "35.8 mg",
+            "fatContent": "15.6 g",
+            "fiberContent": "1.6 g",
+            "proteinContent": "3.6 g",
+            "saturatedFatContent": "7.8 g",
+            "servingSize": null,
+            "sodiumContent": "165.8 mg",
+            "sugarContent": "25.1 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2008-01-02T00:46:13.45Z",
+              "reviewBody": "vERRY eXXCELLENT cOOOKIE! I worked 10 years as a baker and the recipe we used at the bake shop was similar except this recipe didn't call for any cream of tartar, so I added it to my version. I added 1/2 tspn. What it does is make the cookie crack better when baking which gives it a better appeal in appearance as appose to that smooth top looking cookie which I don't like. It doesn't do anything for flavor so if you don't care about whether its smooth or cracked then don't bother with the suggestion.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Chuck Sampson",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/lifetastegood/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-01-20T16:00:20.87Z",
+              "reviewBody": "If it's even possible, I found a way to make these even better!!  I ran out of flour, so I used 2 cups all purpose and 1 cup of ground oatmeal (Put it in the blender until ground fine like flour).  The result was amazing.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MARGIEBOZ",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1440807/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2006-09-17T12:03:00.78Z",
+              "reviewBody": "This is the perfect chocolate chip cookie!!  Crispy on the outside and chewy on the inside!!  For added flavor I also add l cup of white chocolate chips (try the brand that Aldi's carries...wonderful....better then Nestles!!) Some have stated that their cookies were too cakelike, this is caused by the addition of too much flour.  To help prevent this, spoon flour into measuring cup, leveling off with knife, rather then dipping cup into flour. Roll dough into walnut size balls.  Be careful not to overbake, I decrease my oven temperature to 325 and bake for l0 minutes.  I have tried dozens of chocolate chip cookie recipes over the years, this one is far superior to any of them!! Makes 4 dozen. Thanks for sharing.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "ANGELFROMHEAVEN",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1038997/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-02-16T03:37:46.537Z",
+              "reviewBody": "Hi my name is bekah I am 9 years old. I made these cookies by myself and everyone in my family loved them very much.  My mom said that she cant make cookies these good!  They rose so much and they were delicious!!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Becca",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2287831/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-02-19T01:25:14.433Z",
+              "reviewBody": "Looking over the ingredients list and the measurements of each, I recognized this as your fairly standard, classic chocolate chip cookie recipe--and I expected fairly standard results. I was baking in our second home today, where I have a convection oven (which I remain somewhat unfamiliar with). I don't know if it was the convection oven or something else I'm missing, but these did not turn out to be fairly standard chocolate chip cookies! Rather, they were some of the best I've ever tried. First of all, they stay uniform in shape and size, which is important to me, and they're just the right thickness--not poofy little cakes, and not flat and spread out. They're rich and buttery, with crispy outsides, and a soft but chewey inside. I didn't bother to mix the baking soda in the 2 tsp. hot water, just mixed it in with the flour--I also added 1/2 tsp. salt to heighten flavor. Since 2 tsp. of water was called for that I didn't use, I \"upped\" the vanilla to a full tablespoon. I also used milk chocolate chips this time around, but that surely can't account for why these were so darn good and so pretty either. I'm so proud of how these turned out and I'll be proud to send them with my husband tomorrow to his meeting. If not \"Best Chocolate Chip Cookies,\" this recipe is certainly ONE of the best!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "naples34102",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/naples34102/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-02-05T03:07:16.853Z",
+              "reviewBody": "These were fantastic cookies, without a doubt. I did lessen the white sugar to 1/2 cup and increase the brown sugar to 1 1/2 cups for a richer flavor. I also recommend using Trader Joe's Vanilla Paste, but that's just a preference. However, if you want the perfect cookie, be sure to chill your dough for at least an hour (2 hours is better) and they will come out even. I baked at 325 for about 12 minutes. On Silpat or parchment paper, they'll turn out fabulous every time. I am sending them to work with my fiance to keep me from eating three dozen of them! :)",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "wordwench",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1867717/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-12-03T03:28:06.26Z",
+              "reviewBody": "THESE COOKIES ARE LIFE-CHANGING. The best I've ever tasted in 25 years of baking.  They have the right balance of flavor and texture. HERE'S A FEW TIPS TO GUARANTEE PERFECTION:  1.  Replace 1 to 1 1/2 cups all-purpose flour with oatmeal flour (oatmeal that's been processed until powder).  2.  Take cookies out of the oven before they appear fully cooked, and let them stay on the cookie sheet for at least ten minutes.  Cookies allowed to cool on the cookie sheet are much chewier.  3.  I find dissolving the baking soda in water is unneccesary, they come out perfect regardless though I still added the spoon of hot water.  4.  Use salted butter in this recipe in addition to the salt called for. 5. This dough freezes well.  I double it, roll half into one-inch balls then freeze so I can have ready made cookie dough balls to bake another time.   ",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Harriet",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1338287/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2005-11-17T23:41:13.467Z",
+              "reviewBody": "I've tried a lot of different chocolate chip cookie recipes and this is the best one by far!  The only change I've made is to the sugar amounts: 1/2 cup white sugar and 1 1/2 cups brown sugar-I think it makes them chewier.  I omit the nuts and in my oven they take about 12 minutes to bake.  So yummy!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Jen Gerbrandt",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1396921/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2006-01-05T14:43:10.67Z",
+              "reviewBody": "These chocolate chip cookies were very, very good.  I have been trying chocolate chip cookie recipes forever to find the perfect cookie and this one is very close.  They weren't too cake-like and they weren't thin and greasy, they were the perfect in-between cookie.  That said, the dough is very thick once you mix all the ingredients together.  A bit of advice - if you like a thinner cookie and not so cake-like, make a smaller ball of dough and when you place it on the cookie sheet be sure to flatten it quite a bit as the dough doesn't seem to spread when in the oven.  If you like thick cookies, just leave them in the ball and they'll stay big.  As the recipe states, they are crisp on the outside and chewy on the inside - still nice and moist the following day.  I added some Skor toffee bits to the recipe and they turned out amazing - will definitely make again!!  Thanks for sharing.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "SPORTSNUT",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1117966/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-10-24T01:00:50.923Z",
+              "reviewBody": "Make sure you BARELY brown these cookies as they get hard as a rock if you cook much past that.  Of course i love gooey-soft cookies.  If you like very very crunchy cookies these are good, try to make them thinner or they will break your teeth the day after! ",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+              },
+              "author": {
+                "@type": "Person",
+                "name": "SAWASEWA",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1350901/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Best Chocolate Chip Cookies",
+            "description": "See how to bake the perfect chocolate chip cookie.",
+            "uploadDate": "2012-04-04T07:38:53.771Z",
+            "duration": "PT3M4.309S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F903056c9-3215-407c-920a-d8eb13c1500e%2Fd411fe2c-f104-4ab0-8f8d-d75a7dceecce%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1545961130001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                "name": "World Cuisine Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                "name": "European",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+                "name": "Italian",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/",
+          "name": "World's Best Lasagna",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2020%2F07%2F11%2Fworlds-best-lasagna.jpeg",
+            "width": null,
+            "height": null,
+            "caption": "World's Best Lasagna"
+          },
+          "datePublished": "2000-10-30T14:21:32.000Z",
+          "description": "It takes a little work, but it is worth it.",
+          "prepTime": "P0DT0H30M",
+          "cookTime": "P0DT2H30M",
+          "totalTime": "P0DT2H75M",
+          "recipeYield": "12 servings",
+          "recipeIngredient": [
+            "1 pound sweet Italian sausage",
+            "¾ pound lean ground beef",
+            "½ cup minced onion",
+            "2 cloves garlic, crushed",
+            "1 (28 ounce) can crushed tomatoes",
+            "2 (6 ounce) cans tomato paste",
+            "2 (6.5 ounce) cans canned tomato sauce",
+            "½ cup water",
+            "2 tablespoons white sugar",
+            "1 ½ teaspoons dried basil leaves",
+            "½ teaspoon fennel seeds",
+            "1 teaspoon Italian seasoning",
+            "1 ½ teaspoons salt, divided, or to taste",
+            "¼ teaspoon ground black pepper",
+            "4 tablespoons chopped fresh parsley",
+            "12 lasagna noodles",
+            "16 ounces ricotta cheese",
+            "1 egg",
+            "¾ pound mozzarella cheese, sliced",
+            "¾ cup grated Parmesan cheese"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned. Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Season with sugar, basil, fennel seeds, Italian seasoning, 1 teaspoon salt, pepper, and 2 tablespoons parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water.  In a mixing bowl, combine ricotta cheese with egg, remaining parsley, and 1/2 teaspoon salt.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Preheat oven to 375  degrees F (190 degrees C).\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish.  Arrange 6 noodles lengthwise over meat sauce. Spread with one half of the ricotta cheese mixture. Top with a third of mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese.  Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Cool for 15 minutes before serving.\n"
+            }
+          ],
+          "recipeCategory": [
+            "World Cuisine Recipes",
+            "European",
+            "Italian"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "John Chandler"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.797293108792231,
+            "ratingCount": 19358,
+            "itemReviewed": "World's Best Lasagna",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "448.2 calories",
+            "carbohydrateContent": "36.5 g",
+            "cholesterolContent": "81.8 mg",
+            "fatContent": "21.3 g",
+            "fiberContent": "4 g",
+            "proteinContent": "29.7 g",
+            "saturatedFatContent": "9.9 g",
+            "servingSize": null,
+            "sodiumContent": "1400.4 mg",
+            "sugarContent": "8.6 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2007-11-04T22:17:35.077Z",
+              "reviewBody": "Excellent and Authentic recipe!  A little more work and ingredients, but well worth it.  Use FRESH basil for more flavor - I use about 1/2 - 2/3 cup fresh chopped basil.  It cooks down and is sooo aromatic.  The mix of sausage and beef is sublime, so no need for more salt.  I always add a dash of nutmeg to the ricotta mixture (an old italian secret!).  I usually make this a day ahead for the flavors and herbs to meld in the fridge then let it sit at room temperature for about 1 hour before baking. Have made for company too, and always get RAVES on it's authenticity.  Great, winter comfort food and feeds a lot of people.  Another tip for lasagna makers - no need to wash another pot to boil noodles.  Soak raw, hard noodles in a large bowl of very hot tap water for 20-30 min.  Noodles won't be cooked but soft, and can complete it's cooking in the oven.  I learned this from a caterer - try it!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MommyFromSeattle",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/857169/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2006-12-01T01:07:53.797Z",
+              "reviewBody": "I made this recipe using some tips and tricks from previous reviewers and from my experience having worked in an italian restaurant.  This recipe does not have to be as time intensive as is recommended in the instructions.  As another reviewer noted, it is not necessary to cook the noodles--just soak them in hot water while you are cooking the rest of the ingredients.  You also do not need to cook the sauce.  Sounds bizarre, but it's true.  If you make the lasagna ahead and leave it in the fridge overnight, the flavors blend perfectly, no cooking required.  For a chunkier tomato sauce, I subbed 1/2 of the crushed tomatoes with diced italian-flavored tomatoes.  I layered everything in this order: sauce-noodles-ricotta mixture-sauce-meat-shredded mozzerella...i did 3 layers like this and then finished with a layer of noodles, sauce and shredded mozzerella and a generous sprinkling of parmesean on top.  Following this method, I had the whole thing put together and in the fridge in less than an hour.  It sat overnight and my husband had it in the oven when I got home from work.  Fantastic recipe!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "wingingit",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2055855/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-01-06T16:10:16.623Z",
+              "reviewBody": "WOW! This really is World's Best Lasagna! From reading all the reviews, I made these changes: Added an additional 1/2 pound of ground meat, omitted the salt, doubled the onions, all the spices, the parsley, canned tomatoes, paste, and sauce. I also doubled the filling ingredients and made three layers instead of two. Everyone raved about the lasagna and I have sauce left over for another use. \r\nSIDE NOTE: For anyone who thinks they don't like ricotta cheese: Buy it at an Italian market. Brands such as Sierra or Polly-O. There is no comparison to the taste or texture of supermarket brands. I think that's why I see recipes with regular cottage cheese instead of riccota. I don't use supermarket riccota under any circumstances, it's just plain nasty!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "LYNN LUKE",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/462812/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-01-27T20:15:51.873Z",
+              "reviewBody": "I've convinced 3 (now-ex) boyfriends, my husband, and even a couple Italian friends at school that I make the most incredible lasagna they've ever tasted with this recipe. I make it pretty much as shown, except if I have the time, I let the sauce simmer on the stove as long as possible. I also add a bit of whatever red wine I have on hand to the sauce. And I try to make a double recipe, so I can use the sauce for other things - it works wonderfully for Chicken Parmesan, plain ol' spaghetti, and anywhere else you'd use a red sauce.\r\n\r\nEverything tastes better the second day, too. Oh, one more thing - I never boil my noodles. I simply buy regular dried noodles, and make sure I have plenty of sauce in the lasagna. It cooks long enough that the noodles boil in the oven, and you end up with a lasagna that isn't runny and holds its shape well.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Zanne",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/zannetastic/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-05-01T14:57:44.5Z",
+              "reviewBody": "I read all the reviews and really followed \"Cookerbob\"'s advise. Here's what I changed: used 1 lb. LEAN gr. beef tripled the garlic reduced sugar to 1 T. reduced salt to 1 t. used 9 lasagna noodles per pan and used 1 pound mozzarella (shredded) cheese per pan. I read the reviews about omitting the fennel and I have to disagree. I believe the fennel is one of the ingredients that makes this dish outstanding. I made the sauce the day before and simmered for 6 hours. Sounds like a lot of work but come on! How hard is it to check a pot simmering??! I had enough sauce for 2 pans of lasagna so that's what I did. Made 2 baked one and froze the other. I just finally made my frozen one yesterday. I allowed it to thaw in the fridge overnight and then baked as directed. Just as delicious as the first batch!!! My hubby is a lasagna snob and says this is the best lasagna recipe ever. I totally agree!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "FIGHTPILOTSWIFE",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/943966/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-10-11T17:49:47.937Z",
+              "reviewBody": "I was so disappointed with this lasagna! I won't be using this recipe again. With such a high rating, I thought it would taste better. I followed the recipe exactly, except that I only used 1/3 of the salt called for. (One serving of the original recipe is almost a full daily allowance of sodium.) It was still too salty. It tasted like something you'd buy in the freezer section at the grocery store. Why waste all that time making it at home if it doesn't taste any better than the manufactured stuff and isn't any healthier? There also seemed to be too much sauce and not enough of the ricotta mixture or mozzarella. Suggestions: 1. Leave out the added salt altogether. There's already enough salt in the sausage, parmesan and canned tomato products to season everything. 2. Drain the meat after browning and before adding anything else. All that saturated fat does nothing to improve the flavor. 3. Use oregano instead of Italian seasoning and leave out the fennel. Italian sausage already has fennel in it. 4. Leave out one of the cans of tomato paste. The condensed tomato flavor was so strong it drowned out the spices. 5. Use a full 16-oz block of mozzarella, and grate it instead of slicing it. You'll get more even coverage. 6. Double the ricotta mixture (ricotta, egg, parsley). 7. (Optional) Replace the 1/2 cup of water with 1/2 cup of red wine, preferably chianti or cabernet sauvignon.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+              },
+              "author": {
+                "@type": "Person",
+                "name": "METROWESTJP",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1449997/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-03-19T12:38:32.187Z",
+              "reviewBody": "I quadrupled this recipe for 32 men, and it went over so well ... they came back for seconds, and asked for the recipe for their wives ... now how many men do you know that ask for a recipe?  I made a few changes to this recipe based on past reviews and am glad I did ... here are my suggestons ... use fresh whole wheat lasagna noodles (found in the deli dept.) ... no need to cook them and they come in sheets ... make 3 layers for lasagna dish ... therefore, you would require 8 fresh lasagna sheets ... I had to read through a lot of reviews to figure out what to do with the italian sausage, as it doesn't explan in the recipe how to cook that ... what you do is buy mild italian sausages (couldn't find sweet italian sausage and I understand through most reviews that most people can't) ... you then remove the casing around the sausage, remove the meat and fry the meat until cooked in a frying pan ... instead of using 1 tbsp. salt in the sauce, I used 1 tsp. ... and it was perfect ... I suggest going with your taste ... same thing with the sugar ... go with your personal taste ... the layers were a little difficult to figure out so here is what works ... make 3 layers ... first layer is meat sauce, noodles, mozzarella cheese, and parmesan cheese ... 2nd layer is meat sauce, noodles, ricotta cheese mixture (add a little nutmeg for taste), parmesan cheese ... 3rd layer is meat sauce, noodles, mozzarella cheese, and parmesan cheese ... defiitely add the fennel seeds ... gives great f",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Sylvia",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2171462/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2006-11-22T06:57:04.983Z",
+              "reviewBody": "This was very good. It didn't fit in my 9 x 13 pan, but worked out fine by placing part of the ingredients in a loaf pan. Caution: skip the tablespoon of salt! (Have you EVER heard of a recipe that calls for a full tablespoon?) Between the cheeses and the canned tomato products, no additional salt was needed. This recipe would easily be a base for your favorite additions: spinach, mushrooms, zucchini, etc. Other reviewers were absolutely correct: plan to make this the day before serving. It makes all the difference in the blending of flavors and incredible taste. I served this with homemade cheese bread and a crisp green salad.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MANDT2",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/297942/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-08-29T20:29:05.65Z",
+              "reviewBody": "I am giving this 5 stars b/c all of my friends liked it and asked me for the recipe!  I made this for my women's group holiday dinner.  I would personally give it 4 stars.  It was a bit too meaty for me and there didn't seem to be enough ricotta (but I know a lot of peopele don't like ricotta anyways).  I followed a couple reviewer's suggestions and soaked the noodles in a large roasting pan (try it -there is plenty of room to allow the noodles to lay flat) in VERY hot tap water for about 30 minutes. I added the browned meat / garlic / onion mixture to the tomatoes, paste, sauce, seasonings, etc. WITHOUT simmering.  I assembled the lasagna the evening before (sauce, 6 noodles, ricotta, mozzarella slices, sauce, Parmesan, exact same layer again and sprinkled with shredded mozzarella and rest of Parm).  I purchased a 1 lb. package of sliced mozzarella and ended up using all of it (and it turned out fine).  Also purchased mild Italian sausage (not the sweet stuff - couldn't find it).  Be sure to use fresh parsley.  It gives the dish nice color and adds a fresh taste that you won't get from the dried stuff.  Also, be sure to add fennel seed.  It really adds  nice flavor to the dish.  Leftovers were yummy.  I took some to my parents, and my mom had one square.  My dad ate the other 4!  This one's a keeper, and is worthy of all stars because of the compliments - and shortcuts.  Try them, they REALLY, REALLY work!.  Thanks!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Michelle Roth-Kiva",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1032812/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "World’s Best Lasagna",
+            "description": "See how to make this top-rated lasagna from scratch!",
+            "uploadDate": "2012-04-13T19:04:41.327Z",
+            "duration": "PT4M50.624S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2Ff7ed221e-343f-42b0-a347-8766d4442ee2%2F2aa4e6a1-e3ed-4bda-8850-a6e536c79d86%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1560991360001"
+          }
+        }
+      ],
+      
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                "name": "World Cuisine Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+                "name": "Latin American",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+                "name": "Mexican",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/46653/taco-seasoning-i/",
+          "name": "Taco Seasoning I",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4538211.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Taco Seasoning I"
+          },
+          "datePublished": "2020-05-20T00:55:15.000Z",
+          "description": "Depending on how spicy you and your family like your dishes, use as little or as much as you want.",
+          "prepTime": "P0DT0H1M",
+          "cookTime": null,
+          "totalTime": "P0DT0H1M",
+          "recipeYield": "1 ounce",
+          "recipeIngredient": [
+            "1 tablespoon chili powder",
+            "¼ teaspoon garlic powder",
+            "¼ teaspoon onion powder",
+            "¼ teaspoon crushed red pepper flakes",
+            "¼ teaspoon dried oregano",
+            "½ teaspoon paprika",
+            "1 ½ teaspoons ground cumin",
+            "1 teaspoon sea salt",
+            "1 teaspoon black pepper"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "In a small bowl, mix together chili powder, garlic powder, onion powder, red pepper flakes, oregano, paprika, cumin, salt and pepper. Store in an airtight container.\n"
+            }
+          ],
+          "recipeCategory": [
+            "World Cuisine Recipes",
+            "Latin American",
+            "Mexican"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "BILL ECHOLS"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.823173089315634,
+            "ratingCount": 7759,
+            "itemReviewed": "Taco Seasoning I",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "5.3 calories",
+            "carbohydrateContent": "0.9 g",
+            "cholesterolContent": null,
+            "fatContent": "0.2 g",
+            "fiberContent": "0.4 g",
+            "proteinContent": "0.2 g",
+            "saturatedFatContent": null,
+            "servingSize": null,
+            "sodiumContent": "184.8 mg",
+            "sugarContent": "0.1 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2006-11-19T23:23:59.107Z",
+              "reviewBody": "excellent!! i browned ground beef, drained the fat, used 3 Tbsp per pound of meat and i added 1/2 Tbsp flour to the seasoning and mixed thoroughly before dusting the meat with it. i added 2/3 cup of water, mixed it up with the ground beef and let it simmer down. would be great with shredded beef or chicken too.it is def hotter than the packaged stuff, so if you don't like hot, would reccommend cutting the red pepper flakes. it is salty too. don't substitute sea salt for table salt. it is not an even swap. i did cut the sea salt down slightly...i am making a huge batch of this, sealing it in mason jars with my foodsaver and giving as gifts for christmas. thanks for sharing. i will never go back to packaged mix!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "GREGSGIRL63",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1190943/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-02-13T21:15:54.467Z",
+              "reviewBody": "This is a fantastic seasoning recipe! Like others have mentioned, no more seasoning packets for me. The flavor was so much richer. I didn't tell anyone of the change (I cook for a family of 10) and got lots of excellent compliments. I did receive one complaint about the dish I made, but it came from from a very picky young man who thinks that Taco Bell is authentic Mexican food. :-)  After the first time I used this recipe, I made up a large batch of seasoning to have on hand. It was so easy since I had all of the spices in my pantry anyway. I found that 2 *very* heaping tablespoons of the seasoning equals about one regular seasoning packet. My family likes things a little spicy though, so two regular tablespoons would probably be sufficient.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MARIAN",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/marian/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-02-01T15:11:44.11Z",
+              "reviewBody": "I substituted 1/8 tsp. of cayenne pepper for the red pepper flakes, and my VERY PICKY 12 year old daughter loved it in our homemade taco dip & taco's as well!  (I would however suggest maybe just the 1 tsp. of cumin).  We figured out that 21/2 - 3 tablespoons = one 1.25 oz. packet, which I will NEVER go back to!  Thanks so much Bill!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "I'm nuts too",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/610376/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2013-03-15T06:49:43.49Z",
+              "reviewBody": "Of course, I tweaked it to up the garlic and onion to double. I'm a garlic/onion lover, and sometimes I substitute out those for the fresh version instead.  I added 1 tsp of cornstarch (or 2 tsp of flour will work) to the mix which allows the spices to cling more readily to the meat as a thickened sauce. The spice mixture is great, but sometime was missing.  I looked around at a few other recipes and found one mentioning a beef bullion cube.  I have Better than Bullion paste (beef or chicken) and add a tsp while cooking the beef.  What a difference! It really gives  the meaty flavor that was lacking (hard to believe more meatiness is needed in a pound of ground beef, but it's true).  Whichever recipe you use, try adding some meat stock paste or equivalent (but do consider the added salt from bullion if you like it not too salty).  Also this recipe doesn't mention it, but adding a 1/4 to 1/2 cup of water towards the end after browning the meat with the seasoning allows the flavor to really mingle and absorb as you heat and reduce the sauce down a bit (that's where the cornstatch cling really shines). The water addition is just the basic instruction from the old packets I used to buy and it's not a step I'd ever skip.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "FoodSlave",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1392175/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-01-30T01:16:07.233Z",
+              "reviewBody": "This is excellent. It definitely tastes like the packet I usually used (will use this from now on). We mixed 1 lb. of browned-and-drained ground beef, this seasoning mix, plus a mixture of 2 tsp. of cornstarch and 2/3 cup of cold water. Then, we left it on low until all of it was warm.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Katherine",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/226700/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-11-13T01:15:18.333Z",
+              "reviewBody": "This recipe was a life-saver!! After already mixing ingrediants for \"seven layer taco dip,\" I realized that I was out of taco seasoning. Frantic, I ran to the computer and found this! YEAH!! I mixed it in with some cream cheese and sour cream to taste it first and it was great.  Worked even better in the dip!! If I'd had known how easy this was, I would have been making my own taco seasoning for a while now!! The only thing I changed was reduced the chili powder to 1/2 TBLS.  Very good and will make again!! Thanks Bill for posting this!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "DREGINEK",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/379190/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-01-30T01:15:25.39Z",
+              "reviewBody": "Very quick.  No reason to buy pre-packaged Taco Seasoning.  I followed recipe except slightly decreased amt of red pepper flakes and omitted onion powder (didn't have any).  I cooked 1 & 1/4 lb. low fat ground beef with fresh garlic; poured off fat.  Added Taco seasoning + 1/2 c. fresh, chopped onions + 1 cup water. Brought to boil and simmered for about 15 min.  Next time I would decrease water to 2/3 or 3/4 cup (I had a little too much liquid, but not a problem).  Very good.  DH loved these tacos!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "lyndoski",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/764930/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-07-15T16:00:10.06Z",
+              "reviewBody": "used regular salt.  seems to be very good.  3 tbs. equals one packet.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "mrsjohnnam1",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/800212/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-08-02T14:43:35.49Z",
+              "reviewBody": "This is absolutely delicious!! Thank you for sharing this recipe. I will NEVER go back to buying pre-packaged taco seasoning!! I love that I can make this recipe organically and especially love the fact that it is MSG FREE!! \r\n\r\nI found that if you add approximately 2/3 cup water to 3 tablespoons seasoning per pound of meat it makes the best flavor. I also prefer to add 1 Tablespoon flour to the recipe as this allows the seasoning to \"stick\" to the meat.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "KSCHAE",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1253587/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Taco Seasoning I",
+            "description": "See how to make your own five-star taco-seasoning mix.",
+            "uploadDate": "2012-04-04T15:36:42.019Z",
+            "duration": "PT1M55.198S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F9bf0404a-90d9-4149-b010-15cdb9eb0cff%2Fc45be2df-4b6b-4a93-a117-c050df5b225b%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1547110497001"
+          }
+        }
+      ],
+      
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                "name": "Dessert Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+                "name": "Cookies",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/838/desserts/cookies/brownies/",
+                "name": "Brownie Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/1562/desserts/cookies/brownies/chocolate-brownies/",
+                "name": "Chocolate Brownie Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/10549/best-brownies/",
+          "name": "Best Brownies",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2014%2F09%2F1090243_-Best-Brownies-Photo-by-Paula.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Best Brownies"
+          },
+          "datePublished": "1998-02-18T18:54:57.000Z",
+          "description": "These brownies always turn out!",
+          "prepTime": null,
+          "cookTime": null,
+          "totalTime": null,
+          "recipeYield": "16 brownies",
+          "recipeIngredient": [
+            "½ cup butter",
+            "1 cup white sugar",
+            "2 eggs",
+            "1 teaspoon vanilla extract",
+            "⅓ cup unsweetened cocoa powder",
+            "½ cup all-purpose flour",
+            "¼ teaspoon salt",
+            "¼ teaspoon baking powder",
+            "3 tablespoons butter, softened",
+            "3 tablespoons unsweetened cocoa powder",
+            "1 tablespoon honey",
+            "1 teaspoon vanilla extract",
+            "1 cup confectioners' sugar"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square pan.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "In a large saucepan, melt 1/2 cup butter. Remove from heat, and stir in sugar, eggs, and 1 teaspoon vanilla. Beat in 1/3 cup cocoa, 1/2 cup flour, salt, and baking powder. Spread batter into prepared pan.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Bake in preheated oven for 25 to 30 minutes. Do not overcook.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "To Make Frosting:  Combine 3 tablespoons softened butter, 3 tablespoons cocoa, honey, 1 teaspoon vanilla extract, and 1 cup confectioners' sugar. Stir until smooth. Frost brownies while they are still warm.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Dessert Recipes",
+            "Cookies",
+            "Brownie Recipes",
+            "Chocolate Brownie Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Angie"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.533657078819574,
+            "ratingCount": 13385,
+            "itemReviewed": "Best Brownies",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "182.7 calories",
+            "carbohydrateContent": "25.7 g",
+            "cholesterolContent": "44.2 mg",
+            "fatContent": "9 g",
+            "fiberContent": "1 g",
+            "proteinContent": "1.8 g",
+            "saturatedFatContent": "5.4 g",
+            "servingSize": null,
+            "sodiumContent": "109.7 mg",
+            "sugarContent": "21.1 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2005-11-03T18:27:08.59Z",
+              "reviewBody": "These brownies are magnificent!!! I mean \"melt in your mouth\" and I didn't even make the frosting. I doubled the recipe and it still won't be enough. There are a few tips that will ensure your brownies are not cakey. I do not use a mixer because you can overmix your batter and whip too much air into the eggs. This makes your brownies have a cakey texture. Mix everything by hand in a bowl and lightly beat your eggs before adding them to the mixture. Gently stirring everything together makes them turn out better as opposed to franticly beating the mixture. Hope this helps, because I will NEVER buy brownie mix again.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Renee Ragan Bowles",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/541247/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2005-03-01T13:11:32.95Z",
+              "reviewBody": "I doubled the recipe and made a 9x13 pan of these brownies for a party, and everybody loved them!  I also entered them in my local county fair and won first place.  The problem with the frosting is that you need to halve the amount of powdered sugar and melt the butter.  This makes a glaze that you can spread on top.  It hardens into a beautiful, shiny frosting.  I thought some of the info in the reviews was conflicting, so here's the scoop:  1.  These are neither \"cake\" brownies nor \"fudge\" brownies; they fall somewhere in between.  If you must have one or the other, then this recipe is not for you.  2.  Yes, the frosting is sweet.  If you like frosting, then add it, if not, leave it off.  3.  Yes, these are homemade brownies and do not taste like boxed brownie mix.  I can't understand why anyone would prefer a mix to homemade, but if that's your thing, then stick with the mix.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Mama Cass",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/497756/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-01-23T03:18:52.623Z",
+              "reviewBody": "These are great!  I changed the recipe to make them better for you.  I used 1/2 c. applesauce instead of butter and 1/2 cup Equal spoonfuls and 1/2 cup sugar instead of 1 cup sugar and used egg substitute and omitted the glaze.  They ended up with only 45 calories apiece and 0 grams of fat!  they were SOOOO GOOOD!!! :-)",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "erinspice",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/erinspice/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-12-14T01:17:40.797Z",
+              "reviewBody": "Brownies...\r\n\r\nWhat comes to mind? Hard...chewy...\r\n\r\nThese brownies...\r\n\r\nWhat comes to mind? Soft...cakelike...\r\n\r\nThese were baaaaad.......why must all these brownie recipes result in cake squares? I wish I could say different for this supposedly \"best brownie\" recipe, but I can't. If you are looking for the traditional delicious brownie Grandma used to make, run, run away and never come back!\r\nThese were just like a cake. Be aware: These are not the BEST brownies...these are the BEST cake squares.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+              },
+              "author": {
+                "@type": "Person",
+                "name": "NOVACAT2003",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/664755/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-11-26T16:13:25.837Z",
+              "reviewBody": "These were the BEST BROWNIES even without the frosting.  Just don't OVERBAKE/OVERMIX.  When doubling, leave out one egg, keep the amount of salt at 1/4 tsp, and bake for 30-35 mins.  You'll get a cakey on the outside, fudgey in the middle brownie.  Delish!  ",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "bakedbyjen",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/bakedbyjen/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-11-10T02:35:16.313Z",
+              "reviewBody": "Wonderful little brownie! Not too thick, not too thin, just right! Comes together and into the oven in less than 5 minutes. I added about 1 additional T. of cocoa. Just mix all ingredients with a wooden spoon in the same pan as you melted the butter, about 50 strokes, just until good and combined. The frosting is glossy and smooth if you melt the butter first and add about 1 T. each of corn syrup and half and half. Cutting these with a plastic knife, even the disposable tableware variety, works great!  Cuts cleanly, and not a crumb sticks to the knife. Had to try 3 of the brownies as soon as they were cooled, just to be triply sure they were good.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "naples34102",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/naples34102/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-06-25T14:54:48.58Z",
+              "reviewBody": "Many moons ago I worked in a Duncan Hines test kitchen and have made up to 20 batches of brownies a day and let me say this is a good, easy recipe for homemade brownies; great chocolatey flavor. \nI would suggest:\n1) Slightly whip (with fork) the eggs to make them homogenous first before adding them to the pan's other ingredients.\n2) Whisk your dry ingredients, flour, cocoa, salt and baking powder, together first before adding them to the pan.  No need to beat with mixer.  A wooden spoon to mix the batter until everything is wet works just fine.\nI used the frosting recipe which was very fudge-like and thick. I added just a smidgen of water to thin it out to make it at least somewhat spreadable.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "redzinner",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2129892/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-01-26T17:25:21.61Z",
+              "reviewBody": "This recipe needs another review like I need another brownie - but I just couldn't stop eating them.  Mama Cass hit the nail on the head saying this was neither a \"fudgy\" brownie nor a \"cake-like\" brownie, but both - that's what made it so awesome.  I didn't have the honey for the frosting so frosted it with the best chocolate frosting IMO - boil 3TB butter, 1/3 c sugar, 2TB milk for a minute, remove from heat and add 1/3 c chocolate chips.  Yummmm!  Doubt anyone will read this after 1,000 some reviews, but just realized this recipe is similar to one a use for waffle cookies - only I melt the butter and cocoa powder in the microwave together and it mixes together much easier.  Just a thought.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "NEgirl",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2366917/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-02-12T10:49:31.107Z",
+              "reviewBody": "Worth a try, very easy recipe yielding above average brownies.  When the recipe\r\nsays not to overcook, don't...depending on your oven 25 minutes is probably long \r\nenough.  They may not look done, but they continue to cook/settle when removed.\r\nAlso, I had to add an egg to the frosting recipe because I ended up with chocolate \r\nsawdust without it (even using electric blender).  Some folks also mentioned adding\r\nmilk (1 Tblsp ?) because of this which would also work I'm sure.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "POLARBARE",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/633233/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Best Brownies",
+            "description": "See how to make moist, fudgy, perfectly decadent brownies.",
+            "uploadDate": "2012-04-04T16:11:43.306Z",
+            "duration": "PT3M27.457S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F1f376888-d624-403a-abdf-35491dab7075%2F1c603aa5-f836-4d1b-8274-5b5e9bc5228a%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1547157958001"
+          }
+        }
+      ],
+      
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                "name": "Meat and Poultry Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+                "name": "Chicken",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/662/meat-and-poultry/chicken/whole-chicken/",
+                "name": "Whole Chicken Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/230620/mayo-chicken/",
+          "name": "Mayo Chicken",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F969263.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Mayo Chicken"
+          },
+          "datePublished": "2020-06-03T01:30:12.000Z",
+          "description": "This is my favorite chicken recipe, which I learned while doing low-carb dieting. I prefer dark meat so I'll use 4 legs and thighs. You can do this recipe with pork chops as well.",
+          "prepTime": "P0DT0H15M",
+          "cookTime": "P0DT1H10M",
+          "totalTime": "P0DT1H25M",
+          "recipeYield": "6 servings",
+          "recipeIngredient": [
+            "1 cup mayonnaise",
+            "2 cloves garlic, crushed",
+            "1 tablespoon finely chopped fresh rosemary",
+            "1 teaspoon salt",
+            "freshly ground black pepper to taste",
+            "1 whole chicken, cut into 6 pieces",
+            "½ cup grated Parmesan cheese"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Preheat oven to 350 degrees F (175 degrees C).\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Stir mayonnaise, garlic, rosemary, salt, and black pepper together in a bowl. Place chicken pieces into a 9x13-inch baking dish, spread mayonnaise mixture over chicken, and top with Parmesan cheese.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Bake until the juices run clear, chicken is no longer pink in the middle, and an instant-read meat thermometer inserted into the thickest chicken piece reads at least 160 degrees F (70 degrees C), about 1 hour and 10 minutes.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Meat and Poultry Recipes",
+            "Chicken",
+            "Whole Chicken Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Jim Richard"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.598765432098766,
+            "ratingCount": 162,
+            "itemReviewed": "Mayo Chicken",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "579 calories",
+            "carbohydrateContent": "1.9 g",
+            "cholesterolContent": "116.8 mg",
+            "fatContent": "48.1 g",
+            "fiberContent": "0.1 g",
+            "proteinContent": "33.6 g",
+            "saturatedFatContent": "10.3 g",
+            "servingSize": null,
+            "sodiumContent": "791.3 mg",
+            "sugarContent": "0.5 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2013-02-17T02:59:11.937Z",
+              "reviewBody": "I made this tonight and it was a hit. I did make one change, I substituted plain Greek yogurt for the mayonnaise as I abhor mayo (yes, my mother wondered where she went wrong ;). The substitution was delicious. I used skinless, boneless chicken breasts and needed only 30 minutes to cook (pound the thicker side to make a more evenly thick piece). \n\nI will definitely make this again.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "BORNONTHEFOURTH",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/911225/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2013-12-19T19:03:13.71Z",
+              "reviewBody": "This recipe was simple, loved by the kids and is gluten free for my gluten free friends!\r\nI added more garlic and I used this with boneless skinless breasts on a bed of rice.  (Just add uncooked rice and water in your baking pan).  The juices from the garlic, rosemary and mayo were then absorbed in the rice for a delicious side!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "amschu",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/12473644/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2013-02-04T04:07:09.383Z",
+              "reviewBody": "It was super delicious. I made for my brother and myself and we both loved it, it was juicy and tenderly. I greased the baking dish with butter and then added the chicken. One more thing I only used chicken breast and it was awesome.. Thanks for the recipe.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Luisrivero",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/10875424/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2018-01-22T02:01:25.543Z",
+              "reviewBody": "5 stars with the addition of dijon mustard combined with the mayo!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Julia Wencley Hutto",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/14773136/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2013-02-20T16:09:53.393Z",
+              "reviewBody": "Enjoyable, but really nothing outstanding.  Under-seasoned, but moist.  The parm on top worked well.  Won't make again, but made for a decent chicken dinner.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "SunnyDaysNora",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/greengirl24/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2013-03-27T23:36:43.017Z",
+              "reviewBody": "This was surprisingly good.  I was just looking for something easy, and it was.  Instead of fresh rosemary, I powdered some dried rosemary in the blender and put the garlic through a press.  I didn't apply the mayonnaise mixture too thickly, so it was not too rich.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Juniper",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/6012872/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2013-04-24T00:22:50.327Z",
+              "reviewBody": "I made this recipe as written and did not care for it. I REALLY love mayo and all the other ingredients but not in this recipe.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 2
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Debra Whelan",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1983656/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-06-22T02:45:34.47Z",
+              "reviewBody": "I just made this and had to comment.  I listened to everyone who said it's too bland and decided to really season it up.  4 ckn drumsticks, 2 crushed cloves garlic, 1/2 tsp garlic salt, 1 tsp black pepper, 1/2 tsp sage, 1 TBSP crushed rosemary (I ground my own), 1/2 tsp marjoram.  1/2 to 3/4 C mayonnaise, Parmesan to taste.  Mix all but Parm in bowl, slather over chicken, then sprinkle Parm LIBERALLY over all.  Ensure the mayo mixture is thick on the chicken.  Cook in 350 oven for 1 hr 10 min.  If you're making more chicken than 4 drumsticks, adjust the mayo recipe. Awesome!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "notbarb",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/notbarb/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2013-02-24T23:45:04.02Z",
+              "reviewBody": "This may be the only recipe that I have ever put together that not one person in my family could stomach.  It was SO rich but had very little seasoning flavor. My husband ate his salad and didn't realize that I had not put salad dressing on it since there was so much grease on his plate.  I am sorry but this is just not the recipe for us.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Clarissa Chapman Spehl",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3489995/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Mayo Chicken ",
+            "description": "This juicy baked chicken is the perfect easy weeknight dinner!",
+            "uploadDate": "2020-06-02T18:27:09.644Z",
+            "duration": "PT56.875S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F5cd29dd3-c7fd-4491-8fcb-d6ae01d36ee9%2F75cc6843-4f9c-40a3-bb4c-fcc7257723c2%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6161163056001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                "name": "Dessert Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/17100/desserts/frostings-and-icings/",
+                "name": "Frostings and Icings",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/2421/desserts/frostings-and-icings/buttercream/",
+                "name": "Buttercream",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/174347/quick-and-almost-professional-buttercream-icing/",
+          "name": "Quick and Almost-Professional Buttercream Icing",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F-0001%2F11%2F30%2F572806.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Quick and Almost-Professional Buttercream Icing"
+          },
+          "datePublished": "2020-05-20T00:42:46.000Z",
+          "description": "After failing to find the perfect recipe for buttercream icing, I found one that worked for me and then added my own two cents.",
+          "prepTime": null,
+          "cookTime": null,
+          "totalTime": null,
+          "recipeYield": "2 1/2 cups",
+          "recipeIngredient": [
+            "½ cup unsalted butter, softened",
+            "1 ½ teaspoons vanilla extract",
+            "2 cups confectioners' sugar, sifted",
+            "2 tablespoons milk",
+            "3 drops food coloring, or as needed"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Cream room temperature butter with a hand mixer, the paddle attachment of a stand mixer, or a wooden spoon until smooth and fluffy. Gradually beat in confectioners' sugar until fully incorporated. Beat in vanilla extract.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Pour in milk and beat for an additional 3 to 4 minutes. Add food coloring, if using, and beat for thirty seconds until smooth or until desired color is reached.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Dessert Recipes",
+            "Frostings and Icings",
+            "Buttercream"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "xoshadyxo"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.46980198019802,
+            "ratingCount": 2020,
+            "itemReviewed": "Quick and Almost-Professional Buttercream Icing",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "227.9 calories",
+            "carbohydrateContent": "31.5 g",
+            "cholesterolContent": "30.8 mg",
+            "fatContent": "11.6 g",
+            "fiberContent": null,
+            "proteinContent": "0.2 g",
+            "saturatedFatContent": "7.3 g",
+            "servingSize": null,
+            "sodiumContent": "83.7 mg",
+            "sugarContent": "31 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2010-06-15T01:45:28.893Z",
+              "reviewBody": "I'm a novice cake decorator and this is the first time I've ever in my life reviewed a recipe, but I was so overjoyed I had to do it. I have been trying buttercream recipes for 4 months now, and it's been horrible. I wanted something that did not include the nasty shortening, and was easy to make. I didn't have any luck with any meringue buttercreams either, which just tasted like a big block of butter and requires refrigeration, re-whipping, etc. I was THRILLED to find this recipe! First I made the initial recipe as written, which was a small batch. Then I quadrupled the recipe to make 32 servings to frost/decorate a 9 x 13 layer cake. I found that it's EXTREMELY important to cream the softened butter for several minutes first, then I added the confectioners sugar (after sifting it first) a cup at a time until combined. Then added clear vanilla extract, and for the 4x recipe I only used 1 Tbsp skim milk. Then really important: continue to beat for another 4 minutes! Came out SO fluffy and light and snow white colored. Extremely easy to frost and pipe decorations. Got a nice crust as well. I had several \"foodies\" taste it and they gave it 2 thumbs up as well.  THANK YOU!!!!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "DP",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/4958330/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-03-31T20:50:19.75Z",
+              "reviewBody": "Creamy and fluffy frosting, yet still perfect for piping/decorating. One recipe, however, was barely enough to frost ten cupcakes, so keep this in mind for any of your frosting or decorating needs. I used this for coconut cupcakes, so I flavored it with some coconut oil flavoring, then topped with toasted, shredded coconut. I would call this one of the more exceptional buttercream frosting recipes.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "naples34102",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/naples34102/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-10-24T16:47:27.95Z",
+              "reviewBody": "awesome frosting.  easy to decorate with.  the only changes i made was that i melted the butter and added 2/3 cup of cocoa to make the frosting a chocolate flavor.  ",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "tahoegirl",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2297575/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-10-19T12:50:15.607Z",
+              "reviewBody": "This is a great buttercream icing recipe.  I followed it fairly closely, thought I did add extra vanilla, which then necessitated adding some extra 10X sugar to make up for the extra liquid.  It does not make all that much, so I will prob double it when decorating a cake.  It made enough for me to not-over-generously ice 18 cupcakes.  Great taste and consistency.  GO BULLDOGS! ;)  TY for a great recipe!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "lovestohost",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/lovestohost/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-02-20T22:10:30.11Z",
+              "reviewBody": "This icing recipe is my absolute favorite out of all that I've tried!  I used it to pipe on decorations for my daughter's horse birthday cake.  I needed to add almost 2/3 cup more powdered sugar to make it stiff enough to pipe on. To decorate a 9x13\" cake, you will want to double the recipe.  (Make sure you use clear vanilla if you want white icing.)",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Emily",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1532027/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-08-18T22:47:31.573Z",
+              "reviewBody": "This recipe is for REAL frosting not the garbage that comes from the store. I followed the recipe without changes. This was served with SCOTTLEY'S BASIC YELLOW CAKE and the filling from ALMOND CREAM-PUFF RING. My brother ate two pieces and took half of the rest of the cake home with him. I will never buy frosting again ever. ",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "dizzygrltoo",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2258891/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-04-22T18:28:20.34Z",
+              "reviewBody": "This recipe was good. I didn't love it, but I usually dont like any plain buttercreams. If you're going to pipe the frosting, don't add the milk. If you are going to add food coloring, add it before the milk (or else it might get too liquidy).",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "The Purple Baker",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/6449783/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-09-23T03:24:09.31Z",
+              "reviewBody": "This icing was just what I was looking for as I didnt really want to take the time to do boiling icing.  Not too too sweet but very creamy. I will use this again. Alot of flavorings can be added to this.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "DEB_RICHDE",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/748533/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-12-15T16:28:47.127Z",
+              "reviewBody": "This was the lightest fluffiest frosting I have ever made at home. It was as good as the bakeries use for sure! I used this for soft sugar cookies and it made them over-the-top great, but truly this would fabulous on a cake. I will have to remember this one the next time I need birthday cake frosting, this is that special. This dried perfectly for stacking decorated cookies too! Thanks, this is awesome!!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "~TxCin~ILove2Ck",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1197175/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-01-02T21:21:48.137Z",
+              "reviewBody": "The consistancy was fine but it tasted too sugary and not creamy enough.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Naomi",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/4350008/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Quick and Almost-Professional Buttercream Icing",
+            "description": "Watch how to make a quick and tasty buttercream.",
+            "uploadDate": "2015-10-22T21:42:43.523Z",
+            "duration": "PT59.726S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2Fd3dbde80-ff34-4705-9f0c-fd2fd38467ac%2F64796c8a-171d-4dfe-8b86-22986354744d%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=4486686950001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                "name": "Side Dish",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+                "name": "Sauces and Condiments Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/",
+                "name": "Sauce Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/496/side-dish/sauces-and-condiments/sauces/pasta-sauces/",
+                "name": "Pasta Sauce Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/563/side-dish/sauces-and-condiments/sauces/pasta-sauces/creamy/",
+                "name": "Creamy",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/17655/side-dish/sauces-and-condiments/sauces/pasta-sauces/creamy/alfredo-sauce/",
+                "name": "Alfredo Pasta Sauce Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/22831/alfredo-sauce/",
+          "name": "Alfredo Sauce",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F672690.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Alfredo Sauce"
+          },
+          "datePublished": "2000-10-11T19:36:05.000Z",
+          "description": "Rich and creamy! I have found that Parmesan cheese doesn't melt well, and often substitute Gruyere cheese.",
+          "prepTime": "P0DT0H10M",
+          "cookTime": "P0DT0H10M",
+          "totalTime": "P0DT0H20M",
+          "recipeYield": "4 servings",
+          "recipeIngredient": [
+            "¼ cup butter",
+            "1 cup heavy cream",
+            "1 clove garlic, crushed",
+            "1 ½ cups freshly grated Parmesan cheese",
+            "¼ cup chopped fresh parsley"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Melt butter in a medium saucepan over medium low heat. Add cream and simmer for 5 minutes, then add garlic and cheese and whisk quickly, heating through. Stir in parsley and serve.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Side Dish",
+            "Sauces and Condiments Recipes",
+            "Sauce Recipes",
+            "Pasta Sauce Recipes",
+            "Creamy",
+            "Alfredo Pasta Sauce Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Rebecca Swift"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.5620121422376405,
+            "ratingCount": 4612,
+            "itemReviewed": "Alfredo Sauce",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "438.8 calories",
+            "carbohydrateContent": "3.4 g",
+            "cholesterolContent": "138.4 mg",
+            "fatContent": "42.1 g",
+            "fiberContent": "0.1 g",
+            "proteinContent": "13 g",
+            "saturatedFatContent": "26.2 g",
+            "servingSize": null,
+            "sodiumContent": "565.3 mg",
+            "sugarContent": "0.4 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2003-03-11T02:16:25.747Z",
+              "reviewBody": "Quick and easy. I used margarine instead of butter and homogenized milk instead of heavy cream. I did not need to use any thickening agents-the consistency was just right. Just toss with fettucine and serve.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MRS.SWEET",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/682940/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-02-04T23:36:46.513Z",
+              "reviewBody": "You would not believe how incredible this sauce is!  My husband and I made this sauce (served over fettuccine noodles) for my friend and her husband, as they just had their third child a few days ago and we figured they could use the break from cooking - they went nuts, they loved it so much!  Even their two younger sons (3 and 2) loved this dish.  It literally tastes IDENTICAL to the sauce that they serve at the Olive Garden.  Another good tip is to add a can of drained mushrooms to the sauce - it really tastes great.  I'd give this 6 stars if I could - I will NEVER buy alfredo sauce again!  The next time I might use milk and a little cornstarch instead of the cream (as one previous reviewer suggested) and perhaps reduced fat margarine to save on fat and calories.  Be sure to use fresh shredded parmesan (available in bags in the dairy section), Kraft grated just doesn't do it as well - and the shredded parm melts really well.  ENJOY this incredible dish!  Thank you, Rebecca!  :)",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MISSKRISSY",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/665279/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-08-27T03:34:59.153Z",
+              "reviewBody": "Very good flavor in this recipe, but I did add a 2nd clove of garlic. If you just stir the cream into the butter and let it simmer, it will seperate. I gently whisk the cream and butter the entire time it's simmering and whisk while adding the cheese (a little at a time) and it doesn't seperate, even after a day in the fridge. The consistency is a little hard to get smooth, but probably because parmesan is a very hard cheese with a granular texture to begin with, and doesn't melt smoothly. I used a parmesan/asiago blend and it was beautifully smooth after lots of whisking. Also, make sure you use unsalted butter - if you use margarine or lightly salted butter, it's way too salty. I used this recipe to make a white chicken lasagna, which was absolutely delicious, and it held up well in the refrigerator to have leftovers the next day.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "SQUIRKIE",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/573781/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-09-12T15:05:15.123Z",
+              "reviewBody": "Holy Moly! My husband loves alfredo, and he freaked out because this was so good. I made a double recipe, added 1.5 pounds of pan seared chicken breast and poured it over tri-color rotini (it was the only pasta in the house). Unbelievable! It was a little thin at first, but thickened as it cooled. I used genuine Parmesan Reggiano and it melted wonderfully smooth--just be sure to add only a handful at a time. Do not boil, or the sauce will separate.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "RobinD63",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/245403/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-11-15T05:19:22.55Z",
+              "reviewBody": "Bland & throughly uninspired. My husband was none too pleased, and my children were less than enthused which is a far cry from their usual elation with my Italian cooking. I made this for my family yesterday, and recognized the taste right away as being a recipe I've made before though not from this site (copy cat recipes; the book actually). I added 1/8 tsp ground pepper since the flavor was sadly lacking. While I know that I'm am a tough critic having lived for 3 years in Italy this wasn't even passable to my husband who has only visited there with me. This alfredo is fine for someone with a bland palate, but if it's flavor you crave then move on to a recipe more original and authentic.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Muffin Mom N Garlic Girl",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/domesticgoddess/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-10-11T01:28:53.707Z",
+              "reviewBody": "I love this recipe and make it for my boyfriend at least once a week!  We add an extra quarter cup of fresh Parmesan cheese and a tablespoon of flour...it makes the sauce much less runny.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Mandy",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/171621/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-01-23T07:37:53.967Z",
+              "reviewBody": "I made this recipe for my x-mother and father-in-law last weekend. She is an avid vegetarian but will eat seafoods. I made the alfrado using the Gruyere cheese, then in a separate skillet sauted 4 chopped green onions, 1T crushed garlic, and 2T fresh chopped parsley in 2T olive oil, added 1lb cleaned devained shrimp and 1 can lump crab meat over medium heat until shrimp turned pink then folded into the alfrado sauce and served over linguini.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MARY45ELLEN",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/684040/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-04-15T19:57:02.25Z",
+              "reviewBody": "I tried this recipe using 2 different types of parmesan cheese, the shredded kind and the finely grated kind (think Kraft green container).  The shredded was SOOO much better, though both times I used a bit more cream and a bit less cheese.  I used equal amounts and added about a 1/4 cup of cream extra and did about a 1/4 cup less cheese.  We served it with grilled chicken (marinade in Itailian dressing)and grilled red peppers.  YUM!  Thanks for the recipe.  Ths was the best alfredo I've ever had!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "RUCIFEY",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/259333/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-09-06T11:54:34.637Z",
+              "reviewBody": "Very good basic Alfredo sauce. Remember to keep the sauce at a slow simmer, and never bring to the boil. The high heat will cause the cheese to turn grainy... a slow simmer will keep it smooth and creamy.\nNote: A simmer is where the temperature of the liquid is just below the boiling point, or where small bubbles come to the surface and break gently.\nYou could try different cheeses... why not, or you could substitute the parsley with another herb, such as, Cilantro.\n\nOh, and I enjoy a bit more garlic... keeps the Vampires away.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Sous Andy",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1697374/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Creamy Alfredo Sauce",
+            "description": "See how to make a rich, creamy Alfredo sauce for pasta and chicken dishes.",
+            "uploadDate": "2013-07-30T23:47:00.124Z",
+            "duration": "PT1M53.472S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F9cd44c53-ffc4-490b-aa72-57e20a6978a7%2F7682c8c7-04a1-42cf-9967-502a92641f2d%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2575607915001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/156/bread/",
+                "name": "Bread",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/339/bread/yeast-bread/",
+                "name": "Yeast Bread Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/16822/cake-mix-cinnamon-rolls/",
+          "name": "Cake Mix Cinnamon Rolls",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F58925d69-9a3d-4f89-962f-0fc9af43cb0b%2F967fcef9-9896-4358-a2ce-64bd3564a6cf%2F1280x720%2Fmatch%2Fimage.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Cake Mix Cinnamon Rolls"
+          },
+          "datePublished": "2000-03-06T01:24:13.000Z",
+          "description": "This recipe is absolutely delicious.  I make them the night before, take them out in the morning and let them rise. I have also made sticky buns with this recipe using a coconut/pecan frosting for the bottom of my pan.",
+          "prepTime": "P0DT0H30M",
+          "cookTime": "P0DT0H20M",
+          "totalTime": "P0DT1H60M",
+          "recipeYield": "16 rolls",
+          "recipeIngredient": [
+            "3 (.25 ounce) packages active dry yeast",
+            "2 ½ cups warm water",
+            "1 (18.25 ounce) package white cake mix",
+            "4 ½ cups all-purpose flour",
+            "½ cup butter, softened",
+            "½ cup brown sugar",
+            "2 teaspoons ground cinnamon",
+            "¼ cup butter, melted",
+            "⅓ cup white sugar",
+            "¼ cup chopped pecans, or to taste"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "In a small bowl, dissolve yeast in warm water. Let stand until creamy, about 10 minutes.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "In a large bowl, combine the yeast mixture with the cake mix and 3 cups of the flour; stir to combine. Add the remaining flour, 1/2 cup at a time, stirring well after each addition. When the dough has pulled together, turn it out onto a lightly floured surface and knead until smooth and elastic, about 8 minutes.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Lightly oil a large bowl, place the dough in the bowl and turn to coat with oil. Cover with a damp cloth and let rise in a warm place until doubled in volume, about 30 minutes.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Deflate the dough and turn it out onto a lightly floured surface. Roll the dough into a 10x16 inch rectangle. spread the softened butter over the rectangle; sprinkle on brown sugar and cinnamon. Starting from one of the long sides, roll up the rectangle and cut into 1-inch wide rolls.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Preheat oven to 375 degrees F (190 degrees C). Grease a 9x13 inch baking pan.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Pour the melted butter into a small bowl. Mix the white sugar and pecans in another small bowl. Dip the top of each roll in the melted butter, then in the sugar and pecan mixture, then place the topped rolls snugly into the prepared pan. Cover the rolls with a damp cloth and let rise until doubled in volume, about 30 minutes.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Bake in the preheated oven for 20 minutes, or until rolls are golden.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Bread",
+            "Yeast Bread Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "ARVILLALAR"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.274021352313167,
+            "ratingCount": 281,
+            "itemReviewed": "Cake Mix Cinnamon Rolls",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "398.9 calories",
+            "carbohydrateContent": "63.6 g",
+            "cholesterolContent": "22.9 mg",
+            "fatContent": "13.7 g",
+            "fiberContent": "1.8 g",
+            "proteinContent": "5.8 g",
+            "saturatedFatContent": "6.2 g",
+            "servingSize": null,
+            "sodiumContent": "277.8 mg",
+            "sugarContent": "28.4 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2003-10-31T19:16:24.95Z",
+              "reviewBody": "Thank you Arvilla for sharing this wonderful recipe. The only change I made was that I used Spice cake mix instead of white. I made them and shared them with all my neighbors and they raved about them. Thanks again! Do yourself a favor and try these. They are GREAT!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "COOKING4MAX",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/317821/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-10-06T01:06:02.417Z",
+              "reviewBody": "I'll be honest I really just wanted this recipe for the dough because my grandma told me how to make her cinnamon buns (which were the best in the world). sadly though she never gave me the dough recipe before she died and ever since i've been trying to replicate it.  The best compliment i can give you is when I ate these buns I felt like i was getting a hug from my grandma. I used a spice cake mix instead of vanilla and they turned out sweet and soft and delicious and they were so easy to make.  Thank you for giving me that moment.  I can't wait to make them for my grandpa.  If you want to try them grams way  spread the butter on and add the brown sugar and cinnamon generously.  roll them up and cut like normal.  Place them in a 9x13 baking dish and top each bun with a little more cinnamon and brown sugar then pour enough corn syrup just to cover the tops of each bun.bake according to this recipe.  This makes a delicious sticky bun.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "charleysangel",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2023779/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-04-15T01:28:39.31Z",
+              "reviewBody": "Terrible!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+              },
+              "author": {
+                "@type": "Person",
+                "name": "SCHERKAS",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/444252/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-08-21T00:54:38.477Z",
+              "reviewBody": "This is the best,most flavorful cinnamon rolls. I have tried various recipes & this one has my family always asking for more...I even enjoy making them...They always turn out great!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "KLBIENEK",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/669285/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2005-08-31T03:07:27.497Z",
+              "reviewBody": "I made this with just 2 packages of yeast, 5 cups of flour, french vanilla cake mix instead of white, and added about 3 Tbsp. softened butter to the dough. The results were fabulous.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "SHANLORAINE",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/811615/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-09-24T15:16:36.593Z",
+              "reviewBody": "I made these rolls the night before and set them in the refrigerator overnight and baked them the next morning. They turned out great and they were so big. My family loved them. Thanks for the recipe.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "PEJMO3",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/774349/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-08-21T00:54:43.91Z",
+              "reviewBody": "At first it tasted like a cake cinnamon roll.  I was a little disappointed.  Then I saved a few for my binge eating two days later.  I rewarmed then and they tasted incredible after that!!  Tastes great with orange glaze! (Powder sugar, milk and orange juice!- yum)",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "ROBYNSROB",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/661071/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-02-08T18:02:24.653Z",
+              "reviewBody": "I needed rolls fast, so I followed the recipe using LEMON cake mix, but after the first raising, rolled them into fist-sized balls, rolled in butter, then in cinnamon/sugar and put in greased 9X13 stone.  Put them in cold oven, brought it to 375 (so they raised while the temp raised) and baked for 20 minutes once the temp reached 375.  Perfect!  Will be using this and experimenting with different cake flavors...SPICE cake is next!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Quincy",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3423193/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-07-04T19:58:32.2Z",
+              "reviewBody": "This dough has the best flavor, the best texture than any sweet dough recipe.  It could'nt be easier to make.  I will only use this recipe from now on.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "ELITVAK",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/274546/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Cake Mix Cinnamon Rolls ",
+            "description": "These cinnamon rolls are made with a box of cake mix!",
+            "uploadDate": "2020-05-19T17:20:56.066Z",
+            "duration": "PT1M42.848S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F58925d69-9a3d-4f89-962f-0fc9af43cb0b%2Fa98e3eb8-237d-45d6-9ca9-e316515d0b14%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6156673130001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+                "name": "100+ Breakfast and Brunch Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/1316/breakfast-and-brunch/waffles/",
+                "name": "Waffle Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/22180/waffles-i/",
+          "name": "Waffles I",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3875444.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Waffles I"
+          },
+          "datePublished": "2000-05-26T17:50:50.000Z",
+          "description": "You can keep the batter covered in the fridge for up to a week. Just be sure to whisk well before using again. You may also use whole wheat flour for this recipe.",
+          "prepTime": "P0DT0H5M",
+          "cookTime": "P0DT0H15M",
+          "totalTime": "P0DT0H20M",
+          "recipeYield": "6 servings",
+          "recipeIngredient": [
+            "2 eggs",
+            "2 cups all-purpose flour",
+            "1 ¾ cups milk",
+            "½ cup vegetable oil",
+            "1 tablespoon white sugar",
+            "4 teaspoons baking powder",
+            "¼ teaspoon salt",
+            "½ teaspoon vanilla extract"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Preheat waffle iron. Beat eggs in large bowl with hand beater until fluffy.  Beat in flour, milk, vegetable oil, sugar, baking powder, salt and vanilla,  just until smooth.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Spray preheated waffle iron with non-stick cooking spray. Pour mix onto hot waffle iron. Cook until golden brown. Serve hot.\n"
+            }
+          ],
+          "recipeCategory": [
+            "100+ Breakfast and Brunch Recipes",
+            "Waffle Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "OneShyOfABunch"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.502006420545746,
+            "ratingCount": 4984,
+            "itemReviewed": "Waffles I",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "382 calories",
+            "carbohydrateContent": "38 g",
+            "cholesterolContent": "67.7 mg",
+            "fatContent": "21.6 g",
+            "fiberContent": "1.1 g",
+            "proteinContent": "8.7 g",
+            "saturatedFatContent": "4.3 g",
+            "servingSize": null,
+            "sodiumContent": "390 mg",
+            "sugarContent": "5.7 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2005-09-18T18:10:30.2Z",
+              "reviewBody": "5+++++ I love this recipe. I made some healthy substitutions and it turned out yummy for me. I used whole wheat flour, splenda, and apple sauce in lieu of the oil. I also added about 1 tsp of brown sugar and 1/2 tsp of cinnamon as others have recommended. I followed another users recommendation to seperate the whites from the eggs (beated until fluffy) and folded them into the batter as the final step--turned out nice and fluffy. I served these plain with the cinnamon butter recipe. Also, you can freeze left-overs (if any) in plastic baggies to be taken out at a later time to be quickly reheated in the toaster. 5-star plus--thanks for the wonderful recipe!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "TEVANS211",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1113827/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-09-22T00:16:14.28Z",
+              "reviewBody": "A well above par recipie, crispy and light. If you have a spare minute beat the egg whites separate, then fold them in at the last, not vital but you will not regret it.\r\n\r\nI also doubled the vanilla and sugar, but the waffles seemed a bit bland still, relying on butter/syrup to bring most of the flavor. A good active-yeast recipe will taste better, but are generally more dense.\r\n\r\nAlso be sure to USE BAKING POWDER, NOT SODA, then the 4 teaspoons called for is perfect, if you put in 4 tsp of soda you'll never have heartburn again...\r\n\r\nBottom line, these waffles are well worth making. Simple, light and almost 5 star good.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "fxer",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/46990/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2005-09-17T16:45:48.263Z",
+              "reviewBody": "This is a great, basic, easy waffle.  My waffle iron sat unused for--literally--10 years.  Wanted to try something new this morning with basic ingredients that I knew I had in the kitchen.  \r\n\r\nThe first waffle didn't turn out because I didn't use enough batter--my waffle iron needed about 2/3 cup each--but after that they were perfect.\r\n\r\nFor those new to waffle-making, here is a good tip I have used to know when they are done without having to open the iron constantly to look (which can ruin the waffle if it is still soft)...  It's done when the waffle quits ejecting plumes of steam around the edges of the iron.  (It's also usually done when it quits sticking to the iron.)\r\n\r\nWill definitely make these again -- probably tomorrow!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "bamacook",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/656154/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2012-05-25T17:37:37.447Z",
+              "reviewBody": "HALF THE CALORIES, NO BRAINER!!  These waffles are good BUT...I made easy changes to make HUGE improvements to the nutritional value.  Instead of 2 eggs I used 3 egg whites and I used skim milk made into buttermilk instead of 2% milk (just add 1-1/2T lemon juice and let sit for 5 minutes). In place of ½ cup of oil I used fat-free vanilla yogurt.  I agree with other reviews that the recipe as written is a little bland so instead of 1 tbsp white sugar I used ¼ cup Splenda.  I also used 2 tsp of vanilla and about a heaping tsp cinnamon.  I can feel GOOD about serving a 195 calorie waffle as opposed to a 400 calorie waffle - especially when my picky husband can't tell the difference!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "SDOUGLAS",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/452203/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2012-08-09T16:20:52.837Z",
+              "reviewBody": "As is, this is a really good spot on recipe.  Easy to make and enjoyable to eat.  However, with a few modifications it melts in your mouth!  \nHere are the modifications that I made and yes, this will be redundant because so many other reviewers have done the same thing, AND with good reason!  Yum Yum!\nSugar changed 2 tablespoon brown sugar AND 2 tablespoon white sugar\nvanilla extract changed 1 1/4 teaspoon vanilla extract\nAdded 1/4 tsp of cinnamon did not want to overpower the flavor of the waffles themselves.  \nThe other changes I did were on the building...\nThe eggs and how they are incorporated.. and yes, again this is redundant because sooo many others have said the same thing and it works to make them light and delicious!\nseperate the eggs... put the whites in the blender and whip them till they start forming the fluffy whites... then add the yolks on low... then i added the milk, then the vegetable oil allowing to mix before adding the vanilla and all the dry goods (mix them before hand in another bowl).  \nThis helped produce a light waffle that really melted in my mouth YUM!  I will post a pict later of how they turned out.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Michi Ilundaria",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3244473/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2002-10-18T17:33:40.717Z",
+              "reviewBody": "I will never use another waffle recipe again!  I put all the ingredients into a blender to mix and baked beautiful, light and crisp waffles.  I even used all whole wheat flour, and they were still light and wonderful.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "CINQ",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/630062/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2006-03-28T15:08:16.687Z",
+              "reviewBody": "Good recipe, especially because I could make it the night before.  I changed it slightly, separating the eggs and whipping the whites until they were light and fluffy before I mixed in the rest of the ingredients.  I also doubled the sugar and vanilla, as was suggested, and added a sprinkling of cinnamon and nutmeg.  Delicious!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Kimberley Forsythe",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1798487/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-03-13T18:41:56.89Z",
+              "reviewBody": "These are GREAT waffles.  My kids and husband loved them.  They are nice and light and taste good.  EASY to make.  \r\n\r\nAbout the review that said they have to much baking soda--oops.  The recipe calls for baking POWDER and if you use Rumford brand there is no bad flavor at all (it's healthier too).  Just a heads up for those who might not try the recipe based on that review.  \r\n\r\nThis is my new waffle recipe.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "WILSONWIFE",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/651786/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2012-05-13T18:24:28.123Z",
+              "reviewBody": "Fantastic!!! Hard to find such a fluffy light recipe using whole wheat flour but this is it! I cut oil in half to 1/4 cup, used whole wheat flour instead of white, doubled vanilla, added a sprinkle of cinnamon.\nI have started to use melted butter for the oil, very good, everyone says they are the best waffles ever.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "the4taals",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1554570/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Waffles I",
+            "description": "Try these easy homemade waffles for any special breakfast.",
+            "uploadDate": "2012-05-30T05:17:09.700Z",
+            "duration": "PT2M5.459S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F2c5c4f03-f518-4d21-b578-103b0c3b604b%2F839bf6ba-3a52-4b31-be03-8872b4f3601e%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1662271207001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                "name": "Meat and Poultry Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+                "name": "Chicken",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/",
+                "name": "Chicken Breast Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/269760/smothered-chicken-with-spinach-potatoes-and-mushrooms/",
+          "name": "Smothered Chicken with Spinach, Potatoes, and Mushrooms",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1635331.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Smothered Chicken with Spinach, Potatoes, and Mushrooms"
+          },
+          "datePublished": "2020-03-25T02:48:28.000Z",
+          "description": "If you are looking for a creamy, cheesy, flavorful recipe - this is it! Comfort food is always welcomed in every home. I think most of you will love this dish!",
+          "prepTime": "P0DT0H30M",
+          "cookTime": "P0DT1H5M",
+          "totalTime": "P0DT1H35M",
+          "recipeYield": "8 servings",
+          "recipeIngredient": [
+            "½ cup all-purpose flour",
+            "1 tablespoon garlic powder",
+            "1 tablespoon onion powder",
+            "1 tablespoon paprika",
+            "1 tablespoon poultry seasoning",
+            "salt and ground black pepper to taste",
+            "2 pounds skinless, boneless chicken breasts, cut into thick strips",
+            "1 tablespoon olive oil, or as needed",
+            "6 small red potatoes, quartered",
+            "1 tablespoon butter, or more as needed",
+            "1 (8 ounce) package sliced fresh mushrooms",
+            "3 green onions, diced",
+            "3 cloves garlic, diced",
+            "1 (10.75 ounce) can  condensed cream of chicken soup",
+            "1 cup low-sodium chicken broth",
+            "½ cup sherry wine",
+            "1 (8 ounce) package fresh spinach",
+            "1 (8 ounce) package shredded mozzarella cheese",
+            "½ cup grated Parmesan cheese"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Preheat the oven to 350 degrees F (175 degrees C). Oil a baking dish.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Combine flour, garlic powder, onion powder, paprika, poultry seasoning, salt, and black pepper in a large resealable plastic bag. Add chicken and toss to coat well. Shake off excess breading.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Heat olive oil in a skillet over medium-high heat. Brown chicken on both sides, 5 to 10 minutes. Transfer to the prepared baking dish. Cook and stir potatoes in the same skillet until almost tender, 3 to 5 minutes. Transfer to the baking dish.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Add butter to the same skillet over medium-high heat. Saute mushrooms for 2 minutes. Add green onions and garlic and saute until garlic is browned, about 3 minutes. Add soup, broth, and sherry. Bring to a boil and cook until sauce thickens, about 5 minutes. Add spinach and cook until wilted, 2 to 3 minutes.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Pour sauce over chicken and potatoes in the baking dish. Top with mozzarella and Parmesan cheeses. Cover dish with aluminum foil.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Bake in the preheated oven for 20 minutes. Remove aluminum foil and bake for 20 minutes more.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Meat and Poultry Recipes",
+            "Chicken",
+            "Chicken Breast Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Anonymous"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.546666666666667,
+            "ratingCount": 75,
+            "itemReviewed": "Smothered Chicken with Spinach, Potatoes, and Mushrooms",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "440.8 calories",
+            "carbohydrateContent": "37.3 g",
+            "cholesterolContent": "94.3 mg",
+            "fatContent": "14.6 g",
+            "fiberContent": "4 g",
+            "proteinContent": "39.1 g",
+            "saturatedFatContent": "6.4 g",
+            "servingSize": null,
+            "sodiumContent": "723 mg",
+            "sugarContent": "3.4 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2019-01-21T04:01:46.34Z",
+              "reviewBody": "I made the recipe as written.  Some problems were that the recipe doesn’t say how big of a casserole dish to use.  By the time the chicken and potatoes were added and sauce was made I realized that a bigger casserole (13x9) at least is needed.  Also, there is a lot of salt in this recipe some needed some not.  Definitely use low salt Soup.  The chicken was really tender.  I’ll make this again.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "AnneG",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/24217145/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-01-22T08:50:26.817Z",
+              "reviewBody": "Made this recipe for my husband. It was excellent. It didn't specify what size of pan to use, I used a 9x13 size Pyrex and it worked well. I used double of the mushrooms, came out great. I also used cream of mushroom instead. Great recipe and really good flavor, this is definitely a keeper for future dinners. I think this would be a great dinner if you were having guest over a nice dinner.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Leanna Good",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/5369115/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-02-19T04:40:33.62Z",
+              "reviewBody": "This was a good recipe.  For all the fresh ingredients in this dish, I was disappointed at how overwhelming and dominant the canned soup taste was.  My husband would give it 5 stars.  I give it 4 for taste.  Unfortunately I will NOT make this recipe again as it is just very labor intensive.  Lots of ingredients being cooked on the stove first, then transferrend to the baking dish while it awaits the next layer of ingredients to cook on the stove, and then again.   Make sure you have enough time to prep!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "karpomarx",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/4168655/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-08-11T09:09:51.437Z",
+              "reviewBody": "What else can I say besides this was fantastic?!!  I followed the recipe exactly and would not change a thing.  I sat on my screened porch with a plate full of this and a glass of chilled chardonnary. I'm really glad I have leftovers for tomorrow night!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Mother Ann",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/motherann/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-02-20T07:14:51.55Z",
+              "reviewBody": "This recipe was a lot of work for the subtle flavor it had. I will not be making it again.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Donna Corea",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/24084700/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-05-02T21:11:48.13Z",
+              "reviewBody": "I have made this 3 times and love it. The first time I forgot to use the flour mixture, so I just sprinkled the spices over the chicken and it was great.\nThe second time I made it was for friends and they love love loved it.\nLast time, I put small broccoli florets in it as well as the spinach.  Wonderful. \nA keeper for life. Still haven't used the flour. YUM",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "bettyaagnew",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/29563286/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-01-19T02:38:25.573Z",
+              "reviewBody": "This recipe sounds like it will taste great! Thanks for this recipe!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Tome Trajkovski",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/22924845/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-01-20T12:47:52.257Z",
+              "reviewBody": "Wonderful, my family all said they felt like they were in a fancy restaurant.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Rhonda Dickson",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/22239052/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-04-23T05:15:09.203Z",
+              "reviewBody": "Super good, in fact the chicken alone after frying up was good enough to finish all by itself.   I used thighs instead of breast meat - a personal choice and omitted the potatoes serving the dish over rice.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "David Ehl",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/15792402/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Smothered Chicken with Spinach, Potatoes, and Mushrooms ",
+            "description": "This rich and cheese chicken recipe makes and easy and delicious dinner!",
+            "uploadDate": "2020-03-24T19:31:00.470Z",
+            "duration": "PT1M0.139S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F2bfe8e53-c0d1-4830-bf3a-39b5be902d34%2F968698a6-2276-4de6-b25f-ca694e7d713c%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6144415320001"
+          }
+        }
+      ]
+         
+    ]
+        

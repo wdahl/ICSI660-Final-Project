@@ -1,0 +1,2126 @@
+<https://www.allrecipes.com/> <http://schema.org/name> "Home" .
+<https://www.allrecipes.com/recipes/1014/meat-and-poultry/pork/tenderloin/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/13289/main-dish/stuffed-main-dishes/stuffed-bell-peppers/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/13290/main-dish/seafood/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/13293/main-dish/seafood/salmon/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/15455/main-dish/meatballs/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/15850/main-dish/seafood/salmon/salmon-fillets/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/17246/main-dish/stuffed-main-dishes/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/17659/main-dish/meatballs/italian-meatballs/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/202/meat-and-poultry/game-meats/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/205/meat-and-poultry/pork/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/206/meat-and-poultry/turkey/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/227/world-cuisine/asian/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/233/world-cuisine/asian/indian/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/496/side-dish/sauces-and-condiments/sauces/pasta-sauces/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/563/side-dish/sauces-and-condiments/sauces/pasta-sauces/creamy/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/662/meat-and-poultry/chicken/whole-chicken/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/667/meat-and-poultry/game-meats/venison/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/693/meat-and-poultry/turkey/ground/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/80/main-dish/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/81/side-dish/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/86/world-cuisine/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/92/meat-and-poultry/> <http://schema.org/name> "Main Dishes" .
+<https://www.allrecipes.com/recipes/> <http://schema.org/name> "Recipes" .
+_:b0 <http://schema.org/itemListElement> _:b1 .
+_:b0 <http://schema.org/itemListElement> _:b2 .
+_:b0 <http://schema.org/itemListElement> _:b3 .
+_:b0 <http://schema.org/itemListElement> _:b4 .
+_:b0 <http://schema.org/itemListElement> _:b5 .
+_:b0 <http://schema.org/itemListElement> _:b6 .
+_:b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> .
+_:b1 <http://schema.org/item> <https://www.allrecipes.com/> .
+_:b1 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b10 <http://schema.org/height> "2592"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b10 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1122495.jpg> .
+_:b10 <http://schema.org/width> "2592"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b100 <http://schema.org/name> "Super Home Chef" .
+_:b100 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/24943391/> .
+_:b100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b101 <http://schema.org/bestRating> "5" .
+_:b101 <http://schema.org/ratingValue> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b101 <http://schema.org/worstRating> "1" .
+_:b101 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b102 <http://schema.org/itemListElement> _:b103 .
+_:b102 <http://schema.org/itemListElement> _:b104 .
+_:b102 <http://schema.org/itemListElement> _:b105 .
+_:b102 <http://schema.org/itemListElement> _:b106 .
+_:b102 <http://schema.org/itemListElement> _:b107 .
+_:b102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> .
+_:b103 <http://schema.org/item> <https://www.allrecipes.com/> .
+_:b103 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b103 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b104 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
+_:b104 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b105 <http://schema.org/item> <https://www.allrecipes.com/recipes/92/meat-and-poultry/> .
+_:b105 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b105 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b106 <http://schema.org/item> <https://www.allrecipes.com/recipes/202/meat-and-poultry/game-meats/> .
+_:b106 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b106 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b107 <http://schema.org/item> <https://www.allrecipes.com/recipes/667/meat-and-poultry/game-meats/venison/> .
+_:b107 <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b107 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b108 <http://schema.org/aggregateRating> _:b109 .
+_:b108 <http://schema.org/author> _:b110 .
+_:b108 <http://schema.org/cookTime> "P0DT2H0M" .
+_:b108 <http://schema.org/datePublished> "2019-11-14T04:19:26.000Z"^^<http://schema.org/Date> .
+_:b108 <http://schema.org/description> "A hearty, warming, and comforting venison shepherd's pie that's perfect for opening day!" .
+_:b108 <http://schema.org/image> _:b111 .
+_:b108 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/277079/sweet-potato-and-venison-shepherds-pie/> .
+_:b108 <http://schema.org/name> "Sweet Potato and Venison Shepherd's Pie" .
+_:b108 <http://schema.org/nutrition> _:b112 .
+_:b108 <http://schema.org/prepTime> "P0DT0H45M" .
+_:b108 <http://schema.org/recipeCategory> "Game Meats" .
+_:b108 <http://schema.org/recipeCategory> "Main Dishes" .
+_:b108 <http://schema.org/recipeCategory> "Venison" .
+_:b108 <http://schema.org/recipeIngredient> "1 (8 ounce) package cremini mushrooms, sliced" .
+_:b108 <http://schema.org/recipeIngredient> "1 cup frozen peas" .
+_:b108 <http://schema.org/recipeIngredient> "1 cup low-sodium chicken broth" .
+_:b108 <http://schema.org/recipeIngredient> "1 large onion, chopped" .
+_:b108 <http://schema.org/recipeIngredient> "1 large sweet potato" .
+_:b108 <http://schema.org/recipeIngredient> "1 pinch freshly ground nutmeg" .
+_:b108 <http://schema.org/recipeIngredient> "1 pound ground venison" .
+_:b108 <http://schema.org/recipeIngredient> "1 stalk celery, chopped" .
+_:b108 <http://schema.org/recipeIngredient> "1 teaspoon dried oregano" .
+_:b108 <http://schema.org/recipeIngredient> "1 teaspoon dried thyme" .
+_:b108 <http://schema.org/recipeIngredient> "1 teaspoon garlic powder" .
+_:b108 <http://schema.org/recipeIngredient> "1 teaspoon onion powder" .
+_:b108 <http://schema.org/recipeIngredient> "2 carrots, peeled and chopped" .
+_:b108 <http://schema.org/recipeIngredient> "2 tablespoons all-purpose flour" .
+_:b108 <http://schema.org/recipeIngredient> "2 tablespoons milk, or more as needed" .
+_:b108 <http://schema.org/recipeIngredient> "2 tablespoons unsalted butter, softened" .
+_:b108 <http://schema.org/recipeIngredient> "2 tablespoons vegetable oil" .
+_:b108 <http://schema.org/recipeIngredient> "4 cloves garlic, chopped" .
+_:b108 <http://schema.org/recipeIngredient> "salt to taste" .
+_:b108 <http://schema.org/recipeIngredient> "¼ teaspoon dried sage" .
+_:b108 <http://schema.org/recipeIngredient> "¼ teaspoon ground black pepper, or to taste" .
+_:b108 <http://schema.org/recipeIngredient> "½ cup shredded sharp Cheddar cheese" .
+_:b108 <http://schema.org/recipeIngredient> "½ teaspoon dried sage" .
+_:b108 <http://schema.org/recipeIngredient> "½ teaspoon ground black pepper, or to taste" .
+_:b108 <http://schema.org/recipeIngredient> "½ teaspoon salt, or to taste" .
+_:b108 <http://schema.org/recipeIngredient> "⅔ cup dry white wine" .
+_:b108 <http://schema.org/recipeInstructions> _:b113 .
+_:b108 <http://schema.org/recipeInstructions> _:b114 .
+_:b108 <http://schema.org/recipeInstructions> _:b115 .
+_:b108 <http://schema.org/recipeInstructions> _:b116 .
+_:b108 <http://schema.org/recipeInstructions> _:b117 .
+_:b108 <http://schema.org/recipeInstructions> _:b118 .
+_:b108 <http://schema.org/recipeInstructions> _:b119 .
+_:b108 <http://schema.org/recipeInstructions> _:b120 .
+_:b108 <http://schema.org/recipeInstructions> _:b121 .
+_:b108 <http://schema.org/recipeYield> "6 servings" .
+_:b108 <http://schema.org/review> _:b122 .
+_:b108 <http://schema.org/review> _:b125 .
+_:b108 <http://schema.org/totalTime> "P0DT2H50M" .
+_:b108 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b109 <http://schema.org/bestRating> "5" .
+_:b109 <http://schema.org/itemReviewed> "Sweet Potato and Venison Shepherd's Pie" .
+_:b109 <http://schema.org/ratingCount> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b109 <http://schema.org/ratingValue> "4.333333333333333E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b109 <http://schema.org/worstRating> "1" .
+_:b109 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:b11 <http://schema.org/calories> "345.2 calories" .
+_:b11 <http://schema.org/carbohydrateContent> "5.2 g" .
+_:b11 <http://schema.org/cholesterolContent> "74.4 mg" .
+_:b11 <http://schema.org/fatContent> "23.8 g" .
+_:b11 <http://schema.org/fiberContent> "0.5 g" .
+_:b11 <http://schema.org/proteinContent> "26.3 g" .
+_:b11 <http://schema.org/saturatedFatContent> "3.8 g" .
+_:b11 <http://schema.org/sodiumContent> "654.4 mg" .
+_:b11 <http://schema.org/sugarContent> "4 g" .
+_:b11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:b110 <http://schema.org/name> "Kim" .
+_:b110 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b111 <http://schema.org/height> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b111 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7234883.jpg> .
+_:b111 <http://schema.org/width> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b111 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b112 <http://schema.org/calories> "358.3 calories" .
+_:b112 <http://schema.org/carbohydrateContent> "29.5 g" .
+_:b112 <http://schema.org/cholesterolContent> "76.2 mg" .
+_:b112 <http://schema.org/fatContent> "14.2 g" .
+_:b112 <http://schema.org/fiberContent> "5.8 g" .
+_:b112 <http://schema.org/proteinContent> "23.1 g" .
+_:b112 <http://schema.org/saturatedFatContent> "6.4 g" .
+_:b112 <http://schema.org/sodiumContent> "444.9 mg" .
+_:b112 <http://schema.org/sugarContent> "7.7 g" .
+_:b112 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:b113 <http://schema.org/text> "Preheat the oven to 375 degrees F (190 degrees C).\n" .
+_:b113 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b114 <http://schema.org/text> "Pierce the sweet potato several times with a fork and wrap in aluminum foil. Place on a baking sheet.\n" .
+_:b114 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b115 <http://schema.org/text> "Roast in the preheated oven until sweet potato is fork-tender, 70 to 90 minutes. Remove from the oven and let cool enough to handle, 5 to 10 minutes.\n" .
+_:b115 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b116 <http://schema.org/text> "Reduce oven temperature to 350 degrees F (175 degrees C). Lightly grease a 9-inch deep-dish pie plate and place on a rimmed baking sheet to prevent bubbling over.\n" .
+_:b116 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b117 <http://schema.org/text> "Peel skin off the sweet potato and place flesh into a large bowl. Add butter, milk, salt, pepper, sage, and nutmeg. Beat using an electric mixer until ingredients are combined. Mix in Cheddar cheese gently. Set aside.\n" .
+_:b117 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b118 <http://schema.org/text> "Heat vegetable oil in a Dutch oven over medium-high heat. Add mushrooms, onion, carrots, celery, and garlic. Sprinkle with salt. Cook until vegetables have softened, 5 to 7 minutes. Add venison, thyme, oregano, garlic powder, onion powder, 1/2 teaspoon salt, pepper, and sage. Stir to combine, breaking up any large pieces of venison. Cook until venison is no longer pink, 5 to 7 minutes.\n" .
+_:b118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b119 <http://schema.org/text> "Stir flour into the pot and cook for 1 minute. Pour in white wine and stir to loosen any browned bits from the bottom of the pan. Cook until wine has reduced slightly, 2 to 3 minutes. Stir in broth. Allow mixture to come to a simmer; continue to cook until filling has thickened, 5 to 10 minutes. Stir in peas. Taste and adjust salt and pepper as necessary. Remove from heat and let cool slightly.\n" .
+_:b119 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b12 <http://schema.org/text> "Stir salt, paprika, cardamom, coriander, and black pepper together in a bowl. Add oil and maple syrup and stir until evenly combined.\n" .
+_:b12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b120 <http://schema.org/text> "Pour filling into the prepared pie plate. Top with sweet potato mixture and spread gently across the top, covering most of the filling.\n" .
+_:b120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b121 <http://schema.org/text> "Bake in the preheated oven until top is set and filling is bubbling, about 30 minutes. Allow to cool slightly before serving.\n" .
+_:b121 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b122 <http://schema.org/author> _:b123 .
+_:b122 <http://schema.org/datePublished> "2019-11-13T08:50:36.76Z"^^<http://schema.org/Date> .
+_:b122 <http://schema.org/reviewBody> "super good but the broth peas and wine were missing from my ingredients. lucky I had these. just wanted to bring attention to this." .
+_:b122 <http://schema.org/reviewRating> _:b124 .
+_:b122 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b123 <http://schema.org/name> "mklavery" .
+_:b123 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/8014462/> .
+_:b123 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b124 <http://schema.org/bestRating> "5" .
+_:b124 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b124 <http://schema.org/worstRating> "1" .
+_:b124 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b125 <http://schema.org/author> _:b126 .
+_:b125 <http://schema.org/datePublished> "2021-02-17T18:27:03.56Z"^^<http://schema.org/Date> .
+_:b125 <http://schema.org/reviewBody> "I used ground moose. Left out sage and nutmeg. Found there were too many flavours and that they covered up the taste of the meat. Maybe that was the point? The topping was tasty. May use that on another recipe. Won't make again." .
+_:b125 <http://schema.org/reviewRating> _:b127 .
+_:b125 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b126 <http://schema.org/name> "dds" .
+_:b126 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/28741255/> .
+_:b126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b127 <http://schema.org/bestRating> "5" .
+_:b127 <http://schema.org/ratingValue> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b127 <http://schema.org/worstRating> "1" .
+_:b127 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b128 <http://schema.org/itemListElement> _:b129 .
+_:b128 <http://schema.org/itemListElement> _:b130 .
+_:b128 <http://schema.org/itemListElement> _:b131 .
+_:b128 <http://schema.org/itemListElement> _:b132 .
+_:b128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> .
+_:b129 <http://schema.org/item> <https://www.allrecipes.com/> .
+_:b129 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b129 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b13 <http://schema.org/text> "Preheat a non-stick frying pan over medium-high heat, about 350 degrees F (175 degrees C).\n" .
+_:b13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b130 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
+_:b130 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b131 <http://schema.org/item> <https://www.allrecipes.com/recipes/92/meat-and-poultry/> .
+_:b131 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b131 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b132 <http://schema.org/item> <https://www.allrecipes.com/recipes/205/meat-and-poultry/pork/> .
+_:b132 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b133 <http://schema.org/aggregateRating> _:b134 .
+_:b133 <http://schema.org/author> _:b135 .
+_:b133 <http://schema.org/cookTime> "P0DT0H45M" .
+_:b133 <http://schema.org/datePublished> "2019-11-02T07:24:39.000Z"^^<http://schema.org/Date> .
+_:b133 <http://schema.org/description> "Roasting the pumpkin brings out the sweetness, which pairs well with the salty pancetta. This \"primo piatto,\" or first course, is simple and delicious!" .
+_:b133 <http://schema.org/image> _:b136 .
+_:b133 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/276904/gemelli-pasta-with-roasted-pumpkin-and-pancetta/> .
+_:b133 <http://schema.org/name> "Gemelli Pasta with Roasted Pumpkin and Pancetta" .
+_:b133 <http://schema.org/nutrition> _:b137 .
+_:b133 <http://schema.org/prepTime> "P0DT0H10M" .
+_:b133 <http://schema.org/recipeCategory> "Main Dishes" .
+_:b133 <http://schema.org/recipeCategory> "Pork" .
+_:b133 <http://schema.org/recipeIngredient> "1 (4 ounce) package diced pancetta" .
+_:b133 <http://schema.org/recipeIngredient> "1 cup chicken broth" .
+_:b133 <http://schema.org/recipeIngredient> "1 teaspoon fresh thyme" .
+_:b133 <http://schema.org/recipeIngredient> "2 cups peeled, cubed pumpkin" .
+_:b133 <http://schema.org/recipeIngredient> "2 tablespoons extra-virgin olive oil, divided" .
+_:b133 <http://schema.org/recipeIngredient> "¼ cup grated Parmigiano-Reggiano cheese  " .
+_:b133 <http://schema.org/recipeIngredient> "¼ teaspoon salt" .
+_:b133 <http://schema.org/recipeIngredient> "½ (16 ounce) package gemelli pasta" .
+_:b133 <http://schema.org/recipeIngredient> "⅛ teaspoon ground black pepper" .
+_:b133 <http://schema.org/recipeInstructions> _:b138 .
+_:b133 <http://schema.org/recipeInstructions> _:b139 .
+_:b133 <http://schema.org/recipeInstructions> _:b140 .
+_:b133 <http://schema.org/recipeInstructions> _:b141 .
+_:b133 <http://schema.org/recipeInstructions> _:b142 .
+_:b133 <http://schema.org/recipeInstructions> _:b143 .
+_:b133 <http://schema.org/recipeYield> "4 servings" .
+_:b133 <http://schema.org/totalTime> "P0DT0H55M" .
+_:b133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b134 <http://schema.org/bestRating> "5" .
+_:b134 <http://schema.org/itemReviewed> "Gemelli Pasta with Roasted Pumpkin and Pancetta" .
+_:b134 <http://schema.org/worstRating> "1" .
+_:b134 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:b135 <http://schema.org/name> "Kim's Cooking Now" .
+_:b135 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b136 <http://schema.org/height> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b136 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7167605.jpg> .
+_:b136 <http://schema.org/width> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b136 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b137 <http://schema.org/calories> "355.7 calories" .
+_:b137 <http://schema.org/carbohydrateContent> "45.8 g" .
+_:b137 <http://schema.org/cholesterolContent> "16.1 mg" .
+_:b137 <http://schema.org/fatContent> "13.6 g" .
+_:b137 <http://schema.org/fiberContent> "2.3 g" .
+_:b137 <http://schema.org/proteinContent> "13.8 g" .
+_:b137 <http://schema.org/saturatedFatContent> "3.4 g" .
+_:b137 <http://schema.org/sodiumContent> "729.9 mg" .
+_:b137 <http://schema.org/sugarContent> "3 g" .
+_:b137 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:b138 <http://schema.org/text> "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper.\n" .
+_:b138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b139 <http://schema.org/text> "Pile diced pumpkin on the baking sheet. Drizzle with 1 tablespoon olive oil and toss lightly to coat. Spread pumpkin out and sprinkle with thyme, salt, and pepper.\n" .
+_:b139 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b14 <http://schema.org/text> "Dredge salmon pieces through the maple syrup mixture until evenly coated on all sides.\n" .
+_:b14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b140 <http://schema.org/text> "Bake in the preheated oven for 20 minutes. Remove and set aside.\n" .
+_:b140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b141 <http://schema.org/text> "Bring a large pot of unsalted water to a boil. Add gemelli pasta and boil until just nearly tender, about 9 minutes.\n" .
+_:b141 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b142 <http://schema.org/text> "Heat remaining olive oil in a large pan over medium heat. Add pancetta and cook until starting to brown, 4 to 5 minutes. Add the roasted pumpkin and cook, stirring frequently, 2 to 3 minutes more. Pour in chicken broth and bring to a boil.\n" .
+_:b142 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b143 <http://schema.org/text> "Drain pasta and add to the pan with the pumpkin mixture. Continue cooking until pasta is tender yet firm to the bite, 1 to 2 minutes more. Serve immediately, topped with Parmigiano-Reggiano cheese.\n" .
+_:b143 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b144 <http://schema.org/itemListElement> _:b145 .
+_:b144 <http://schema.org/itemListElement> _:b146 .
+_:b144 <http://schema.org/itemListElement> _:b147 .
+_:b144 <http://schema.org/itemListElement> _:b148 .
+_:b144 <http://schema.org/itemListElement> _:b149 .
+_:b144 <http://schema.org/itemListElement> _:b150 .
+_:b144 <http://schema.org/itemListElement> _:b151 .
+_:b144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> .
+_:b145 <http://schema.org/item> <https://www.allrecipes.com/> .
+_:b145 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b146 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
+_:b146 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b146 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b147 <http://schema.org/item> <https://www.allrecipes.com/recipes/81/side-dish/> .
+_:b147 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b147 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b148 <http://schema.org/item> <https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/> .
+_:b148 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b148 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b149 <http://schema.org/item> <https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/> .
+_:b149 <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b15 <http://schema.org/text> "Cook salmon in the preheated pan until fish flakes easily with a fork, 5 to 7 minutes per side.\n" .
+_:b15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b150 <http://schema.org/item> <https://www.allrecipes.com/recipes/496/side-dish/sauces-and-condiments/sauces/pasta-sauces/> .
+_:b150 <http://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b150 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b151 <http://schema.org/item> <https://www.allrecipes.com/recipes/563/side-dish/sauces-and-condiments/sauces/pasta-sauces/creamy/> .
+_:b151 <http://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b151 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b152 <http://schema.org/aggregateRating> _:b153 .
+_:b152 <http://schema.org/author> _:b154 .
+_:b152 <http://schema.org/cookTime> "P0DT0H20M" .
+_:b152 <http://schema.org/datePublished> "2019-11-06T06:39:55.000Z"^^<http://schema.org/Date> .
+_:b152 <http://schema.org/description> "Ground beef makes this stroganoff sauce a quick, tasty comfort food served over noodles or mashed spuds." .
+_:b152 <http://schema.org/image> _:b155 .
+_:b152 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/276859/beef-stroganoff-with-ground-beef/> .
+_:b152 <http://schema.org/name> "Beef Stroganoff with Ground Beef" .
+_:b152 <http://schema.org/nutrition> _:b156 .
+_:b152 <http://schema.org/prepTime> "P0DT0H10M" .
+_:b152 <http://schema.org/recipeCategory> "Main Dishes" .
+_:b152 <http://schema.org/recipeCategory> "Pasta Sauce Recipes" .
+_:b152 <http://schema.org/recipeCategory> "Sauce Recipes" .
+_:b152 <http://schema.org/recipeCategory> "Sauces and Condiments Recipes" .
+_:b152 <http://schema.org/recipeCategory> "Side Dish" .
+_:b152 <http://schema.org/recipeIngredient> "1 (10.75 ounce) can  condensed cream of mushroom soup" .
+_:b152 <http://schema.org/recipeIngredient> "1 cup sliced fresh mushrooms" .
+_:b152 <http://schema.org/recipeIngredient> "1 pound lean ground beef" .
+_:b152 <http://schema.org/recipeIngredient> "1 tablespoon Worcestershire sauce" .
+_:b152 <http://schema.org/recipeIngredient> "1 tablespoon liquid smoke, or to taste" .
+_:b152 <http://schema.org/recipeIngredient> "1 teaspoon garlic powder" .
+_:b152 <http://schema.org/recipeIngredient> "1 teaspoon seasoning salt" .
+_:b152 <http://schema.org/recipeIngredient> "2 tablespoons all-purpose flour" .
+_:b152 <http://schema.org/recipeIngredient> "2 tablespoons butter" .
+_:b152 <http://schema.org/recipeIngredient> "¼ teaspoon ground black pepper" .
+_:b152 <http://schema.org/recipeIngredient> "½ teaspoon ground paprika" .
+_:b152 <http://schema.org/recipeIngredient> "¾ cup sour cream, or more to taste" .
+_:b152 <http://schema.org/recipeIngredient> "⅓ cup chopped onion" .
+_:b152 <http://schema.org/recipeInstructions> _:b157 .
+_:b152 <http://schema.org/recipeInstructions> _:b158 .
+_:b152 <http://schema.org/recipeYield> "4 servings" .
+_:b152 <http://schema.org/review> _:b159 .
+_:b152 <http://schema.org/review> _:b162 .
+_:b152 <http://schema.org/review> _:b165 .
+_:b152 <http://schema.org/review> _:b168 .
+_:b152 <http://schema.org/review> _:b171 .
+_:b152 <http://schema.org/review> _:b174 .
+_:b152 <http://schema.org/review> _:b177 .
+_:b152 <http://schema.org/review> _:b180 .
+_:b152 <http://schema.org/review> _:b183 .
+_:b152 <http://schema.org/totalTime> "P0DT0H30M" .
+_:b152 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b153 <http://schema.org/bestRating> "5" .
+_:b153 <http://schema.org/itemReviewed> "Beef Stroganoff with Ground Beef" .
+_:b153 <http://schema.org/ratingCount> "27"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b153 <http://schema.org/ratingValue> "4.037037037037037E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b153 <http://schema.org/worstRating> "1" .
+_:b153 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:b154 <http://schema.org/name> "Deena Kordt" .
+_:b154 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b155 <http://schema.org/height> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b155 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7323467.jpg> .
+_:b155 <http://schema.org/width> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b155 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b156 <http://schema.org/calories> "495.2 calories" .
+_:b156 <http://schema.org/carbohydrateContent> "13.9 g" .
+_:b156 <http://schema.org/cholesterolContent> "102.7 mg" .
+_:b156 <http://schema.org/fatContent> "38.4 g" .
+_:b156 <http://schema.org/fiberContent> "0.8 g" .
+_:b156 <http://schema.org/proteinContent> "23.9 g" .
+_:b156 <http://schema.org/saturatedFatContent> "16.9 g" .
+_:b156 <http://schema.org/sodiumContent> "891.5 mg" .
+_:b156 <http://schema.org/sugarContent> "2.8 g" .
+_:b156 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:b157 <http://schema.org/text> "Melt butter in a large skillet over medium-high heat. Add mushrooms and onions and saute until onions have turned translucent, about 5 minutes. Add ground beef and cook and stir until browned and crumbly, 5 to 7 minutes. Sprinkle with flour, garlic powder, seasoning salt, paprika, and pepper; stir until mixed in.\n" .
+_:b157 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b158 <http://schema.org/text> "Add condensed soup, sour cream, liquid smoke, and Worcestershire sauce. Reduce heat to medium, and cook and stir until sauce has thickened, 5 to 7 minutes.\n" .
+_:b158 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b159 <http://schema.org/author> _:b160 .
+_:b159 <http://schema.org/datePublished> "2020-02-02T08:33:41.823Z"^^<http://schema.org/Date> .
+_:b159 <http://schema.org/reviewBody> "Would be my last choice in a beef stroganoff recipe...  If you make it as per the recipe, it tastes like beef stroganoff without garlic and an over abundance of salt and worcestershire sauce.  I had to eat it, since I went to the trouble of making it, but I never would again.  There are lots of GOOD stroganoff recipes out there.  There is no reason to use this one." .
+_:b159 <http://schema.org/reviewRating> _:b161 .
+_:b159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b16 <http://schema.org/author> _:b17 .
+_:b16 <http://schema.org/datePublished> "2017-10-04T05:40:25.927Z"^^<http://schema.org/Date> .
+_:b16 <http://schema.org/reviewBody> "Very tasty! I only used 2 Tbsp. of oil and I think next time I will half the salt. I cooked it on medium for 6 minutes per side to avoid having the sauce stick to the pan. Very easy to make and great flavor!" .
+_:b16 <http://schema.org/reviewRating> _:b18 .
+_:b16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b160 <http://schema.org/name> "Larry Syverson" .
+_:b160 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/12295580/> .
+_:b160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b161 <http://schema.org/bestRating> "5" .
+_:b161 <http://schema.org/ratingValue> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b161 <http://schema.org/worstRating> "1" .
+_:b161 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b162 <http://schema.org/author> _:b163 .
+_:b162 <http://schema.org/datePublished> "2020-07-11T08:28:39.353Z"^^<http://schema.org/Date> .
+_:b162 <http://schema.org/reviewBody> "Tasty. Got finished with preparation and realized I had forgotten the flour—probably why it wasn’t overly thick. Will not use flour in the future. Also, it would be helpful to dilute the soup. Those 2 things should solve the thickness issue.  Used fresh garlic and red pepper flakes. Altogether an easy and yummy basic meal. Husband loved it." .
+_:b162 <http://schema.org/reviewRating> _:b164 .
+_:b162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b163 <http://schema.org/name> "pgrasso" .
+_:b163 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/27548001/> .
+_:b163 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b164 <http://schema.org/bestRating> "5" .
+_:b164 <http://schema.org/ratingValue> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b164 <http://schema.org/worstRating> "1" .
+_:b164 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b165 <http://schema.org/author> _:b166 .
+_:b165 <http://schema.org/datePublished> "2020-10-26T06:18:31.82Z"^^<http://schema.org/Date> .
+_:b165 <http://schema.org/reviewBody> "Good recipe! A little bland according to instructions. I add salt/pepper to taste. Also used fresh garlic." .
+_:b165 <http://schema.org/reviewRating> _:b167 .
+_:b165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b166 <http://schema.org/name> "Ian Malloy" .
+_:b166 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/27161379/> .
+_:b166 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b167 <http://schema.org/bestRating> "5" .
+_:b167 <http://schema.org/ratingValue> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b167 <http://schema.org/worstRating> "1" .
+_:b167 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b168 <http://schema.org/author> _:b169 .
+_:b168 <http://schema.org/datePublished> "2021-02-07T07:17:33.733Z"^^<http://schema.org/Date> .
+_:b168 <http://schema.org/reviewBody> "This was easy to put together. It's a good basic recipe. It's given me a place to start and build on. I'll make it again, but next time a little more salt and fresh garlic. I'll experiment with other seasonings as well. It has a lot of potential." .
+_:b168 <http://schema.org/reviewRating> _:b170 .
+_:b168 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b169 <http://schema.org/name> "Thom" .
+_:b169 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/28963206/> .
+_:b169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b17 <http://schema.org/name> "Raechael" .
+_:b17 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/raechael/> .
+_:b17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b170 <http://schema.org/bestRating> "5" .
+_:b170 <http://schema.org/ratingValue> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b170 <http://schema.org/worstRating> "1" .
+_:b170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b171 <http://schema.org/author> _:b172 .
+_:b171 <http://schema.org/datePublished> "2021-02-09T09:21:43.517Z"^^<http://schema.org/Date> .
+_:b171 <http://schema.org/reviewBody> "I used this stroganoff as a layer in my shepherds pie dinner and it was amazing!" .
+_:b171 <http://schema.org/reviewRating> _:b173 .
+_:b171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b172 <http://schema.org/name> "Amber Ward" .
+_:b172 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/27359543/> .
+_:b172 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b173 <http://schema.org/bestRating> "5" .
+_:b173 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b173 <http://schema.org/worstRating> "1" .
+_:b173 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b174 <http://schema.org/author> _:b175 .
+_:b174 <http://schema.org/datePublished> "2020-03-25T07:12:47.653Z"^^<http://schema.org/Date> .
+_:b174 <http://schema.org/reviewBody> "Needed a dish with 'soft' meat for someone who has had recent dental surgery. This met the need. Great taste. Easy . Quick . Would definitely fix again." .
+_:b174 <http://schema.org/reviewRating> _:b176 .
+_:b174 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b175 <http://schema.org/name> "Susan Wright" .
+_:b175 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/18060168/> .
+_:b175 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b176 <http://schema.org/bestRating> "5" .
+_:b176 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b176 <http://schema.org/worstRating> "1" .
+_:b176 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b177 <http://schema.org/author> _:b178 .
+_:b177 <http://schema.org/datePublished> "2019-11-22T08:00:36.607Z"^^<http://schema.org/Date> .
+_:b177 <http://schema.org/reviewBody> "Very easy and delicious recipe. The sauce is very thick. If you like a thinner stroganoff I think this would be good by including a little beef broth when adding the ingredients at the end." .
+_:b177 <http://schema.org/reviewRating> _:b179 .
+_:b177 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b178 <http://schema.org/name> "fabeveryday" .
+_:b178 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/fabeveryday/> .
+_:b178 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b179 <http://schema.org/bestRating> "5" .
+_:b179 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b179 <http://schema.org/worstRating> "1" .
+_:b179 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b18 <http://schema.org/bestRating> "5" .
+_:b18 <http://schema.org/ratingValue> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b18 <http://schema.org/worstRating> "1" .
+_:b18 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b180 <http://schema.org/author> _:b181 .
+_:b180 <http://schema.org/datePublished> "2020-07-19T06:53:29.43Z"^^<http://schema.org/Date> .
+_:b180 <http://schema.org/reviewBody> "Ironically, I don't like mushrooms.. so didn't add fresh mushroom, but did use can of mushroom soup, per recipe.  Also didn't add liquid smoke, subbed beef stock, which help to thin out stroganoff.  My hubby and I both loved it.  Needs fresh parsley as garnish, didn't have, but did add some dried parsley.  Delish!" .
+_:b180 <http://schema.org/reviewRating> _:b182 .
+_:b180 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b181 <http://schema.org/name> "Laurie Mullay" .
+_:b181 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/24959307/> .
+_:b181 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b182 <http://schema.org/bestRating> "5" .
+_:b182 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b182 <http://schema.org/worstRating> "1" .
+_:b182 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b183 <http://schema.org/author> _:b184 .
+_:b183 <http://schema.org/datePublished> "2020-12-05T02:45:38.367Z"^^<http://schema.org/Date> .
+_:b183 <http://schema.org/reviewBody> "I made this and followed the recipe with only these changes.  I only had \"smoked paprika\" and because of this I did not put in the full amount of liquid smoke.  I would say if using the smoked paprika do not add any liquid smoke.  Otherwise, recipe was easy and quick and would make again." .
+_:b183 <http://schema.org/reviewRating> _:b185 .
+_:b183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b184 <http://schema.org/name> "Judy" .
+_:b184 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/10642443/> .
+_:b184 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b185 <http://schema.org/bestRating> "5" .
+_:b185 <http://schema.org/ratingValue> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b185 <http://schema.org/worstRating> "1" .
+_:b185 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b186 <http://schema.org/itemListElement> _:b187 .
+_:b186 <http://schema.org/itemListElement> _:b188 .
+_:b186 <http://schema.org/itemListElement> _:b189 .
+_:b186 <http://schema.org/itemListElement> _:b190 .
+_:b186 <http://schema.org/itemListElement> _:b191 .
+_:b186 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> .
+_:b187 <http://schema.org/item> <https://www.allrecipes.com/> .
+_:b187 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b188 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
+_:b188 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b188 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b189 <http://schema.org/item> <https://www.allrecipes.com/recipes/80/main-dish/> .
+_:b189 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b189 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b19 <http://schema.org/author> _:b20 .
+_:b19 <http://schema.org/datePublished> "2014-04-22T04:13:06.84Z"^^<http://schema.org/Date> .
+_:b19 <http://schema.org/reviewBody> "What an amazing recipe! I made it exactly as written except that I grilled it outdoors instead of cooking in a pan. The flavor was outstanding. The cardamom really takes this to another level so don't leave it out! It's a pricey spice but well worth it! I will be making this frequently especially for guests because it will definitely impress. Next time I will try it with the orange zest as suggested. Thank you for the great recipe!" .
+_:b19 <http://schema.org/reviewRating> _:b21 .
+_:b19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b190 <http://schema.org/item> <https://www.allrecipes.com/recipes/17246/main-dish/stuffed-main-dishes/> .
+_:b190 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b190 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b191 <http://schema.org/item> <https://www.allrecipes.com/recipes/13289/main-dish/stuffed-main-dishes/stuffed-bell-peppers/> .
+_:b191 <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b191 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b192 <http://schema.org/aggregateRating> _:b193 .
+_:b192 <http://schema.org/author> _:b194 .
+_:b192 <http://schema.org/cookTime> "P0DT0H55M" .
+_:b192 <http://schema.org/datePublished> "2020-06-30T01:28:21.000Z"^^<http://schema.org/Date> .
+_:b192 <http://schema.org/description> "Put a healthier family classic on the dinner table by substituting ground turkey for ground beef, and using frozen riced cauliflower instead of high-carb white rice." .
+_:b192 <http://schema.org/image> _:b195 .
+_:b192 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/276832/low-carb-turkey-stuffed-peppers/> .
+_:b192 <http://schema.org/name> "Low Carb Turkey-Stuffed Peppers" .
+_:b192 <http://schema.org/nutrition> _:b196 .
+_:b192 <http://schema.org/prepTime> "P0DT0H15M" .
+_:b192 <http://schema.org/recipeCategory> "Main Dishes" .
+_:b192 <http://schema.org/recipeCategory> "Stuffed Bell Pepper Recipes" .
+_:b192 <http://schema.org/recipeCategory> "Stuffed Main Dish Recipes" .
+_:b192 <http://schema.org/recipeIngredient> "1 (14.5 ounce) can diced tomatoes, undrained" .
+_:b192 <http://schema.org/recipeIngredient> "1 (8 ounce) can tomato sauce" .
+_:b192 <http://schema.org/recipeIngredient> "1 pound ground turkey" .
+_:b192 <http://schema.org/recipeIngredient> "1 tablespoon olive oil" .
+_:b192 <http://schema.org/recipeIngredient> "2 cloves garlic, chopped" .
+_:b192 <http://schema.org/recipeIngredient> "2 cups frozen cauliflower rice (such as Green Giant®)" .
+_:b192 <http://schema.org/recipeIngredient> "2 large bell peppers, any color - cut in half lengthwise, cored, and seeded" .
+_:b192 <http://schema.org/recipeIngredient> "2 teaspoons sambal oelek chili paste" .
+_:b192 <http://schema.org/recipeIngredient> "3 tablespoons diced fresh jalapeno pepper, or to taste" .
+_:b192 <http://schema.org/recipeIngredient> "4 (1 inch) cubes Colby-Jack cheese" .
+_:b192 <http://schema.org/recipeIngredient> "4 teaspoons reduced-fat sour cream" .
+_:b192 <http://schema.org/recipeIngredient> "8 slices pickled jalapeno peppers" .
+_:b192 <http://schema.org/recipeIngredient> "aluminum foil" .
+_:b192 <http://schema.org/recipeIngredient> "nonfat cooking spray" .
+_:b192 <http://schema.org/recipeIngredient> "½ cup diced onion" .
+_:b192 <http://schema.org/recipeIngredient> "½ cup water" .
+_:b192 <http://schema.org/recipeIngredient> "½ teaspoon freshly ground black pepper" .
+_:b192 <http://schema.org/recipeIngredient> "½ teaspoon salt" .
+_:b192 <http://schema.org/recipeIngredient> "⅓ cup shredded Colby-Jack cheese" .
+_:b192 <http://schema.org/recipeInstructions> _:b197 .
+_:b192 <http://schema.org/recipeInstructions> _:b198 .
+_:b192 <http://schema.org/recipeInstructions> _:b199 .
+_:b192 <http://schema.org/recipeInstructions> _:b200 .
+_:b192 <http://schema.org/recipeInstructions> _:b201 .
+_:b192 <http://schema.org/recipeYield> "4 stuffed pepper halves" .
+_:b192 <http://schema.org/review> _:b202 .
+_:b192 <http://schema.org/review> _:b205 .
+_:b192 <http://schema.org/review> _:b208 .
+_:b192 <http://schema.org/review> _:b211 .
+_:b192 <http://schema.org/review> _:b214 .
+_:b192 <http://schema.org/review> _:b217 .
+_:b192 <http://schema.org/review> _:b220 .
+_:b192 <http://schema.org/review> _:b223 .
+_:b192 <http://schema.org/totalTime> "P0DT0H70M" .
+_:b192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b193 <http://schema.org/bestRating> "5" .
+_:b193 <http://schema.org/itemReviewed> "Low Carb Turkey-Stuffed Peppers" .
+_:b193 <http://schema.org/ratingCount> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b193 <http://schema.org/ratingValue> "4.909090909090909E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b193 <http://schema.org/worstRating> "1" .
+_:b193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:b194 <http://schema.org/name> "lutzflcat" .
+_:b194 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b195 <http://schema.org/height> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b195 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7193347.jpg> .
+_:b195 <http://schema.org/width> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b195 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b196 <http://schema.org/calories> "462.8 calories" .
+_:b196 <http://schema.org/carbohydrateContent> "21.6 g" .
+_:b196 <http://schema.org/cholesterolContent> "130.1 mg" .
+_:b196 <http://schema.org/fatContent> "27.2 g" .
+_:b196 <http://schema.org/fiberContent> "6.4 g" .
+_:b196 <http://schema.org/proteinContent> "36.4 g" .
+_:b196 <http://schema.org/saturatedFatContent> "12.5 g" .
+_:b196 <http://schema.org/sodiumContent> "1313.5 mg" .
+_:b196 <http://schema.org/sugarContent> "8.4 g" .
+_:b196 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:b197 <http://schema.org/text> "Preheat the oven to 375 degrees F (190 degrees C). Spray a baking dish with cooking spray.\n" .
+_:b197 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b198 <http://schema.org/text> "Heat olive oil in a large skillet over medium heat. Stir in ground turkey, onion, jalapeno, and garlic. Cook and stir until turkey browns and vegetables are tender, 8 to 10 minutes. Drain grease from the skillet. Add frozen riced cauliflower, tomatoes, tomato sauce, water, chili paste, salt, and pepper; stir until well incorporated.  Reduce heat and simmer for 5 minutes.\n" .
+_:b198 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b199 <http://schema.org/text> "Place bell pepper halves in the prepared baking dish. Place 1 Colby-Jack cheese cube in each pepper half, and fill with turkey mixture. Spoon remaining turkey mixture into the dish around the peppers.\n" .
+_:b199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b2 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
+_:b2 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b20 <http://schema.org/name> "France C" .
+_:b20 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/francecevallos/> .
+_:b20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b200 <http://schema.org/text> "Cover dish with aluminum foil, and bake in the preheated oven for 30 minutes. Remove foil and sprinkle each pepper with shredded Colby-Jack cheese. Bake, uncovered, until peppers are soft and cheese has melted, about 10 minutes more.\n" .
+_:b200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b201 <http://schema.org/text> "To serve, spoon a little turkey mixture onto a plate, and place a bell pepper half on top of it. Top each serving with 1 teaspoon sour cream and 2 jalapeno slices.\n" .
+_:b201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b202 <http://schema.org/author> _:b203 .
+_:b202 <http://schema.org/datePublished> "2020-05-04T03:29:59.553Z"^^<http://schema.org/Date> .
+_:b202 <http://schema.org/reviewBody> "Amazing!! My husband loved, loved, loved them. He didn't even notice he was eating KETO recipe. I modified the recipe by adding Las Palmas chili sauce instead of tomato sauce; also added cheese to the turkey meat mixture. Will definitely do again" .
+_:b202 <http://schema.org/reviewRating> _:b204 .
+_:b202 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b203 <http://schema.org/name> "Sasha" .
+_:b203 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/25316298/> .
+_:b203 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b204 <http://schema.org/bestRating> "5" .
+_:b204 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b204 <http://schema.org/worstRating> "1" .
+_:b204 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b205 <http://schema.org/author> _:b206 .
+_:b205 <http://schema.org/datePublished> "2019-11-17T23:02:17.56Z"^^<http://schema.org/Date> .
+_:b205 <http://schema.org/reviewBody> "I added sliced portobello mushrooms because I love them and used Victoria White Linen Marinara. I couldn t find the chili paste so I used red pepper flakes and chili powder. This recipe is really easy has a lot of flavor and makes a lot of leftovers." .
+_:b205 <http://schema.org/reviewRating> _:b207 .
+_:b205 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b206 <http://schema.org/name> "wintuk03" .
+_:b206 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/3801832/> .
+_:b206 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b207 <http://schema.org/bestRating> "5" .
+_:b207 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b207 <http://schema.org/worstRating> "1" .
+_:b207 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b208 <http://schema.org/author> _:b209 .
+_:b208 <http://schema.org/datePublished> "2020-04-26T00:54:25.663Z"^^<http://schema.org/Date> .
+_:b208 <http://schema.org/reviewBody> "I used chili powder instead of paste. My 3 year old loved it!" .
+_:b208 <http://schema.org/reviewRating> _:b210 .
+_:b208 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b209 <http://schema.org/name> "Amy" .
+_:b209 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/27413020/> .
+_:b209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b21 <http://schema.org/bestRating> "5" .
+_:b21 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b21 <http://schema.org/worstRating> "1" .
+_:b21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b210 <http://schema.org/bestRating> "5" .
+_:b210 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b210 <http://schema.org/worstRating> "1" .
+_:b210 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b211 <http://schema.org/author> _:b212 .
+_:b211 <http://schema.org/datePublished> "2020-05-13T04:41:29.63Z"^^<http://schema.org/Date> .
+_:b211 <http://schema.org/reviewBody> "Really good! I made it exactly as instructed (er.... except I did 5 cloves of garlic... hehehe) since I’ve never made anything like this before and I’m a novice cook. I’m not on keto but just a wanted something tasty and healthy. I usually don’t like cauliflower but the cauliflower rice was well incorporated and didn’t bother me at all. The only thing is that I would like to find a way to make the sauce of the mixture just a little bit thicker next time (maybe slightly less water or a little bit of some kind of thickener? Or let it simmer a bit longer?). Sorry my picture isn’t great, the red plates we have don’t make food the most photogenic. Anyway it was delicious and I’d definitely make it again even if I can’t thicken it.\n\nUpdate: I had extra mixture when making this recently (I bought the peppers a couple days ahead and one went bad so I could only make two rather than four) and I just added some of it to some leftover spaghetti. Delicious!" .
+_:b211 <http://schema.org/reviewRating> _:b213 .
+_:b211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b212 <http://schema.org/name> "evilhag" .
+_:b212 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/evilhag/> .
+_:b212 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b213 <http://schema.org/bestRating> "5" .
+_:b213 <http://schema.org/ratingValue> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b213 <http://schema.org/worstRating> "1" .
+_:b213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b214 <http://schema.org/author> _:b215 .
+_:b214 <http://schema.org/datePublished> "2021-02-23T22:27:56.89Z"^^<http://schema.org/Date> .
+_:b214 <http://schema.org/reviewBody> "Loved it! I probably wouldn’t add water next time, because my personal preference is for a thicker sauce." .
+_:b214 <http://schema.org/reviewRating> _:b216 .
+_:b214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b215 <http://schema.org/name> "beth" .
+_:b215 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/28141938/> .
+_:b215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b216 <http://schema.org/bestRating> "5" .
+_:b216 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b216 <http://schema.org/worstRating> "1" .
+_:b216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b217 <http://schema.org/author> _:b218 .
+_:b217 <http://schema.org/datePublished> "2021-04-12T20:12:38.593Z"^^<http://schema.org/Date> .
+_:b217 <http://schema.org/reviewBody> "We really enjoyed this!  I did not add the water and it came out fine. I used Swiss cheese in each pepper and  mozzarella  on top.  Will make this again" .
+_:b217 <http://schema.org/reviewRating> _:b219 .
+_:b217 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b218 <http://schema.org/name> "Cinde" .
+_:b218 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/24430635/> .
+_:b218 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b219 <http://schema.org/bestRating> "5" .
+_:b219 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b219 <http://schema.org/worstRating> "1" .
+_:b219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b22 <http://schema.org/author> _:b23 .
+_:b22 <http://schema.org/datePublished> "2014-10-15T01:18:25.233Z"^^<http://schema.org/Date> .
+_:b22 <http://schema.org/reviewBody> "I loved the flavor combination. Will keep in the rotation for weeknight meals. I like to buy a large tray of salmon at Costco and then freeze it in smaller portions - this is a great way to use the frozen/thawed leftovers." .
+_:b22 <http://schema.org/reviewRating> _:b24 .
+_:b22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b220 <http://schema.org/author> _:b221 .
+_:b220 <http://schema.org/datePublished> "2020-07-21T04:47:11.583Z"^^<http://schema.org/Date> .
+_:b220 <http://schema.org/reviewBody> "Delicious and easy to make. Had no chili paste so used chili powder, didn't add water, and added an extra clove of garlic. Great recipe!!!" .
+_:b220 <http://schema.org/reviewRating> _:b222 .
+_:b220 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b221 <http://schema.org/name> "Adele for Mich" .
+_:b221 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/27817572/> .
+_:b221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b222 <http://schema.org/bestRating> "5" .
+_:b222 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b222 <http://schema.org/worstRating> "1" .
+_:b222 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b223 <http://schema.org/author> _:b224 .
+_:b223 <http://schema.org/datePublished> "2021-01-30T06:15:37.023Z"^^<http://schema.org/Date> .
+_:b223 <http://schema.org/reviewBody> "FANTASTIC and easy ! And GOOD you.  Vanessa" .
+_:b223 <http://schema.org/reviewRating> _:b225 .
+_:b223 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b224 <http://schema.org/name> "Vanessa McGregor" .
+_:b224 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/28897638/> .
+_:b224 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b225 <http://schema.org/bestRating> "5" .
+_:b225 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b225 <http://schema.org/worstRating> "1" .
+_:b225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b226 <http://schema.org/itemListElement> _:b227 .
+_:b226 <http://schema.org/itemListElement> _:b228 .
+_:b226 <http://schema.org/itemListElement> _:b229 .
+_:b226 <http://schema.org/itemListElement> _:b230 .
+_:b226 <http://schema.org/itemListElement> _:b231 .
+_:b226 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> .
+_:b227 <http://schema.org/item> <https://www.allrecipes.com/> .
+_:b227 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b228 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
+_:b228 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b228 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b229 <http://schema.org/item> <https://www.allrecipes.com/recipes/92/meat-and-poultry/> .
+_:b229 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b23 <http://schema.org/name> "RachelCooks4u" .
+_:b23 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/3130874/> .
+_:b23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b230 <http://schema.org/item> <https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/> .
+_:b230 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b230 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b231 <http://schema.org/item> <https://www.allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/> .
+_:b231 <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b231 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b232 <http://schema.org/aggregateRating> _:b233 .
+_:b232 <http://schema.org/author> _:b234 .
+_:b232 <http://schema.org/cookTime> "P0DT0H5M" .
+_:b232 <http://schema.org/datePublished> "2019-10-30T21:27:50.000Z"^^<http://schema.org/Date> .
+_:b232 <http://schema.org/description> "I tried to make a copycat Popeyes® fried chicken sandwich and ended up with a hybrid between that and the one from Chick-fil-A®. So you get the best of both worlds and what's more, this DIY version never runs out, not even on Sundays." .
+_:b232 <http://schema.org/image> _:b235 .
+_:b232 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/276887/copycat-fried-chicken-sandwich/> .
+_:b232 <http://schema.org/name> "Copycat Fried Chicken Sandwich" .
+_:b232 <http://schema.org/nutrition> _:b236 .
+_:b232 <http://schema.org/prepTime> "P0DT0H20M" .
+_:b232 <http://schema.org/recipeCategory> "Chicken Breast Recipes" .
+_:b232 <http://schema.org/recipeCategory> "Chicken" .
+_:b232 <http://schema.org/recipeCategory> "Main Dishes" .
+_:b232 <http://schema.org/recipeIngredient> "1 cup buttermilk" .
+_:b232 <http://schema.org/recipeIngredient> "1 dash hot sauce, or to taste" .
+_:b232 <http://schema.org/recipeIngredient> "1 large egg, beaten" .
+_:b232 <http://schema.org/recipeIngredient> "1 tablespoon dry ranch dressing mix (such as Hidden Valley Ranch®)" .
+_:b232 <http://schema.org/recipeIngredient> "12 dill pickle slices, or to taste" .
+_:b232 <http://schema.org/recipeIngredient> "1 ½ teaspoons cayenne pepper" .
+_:b232 <http://schema.org/recipeIngredient> "1 ⅓ cups all-purpose flour" .
+_:b232 <http://schema.org/recipeIngredient> "2 tablespoons cornstarch" .
+_:b232 <http://schema.org/recipeIngredient> "2 teaspoons kosher salt" .
+_:b232 <http://schema.org/recipeIngredient> "4 (5 ounce) skinless, boneless chicken breast halves" .
+_:b232 <http://schema.org/recipeIngredient> "4 soft hamburger buns, toasted and buttered" .
+_:b232 <http://schema.org/recipeIngredient> "6 tablespoons mayonnaise, or to taste" .
+_:b232 <http://schema.org/recipeIngredient> "canola oil for frying" .
+_:b232 <http://schema.org/recipeIngredient> "¼ cup milk" .
+_:b232 <http://schema.org/recipeIngredient> "½ cup buttermilk" .
+_:b232 <http://schema.org/recipeIngredient> "½ teaspoon freshly ground black pepper" .
+_:b232 <http://schema.org/recipeInstructions> _:b237 .
+_:b232 <http://schema.org/recipeInstructions> _:b238 .
+_:b232 <http://schema.org/recipeInstructions> _:b239 .
+_:b232 <http://schema.org/recipeInstructions> _:b240 .
+_:b232 <http://schema.org/recipeInstructions> _:b241 .
+_:b232 <http://schema.org/recipeInstructions> _:b242 .
+_:b232 <http://schema.org/recipeInstructions> _:b243 .
+_:b232 <http://schema.org/recipeYield> "4 sandwiches" .
+_:b232 <http://schema.org/review> _:b244 .
+_:b232 <http://schema.org/review> _:b247 .
+_:b232 <http://schema.org/review> _:b250 .
+_:b232 <http://schema.org/review> _:b253 .
+_:b232 <http://schema.org/review> _:b256 .
+_:b232 <http://schema.org/review> _:b259 .
+_:b232 <http://schema.org/review> _:b262 .
+_:b232 <http://schema.org/review> _:b265 .
+_:b232 <http://schema.org/review> _:b268 .
+_:b232 <http://schema.org/totalTime> "P0DT2H40M" .
+_:b232 <http://schema.org/video> _:b271 .
+_:b232 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b233 <http://schema.org/bestRating> "5" .
+_:b233 <http://schema.org/itemReviewed> "Copycat Fried Chicken Sandwich" .
+_:b233 <http://schema.org/ratingCount> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b233 <http://schema.org/ratingValue> "4.64E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b233 <http://schema.org/worstRating> "1" .
+_:b233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:b234 <http://schema.org/name> "Chef John" .
+_:b234 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b235 <http://schema.org/caption> "Copycat Fried Chicken Sandwich" .
+_:b235 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7219742.jpg> .
+_:b235 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b236 <http://schema.org/calories> "811.1 calories" .
+_:b236 <http://schema.org/carbohydrateContent> "74.6 g" .
+_:b236 <http://schema.org/cholesterolContent> "139.8 mg" .
+_:b236 <http://schema.org/fatContent> "39.6 g" .
+_:b236 <http://schema.org/fiberContent> "3.1 g" .
+_:b236 <http://schema.org/proteinContent> "37 g" .
+_:b236 <http://schema.org/saturatedFatContent> "7.9 g" .
+_:b236 <http://schema.org/sodiumContent> "3181.5 mg" .
+_:b236 <http://schema.org/sugarContent> "5.9 g" .
+_:b236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:b237 <http://schema.org/text> "Whisk buttermilk, salt, hot sauce, and ranch dressing mix together in a large bowl. Cut diagonal slits into the thick ends of chicken breasts and toss into marinade until well coated. Transfer to the refrigerator to marinate for 2 to 4 hours.\n" .
+_:b237 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b238 <http://schema.org/text> "Meanwhile, make the breading: Mix flour, cornstarch, salt, pepper, cayenne, and ranch dressing mix together in a shallow dish.\n" .
+_:b238 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b239 <http://schema.org/text> "Make the wash: Whisk egg, buttermilk, and milk together in another bowl until combined.\n" .
+_:b239 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b24 <http://schema.org/bestRating> "5" .
+_:b24 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b24 <http://schema.org/worstRating> "1" .
+_:b24 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b240 <http://schema.org/text> "Use a fork to pull chicken from marinade, letting any excess drip off. Dip into the breading to coat both sides; shake off any excess. Dip into egg wash mixture to saturate surface; return to breading to coat, shake off excess, and repeat once more. Let sit on a wire rack to dry, at least 15 minutes.\n" .
+_:b240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b241 <http://schema.org/text> "Heat oil in a deep-fryer to between 350 degrees F (175 degrees C) and 375 degrees F (190 degrees C).\n" .
+_:b241 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b242 <http://schema.org/text> "Fry chicken breasts in the hot oil until golden, crispy, and no longer pink in the centers, 4 to 5 minutes, flipping halfway through. Transfer to a plate topped with crinkled up aluminum foil to prevent bottoms from getting soggy.\n" .
+_:b242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b243 <http://schema.org/text> "Spread mayonnaise over hamburger bun halves. Stuff with pickles and chicken.\n" .
+_:b243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b244 <http://schema.org/author> _:b245 .
+_:b244 <http://schema.org/datePublished> "2019-11-12T06:25:49.61Z"^^<http://schema.org/Date> .
+_:b244 <http://schema.org/reviewBody> "Very good, simple straightforward and delicious." .
+_:b244 <http://schema.org/reviewRating> _:b246 .
+_:b244 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b245 <http://schema.org/name> "Karen Schnebele" .
+_:b245 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/20065767/> .
+_:b245 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b246 <http://schema.org/bestRating> "5" .
+_:b246 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b246 <http://schema.org/worstRating> "1" .
+_:b246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b247 <http://schema.org/author> _:b248 .
+_:b247 <http://schema.org/datePublished> "2019-12-06T08:00:50.377Z"^^<http://schema.org/Date> .
+_:b247 <http://schema.org/reviewBody> "wow. we've made this as ordered, but we also used the buttermilk marinade for chicken wings and are REALLY pleased with the results. We haven't been back to that... place since we started making this recipe. If you do it right, it comes out great." .
+_:b247 <http://schema.org/reviewRating> _:b249 .
+_:b247 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b248 <http://schema.org/name> "kristi sprinkle" .
+_:b248 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/11708480/> .
+_:b248 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b249 <http://schema.org/bestRating> "5" .
+_:b249 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b249 <http://schema.org/worstRating> "1" .
+_:b249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b25 <http://schema.org/author> _:b26 .
+_:b25 <http://schema.org/datePublished> "2015-01-12T02:19:13.97Z"^^<http://schema.org/Date> .
+_:b25 <http://schema.org/reviewBody> "My husband fishes in Alaska every year I always have a freezer full of fresh Salmon and I am always looking for new recipes this one is a keeper it is simple and simply delicious. Don't hesitate give it a try." .
+_:b25 <http://schema.org/reviewRating> _:b27 .
+_:b25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b250 <http://schema.org/author> _:b251 .
+_:b250 <http://schema.org/datePublished> "2019-11-14T06:42:18.507Z"^^<http://schema.org/Date> .
+_:b250 <http://schema.org/reviewBody> "I'll admit that I did make a couple changes: I used pickle juice instead of buttermilk (didn't have it) to marinate the chicken I didn't add any hot sauce and I forgot to add the ranch mix to the marinade so I split it between the wet and dry coating. I was most impressed by the crunchiness of the batter! I have a go-to Chic-Fil-A copycat recipe that possibly has a slightly better flavor due to the addition of a TB of powdered sugar in the dry batter but it does not achieve the crust that you'll get with this recipe. I really liked the flavor! I definitely recommend marinating your chicken overnight or as long as you can before cooking." .
+_:b250 <http://schema.org/reviewRating> _:b252 .
+_:b250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b251 <http://schema.org/name> "1111juju1111" .
+_:b251 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/7185708/> .
+_:b251 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b252 <http://schema.org/bestRating> "5" .
+_:b252 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b252 <http://schema.org/worstRating> "1" .
+_:b252 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b253 <http://schema.org/author> _:b254 .
+_:b253 <http://schema.org/datePublished> "2019-11-14T08:39:33.11Z"^^<http://schema.org/Date> .
+_:b253 <http://schema.org/reviewBody> "I followed this recipe and it does not have the taste of either Popeye's or Chick fil a" .
+_:b253 <http://schema.org/reviewRating> _:b255 .
+_:b253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b254 <http://schema.org/name> "tadam1000" .
+_:b254 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/26437675/> .
+_:b254 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b255 <http://schema.org/bestRating> "5" .
+_:b255 <http://schema.org/ratingValue> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b255 <http://schema.org/worstRating> "1" .
+_:b255 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b256 <http://schema.org/author> _:b257 .
+_:b256 <http://schema.org/datePublished> "2019-11-29T04:00:18.87Z"^^<http://schema.org/Date> .
+_:b256 <http://schema.org/reviewBody> "Made this the way Chef suggested (mostly) and split the recipe two ways to make a mild version for me and a spicy version for my husband. The breading was great but I think next time I will use slightly less cornstarch because I think that might be why the breading comes off the chicken when you bite into it. I didn't really care though the overall seasoning is awesome." .
+_:b256 <http://schema.org/reviewRating> _:b258 .
+_:b256 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b257 <http://schema.org/name> "Elizabeth W" .
+_:b257 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/19569642/> .
+_:b257 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b258 <http://schema.org/bestRating> "5" .
+_:b258 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b258 <http://schema.org/worstRating> "1" .
+_:b258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b259 <http://schema.org/author> _:b260 .
+_:b259 <http://schema.org/datePublished> "2019-11-21T08:20:16.887Z"^^<http://schema.org/Date> .
+_:b259 <http://schema.org/reviewBody> "This had a breading that was similar to a cross between a Mc chicken sandwich and a Chick-fil-A sandwich. I highly recommend you only use one chicken breast to make two sandwiches. If you prefer the bun a Chick-fil-A sandwich comes on, you really need to use brioche buns and be sure to toast it before assembling your sandwich. Do not be afraid to add the cayenne pepper to your breading. it doesn’t really add any heat, just flavor. I also added hot sauce to mayo. At 40 years old, this is the first fried chicken I have ever successfully made. It is super easy if you follow the recipe. Good luck and Enjoy!!" .
+_:b259 <http://schema.org/reviewRating> _:b261 .
+_:b259 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b26 <http://schema.org/name> "Ramona Webster" .
+_:b26 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/5491170/> .
+_:b26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b260 <http://schema.org/name> "Kimberly Atkinson" .
+_:b260 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/24966033/> .
+_:b260 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b261 <http://schema.org/bestRating> "5" .
+_:b261 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b261 <http://schema.org/worstRating> "1" .
+_:b261 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b262 <http://schema.org/author> _:b263 .
+_:b262 <http://schema.org/datePublished> "2020-04-21T02:44:38.487Z"^^<http://schema.org/Date> .
+_:b262 <http://schema.org/reviewBody> "So first off, I'm not certain how much this tastes like either Chick-fil-A or Popeye's but it was delicious.  I followed the entire recipe to a T as far as the marinade, wash and breading but made chicken tenders instead of sandwiches using breast tenderloin filets.  We all loved it!!  I cut back a tad on the cayenne pepper so probably only used about 1 tsp and I made my own buttermilk using the milk combined with lemon juice.  The chicken was super moist and the breading extremely flavorful-it didn't even need salt or pepper afterwards.  I served the chicken fingers will ranch, honey mustard and BBQ dipping sauces.  My BF (who's not a huge fan of chicken) said multiple times during dinner \"this chicken is REALLY good\" and even mentioned it twice the following day so I'm taking that as a good sign:). These will most definitely be made again!\nThe only issue I had was the chicken stuck to the wire deep fry basket and lost some coating when I tried to use tongs to get them out.  We switched to a spatula on the last batch which was more efficient altho that's a user failure!" .
+_:b262 <http://schema.org/reviewRating> _:b264 .
+_:b262 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b263 <http://schema.org/name> "Jmoore10" .
+_:b263 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/11502352/> .
+_:b263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b264 <http://schema.org/bestRating> "5" .
+_:b264 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b264 <http://schema.org/worstRating> "1" .
+_:b264 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b265 <http://schema.org/author> _:b266 .
+_:b265 <http://schema.org/datePublished> "2020-06-10T11:20:34.687Z"^^<http://schema.org/Date> .
+_:b265 <http://schema.org/reviewBody> "I made this for my BF who is a fan of the Popeye's spicy chicken sandwich. The only thing I did differently was to use boneless, skinless thighs. He prefers those cuts vs breasts, and it worked out way juicer! I also found a recipe for the spicy mayonnaise which made the man even happier!" .
+_:b265 <http://schema.org/reviewRating> _:b267 .
+_:b265 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b266 <http://schema.org/name> "fruitdog" .
+_:b266 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/8937272/> .
+_:b266 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b267 <http://schema.org/bestRating> "5" .
+_:b267 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b267 <http://schema.org/worstRating> "1" .
+_:b267 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b268 <http://schema.org/author> _:b269 .
+_:b268 <http://schema.org/datePublished> "2020-10-10T20:47:14.597Z"^^<http://schema.org/Date> .
+_:b268 <http://schema.org/reviewBody> "This is a very tasty sandwich that I will definitely make again. I cut the breasts in half horizontally to make two thinner pieces, then pounded them out to 1/2 inch. They fit the jumbo burger buns perfectly. Slather on the mayo,it is great with the chicken and pickle slices. Wish I would have got a pic, oh well next time. And that will be soon. The coating adhered great too!" .
+_:b268 <http://schema.org/reviewRating> _:b270 .
+_:b268 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b269 <http://schema.org/name> "Autumneyes" .
+_:b269 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/15792753/> .
+_:b269 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b27 <http://schema.org/bestRating> "5" .
+_:b27 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b27 <http://schema.org/worstRating> "1" .
+_:b27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b270 <http://schema.org/bestRating> "5" .
+_:b270 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b270 <http://schema.org/worstRating> "1" .
+_:b270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b271 <http://schema.org/duration> "PT9M18.208S" .
+_:b271 <http://schema.org/embedUrl> <https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6099193799001> .
+_:b271 <http://schema.org/name> "Copycat Fried Chicken Sandwich" .
+_:b271 <http://schema.org/publisher> _:b272 .
+_:b271 <http://schema.org/thumbnailUrl> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2Fe5356708-5a8f-4722-a0c1-bd5985879634%2F7e3fbd42-e773-4768-8cf2-fa7ae452d1b1%2F160x90%2Fmatch%2Fimage.jpg> .
+_:b271 <http://schema.org/uploadDate> "2019-10-31T14:00:56.461Z"^^<http://schema.org/Date> .
+_:b271 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoObject> .
+_:b272 <http://schema.org/logo> _:b273 .
+_:b272 <http://schema.org/name> "Allrecipes" .
+_:b272 <http://schema.org/sameAs> <https://twitter.com/Allrecipes> .
+_:b272 <http://schema.org/sameAs> <https://www.facebook.com/allrecipes> .
+_:b272 <http://schema.org/sameAs> <https://www.instagram.com/allrecipes/> .
+_:b272 <http://schema.org/sameAs> <https://www.pinterest.com/allrecipes/> .
+_:b272 <http://schema.org/url> <https://www.allrecipes.com> .
+_:b272 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:b273 <http://schema.org/height> "60"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b273 <http://schema.org/url> <https://www.allrecipes.com/img/logo.png> .
+_:b273 <http://schema.org/width> "209"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b274 <http://schema.org/itemListElement> _:b275 .
+_:b274 <http://schema.org/itemListElement> _:b276 .
+_:b274 <http://schema.org/itemListElement> _:b277 .
+_:b274 <http://schema.org/itemListElement> _:b278 .
+_:b274 <http://schema.org/itemListElement> _:b279 .
+_:b274 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> .
+_:b275 <http://schema.org/item> <https://www.allrecipes.com/> .
+_:b275 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b276 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
+_:b276 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b276 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b277 <http://schema.org/item> <https://www.allrecipes.com/recipes/86/world-cuisine/> .
+_:b277 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b277 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b278 <http://schema.org/item> <https://www.allrecipes.com/recipes/227/world-cuisine/asian/> .
+_:b278 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b278 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b279 <http://schema.org/item> <https://www.allrecipes.com/recipes/233/world-cuisine/asian/indian/> .
+_:b279 <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b279 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b28 <http://schema.org/author> _:b29 .
+_:b28 <http://schema.org/datePublished> "2015-05-06T03:28:51.073Z"^^<http://schema.org/Date> .
+_:b28 <http://schema.org/reviewBody> "Wow! Fabulous flavor and so easy to prepare! I usually poach our salmon so just made a half recipe of the sauce and poured it on top of 3 salmon filets from Costco. I only used an 1/8 teaspoon of black pepper as some of the family have sensitive stomachs. I added perhaps one or two tablespoons of water so there would be enough moisture to create steam to poach the fish when the lid was placed on the pan. I'll be making this again and again! UPDATE: I made this for a second time poaching as before. This time I sprinkled the dry spices over the salmon and drizzled a bit of maple on each filet. I skipped the oil entirely and everyone liked it even better than last time. It's my new \"impress the company\" recipe!" .
+_:b28 <http://schema.org/reviewRating> _:b30 .
+_:b28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b280 <http://schema.org/aggregateRating> _:b281 .
+_:b280 <http://schema.org/author> _:b282 .
+_:b280 <http://schema.org/cookTime> "P0DT0H15M" .
+_:b280 <http://schema.org/datePublished> "2019-10-30T23:17:17.000Z"^^<http://schema.org/Date> .
+_:b280 <http://schema.org/description> "Spicy and flavorful vegan korma made in an Instant Pot®. There is a bit of preparation as with any korma, but cooking time is reduced, which helps free up time in the kitchen as well as saving the integrity of the ingredients. The result is a dish with larger pieces of vegetables you can sink your teeth into. This is best served with naan bread or brown basmati rice." .
+_:b280 <http://schema.org/image> _:b283 .
+_:b280 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/276575/instant-pot-vegan-korma/> .
+_:b280 <http://schema.org/name> "Instant Pot® Vegan Korma" .
+_:b280 <http://schema.org/nutrition> _:b284 .
+_:b280 <http://schema.org/prepTime> "P0DT0H30M" .
+_:b280 <http://schema.org/recipeCategory> "Main Dishes" .
+_:b280 <http://schema.org/recipeCategory> "Indian" .
+_:b280 <http://schema.org/recipeCategory> "World Cuisine Recipes" .
+_:b280 <http://schema.org/recipeIngredient> "1 (1 inch) piece fresh ginger" .
+_:b280 <http://schema.org/recipeIngredient> "1 bay leaf" .
+_:b280 <http://schema.org/recipeIngredient> "1 black cardamom pod" .
+_:b280 <http://schema.org/recipeIngredient> "1 carrot, sliced" .
+_:b280 <http://schema.org/recipeIngredient> "1 cup baby spinach leaves" .
+_:b280 <http://schema.org/recipeIngredient> "1 cup canned chickpeas (garbanzo beans), drained with liquid reserved" .
+_:b280 <http://schema.org/recipeIngredient> "1 cup full-fat coconut milk" .
+_:b280 <http://schema.org/recipeIngredient> "1 green bird's eye chile pepper, stemmed" .
+_:b280 <http://schema.org/recipeIngredient> "1 red bird's eye chile pepper, chopped" .
+_:b280 <http://schema.org/recipeIngredient> "1 red onion, quartered, divided" .
+_:b280 <http://schema.org/recipeIngredient> "1 teaspoon cumin seeds" .
+_:b280 <http://schema.org/recipeIngredient> "2 cloves garlic" .
+_:b280 <http://schema.org/recipeIngredient> "2 ounces roasted cashews, chopped" .
+_:b280 <http://schema.org/recipeIngredient> "2 tablespoons tomato paste" .
+_:b280 <http://schema.org/recipeIngredient> "2 tomatoes, cut into large chunks" .
+_:b280 <http://schema.org/recipeIngredient> "3 green cardamom pods " .
+_:b280 <http://schema.org/recipeIngredient> "5 whole cloves" .
+_:b280 <http://schema.org/recipeIngredient> "5 ¼ ounces broccoli, cut into large pieces" .
+_:b280 <http://schema.org/recipeIngredient> "8 ¾ ounces cauliflower, cut into large pieces" .
+_:b280 <http://schema.org/recipeIngredient> "¼ cup light vegetable oil" .
+_:b280 <http://schema.org/recipeIngredient> "¼ cup raw cashews" .
+_:b280 <http://schema.org/recipeIngredient> "¼ inch cinnamon stick" .
+_:b280 <http://schema.org/recipeIngredient> "¼ teaspoon chili powder" .
+_:b280 <http://schema.org/recipeIngredient> "¼ teaspoon ground coriander" .
+_:b280 <http://schema.org/recipeIngredient> "¼ teaspoon whole black peppercorns" .
+_:b280 <http://schema.org/recipeIngredient> "½ cup chopped fresh cilantro" .
+_:b280 <http://schema.org/recipeIngredient> "½ cup vegan yogurt" .
+_:b280 <http://schema.org/recipeIngredient> "½ cup water, divided" .
+_:b280 <http://schema.org/recipeIngredient> "½ tablespoon garam masala" .
+_:b280 <http://schema.org/recipeIngredient> "½ teaspoon ground turmeric" .
+_:b280 <http://schema.org/recipeInstructions> _:b285 .
+_:b280 <http://schema.org/recipeInstructions> _:b286 .
+_:b280 <http://schema.org/recipeInstructions> _:b287 .
+_:b280 <http://schema.org/recipeInstructions> _:b288 .
+_:b280 <http://schema.org/recipeInstructions> _:b289 .
+_:b280 <http://schema.org/recipeYield> "4 servings" .
+_:b280 <http://schema.org/review> _:b290 .
+_:b280 <http://schema.org/review> _:b293 .
+_:b280 <http://schema.org/review> _:b296 .
+_:b280 <http://schema.org/totalTime> "P0DT0H55M" .
+_:b280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b281 <http://schema.org/bestRating> "5" .
+_:b281 <http://schema.org/itemReviewed> "Instant Pot® Vegan Korma" .
+_:b281 <http://schema.org/ratingCount> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b281 <http://schema.org/ratingValue> "4.666666666666667E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b281 <http://schema.org/worstRating> "1" .
+_:b281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:b282 <http://schema.org/name> "Buckwheat Queen" .
+_:b282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b283 <http://schema.org/height> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b283 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7159025.jpg> .
+_:b283 <http://schema.org/width> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b283 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b284 <http://schema.org/calories> "544.4 calories" .
+_:b284 <http://schema.org/carbohydrateContent> "45 g" .
+_:b284 <http://schema.org/fatContent> "38.7 g" .
+_:b284 <http://schema.org/fiberContent> "11.8 g" .
+_:b284 <http://schema.org/proteinContent> "12.9 g" .
+_:b284 <http://schema.org/saturatedFatContent> "15.7 g" .
+_:b284 <http://schema.org/sodiumContent> "449.1 mg" .
+_:b284 <http://schema.org/sugarContent> "8.3 g" .
+_:b284 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:b285 <http://schema.org/text> "Blend 1/4 of the onion, green chile pepper, 1/4 cup water, cashews, garlic, tomato paste, and ginger together in an electric blender, adding extra water if necessary, until paste is creamy and has the consistency of a pesto. Set aside.\n" .
+_:b285 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b286 <http://schema.org/text> "Combine cloves, green and black cardamom pods, bay leaf, cumin seeds, peppercorns, coriander, and cinnamon in a mortar. Smash using a pestle to break open spices slightly, 3 to 4 times. Thinly slice remaining onion quarters.\n" .
+_:b286 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b287 <http://schema.org/text> "Turn on a multi-functional pressure cooker (such as Instant Pot®) and select Saute function. Add smashed spice mixture and toast until fragrant, about 30 seconds. Pour in oil followed by cashew pesto, onion slices, cauliflower, broccoli, tomatoes, chickpeas, carrot, red chile pepper, garam masala, turmeric, and chili powder. Stir. Cancel the Saute function. Close and lock the lid.\n" .
+_:b287 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b288 <http://schema.org/text> "Select high pressure according to manufacturer's instructions; set timer for 5 minutes. Allow 10 minutes for pressure to build.\n" .
+_:b288 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b289 <http://schema.org/text> "Release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes. Unlock and remove the lid. Stir in spinach and mix to help wilt. Stir in coconut milk and yogurt. Mix and serve with roasted cashews and cilantro on top.\n" .
+_:b289 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b29 <http://schema.org/name> "greenthumb" .
+_:b29 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/3745381/> .
+_:b29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b290 <http://schema.org/author> _:b291 .
+_:b290 <http://schema.org/datePublished> "2021-01-27T07:21:17.843Z"^^<http://schema.org/Date> .
+_:b290 <http://schema.org/reviewBody> "I really liked the cashew paste! I should have kept the veggies in bigger pieces or cooked them less; the broccoli and cauliflower turned to mush for me. Taste and adjust seasoning as you go; I added a lot of salt." .
+_:b290 <http://schema.org/reviewRating> _:b292 .
+_:b290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b291 <http://schema.org/name> "LauraF" .
+_:b291 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/lauramf/> .
+_:b291 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b292 <http://schema.org/bestRating> "5" .
+_:b292 <http://schema.org/ratingValue> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b292 <http://schema.org/worstRating> "1" .
+_:b292 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b293 <http://schema.org/author> _:b294 .
+_:b293 <http://schema.org/datePublished> "2020-08-17T00:00:52.51Z"^^<http://schema.org/Date> .
+_:b293 <http://schema.org/reviewBody> "I made the assumption that the remaining 3/4 onion is added at the same time as the broccoli and cauloflower.\n\nHint: If you make a double recipe, you will use the whole can of tomato paste and the whole can of coconut milk. However, you'll need to cook it in two batches unless your Intant Pot is huge." .
+_:b293 <http://schema.org/reviewRating> _:b295 .
+_:b293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b294 <http://schema.org/name> "Seathrun" .
+_:b294 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/3280804/> .
+_:b294 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b295 <http://schema.org/bestRating> "5" .
+_:b295 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b295 <http://schema.org/worstRating> "1" .
+_:b295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b296 <http://schema.org/author> _:b297 .
+_:b296 <http://schema.org/datePublished> "2020-06-12T07:19:26.01Z"^^<http://schema.org/Date> .
+_:b296 <http://schema.org/reviewBody> "Wow- that cashew pesto is something else- the flavor is YUMMY.   My IP is wonky- I should have  set the cook time for 2 minutes- at 5 minutes my veggies  on the bottom turned to mush.  The spices were so warm and delicious.   I did have to season with a lot of salt." .
+_:b296 <http://schema.org/reviewRating> _:b298 .
+_:b296 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b297 <http://schema.org/name> "FrackFamily5 CA—>CT" .
+_:b297 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/frackfamily5/> .
+_:b297 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b298 <http://schema.org/bestRating> "5" .
+_:b298 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b298 <http://schema.org/worstRating> "1" .
+_:b298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b299 <http://schema.org/itemListElement> _:b300 .
+_:b299 <http://schema.org/itemListElement> _:b301 .
+_:b299 <http://schema.org/itemListElement> _:b302 .
+_:b299 <http://schema.org/itemListElement> _:b303 .
+_:b299 <http://schema.org/itemListElement> _:b304 .
+_:b299 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> .
+_:b3 <http://schema.org/item> <https://www.allrecipes.com/recipes/80/main-dish/> .
+_:b3 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b30 <http://schema.org/bestRating> "5" .
+_:b30 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b30 <http://schema.org/worstRating> "1" .
+_:b30 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b300 <http://schema.org/item> <https://www.allrecipes.com/> .
+_:b300 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b301 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
+_:b301 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b302 <http://schema.org/item> <https://www.allrecipes.com/recipes/92/meat-and-poultry/> .
+_:b302 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b302 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b303 <http://schema.org/item> <https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/> .
+_:b303 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b304 <http://schema.org/item> <https://www.allrecipes.com/recipes/662/meat-and-poultry/chicken/whole-chicken/> .
+_:b304 <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b304 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b305 <http://schema.org/aggregateRating> _:b306 .
+_:b305 <http://schema.org/author> _:b307 .
+_:b305 <http://schema.org/cookTime> "P0DT1H0M" .
+_:b305 <http://schema.org/datePublished> "2020-02-19T04:50:29.000Z"^^<http://schema.org/Date> .
+_:b305 <http://schema.org/description> "I made up this one to resemble the rotisserie chicken I love so much. It is so expensive here, so here's my version." .
+_:b305 <http://schema.org/image> _:b308 .
+_:b305 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/255263/sicilian-roasted-chicken/> .
+_:b305 <http://schema.org/name> "Sicilian Roasted Chicken" .
+_:b305 <http://schema.org/nutrition> _:b309 .
+_:b305 <http://schema.org/prepTime> "P0DT0H15M" .
+_:b305 <http://schema.org/recipeCategory> "Chicken" .
+_:b305 <http://schema.org/recipeCategory> "Main Dishes" .
+_:b305 <http://schema.org/recipeCategory> "Whole Chicken Recipes" .
+_:b305 <http://schema.org/recipeIngredient> "1 teaspoon dried oregano" .
+_:b305 <http://schema.org/recipeIngredient> "1 teaspoon garlic powder" .
+_:b305 <http://schema.org/recipeIngredient> "1 teaspoon ground black pepper" .
+_:b305 <http://schema.org/recipeIngredient> "1 teaspoon ground paprika" .
+_:b305 <http://schema.org/recipeIngredient> "1 teaspoon salt" .
+_:b305 <http://schema.org/recipeIngredient> "1 whole chicken, cut into 8 pieces" .
+_:b305 <http://schema.org/recipeIngredient> "cooking spray" .
+_:b305 <http://schema.org/recipeInstructions> _:b310 .
+_:b305 <http://schema.org/recipeInstructions> _:b311 .
+_:b305 <http://schema.org/recipeInstructions> _:b312 .
+_:b305 <http://schema.org/recipeYield> "6 servings" .
+_:b305 <http://schema.org/review> _:b313 .
+_:b305 <http://schema.org/review> _:b316 .
+_:b305 <http://schema.org/review> _:b319 .
+_:b305 <http://schema.org/review> _:b322 .
+_:b305 <http://schema.org/review> _:b325 .
+_:b305 <http://schema.org/review> _:b328 .
+_:b305 <http://schema.org/review> _:b331 .
+_:b305 <http://schema.org/review> _:b334 .
+_:b305 <http://schema.org/review> _:b337 .
+_:b305 <http://schema.org/totalTime> "P0DT1H15M" .
+_:b305 <http://schema.org/video> _:b340 .
+_:b305 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b306 <http://schema.org/bestRating> "5" .
+_:b306 <http://schema.org/itemReviewed> "Sicilian Roasted Chicken" .
+_:b306 <http://schema.org/ratingCount> "221"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b306 <http://schema.org/ratingValue> "4.606334841628959E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b306 <http://schema.org/worstRating> "1" .
+_:b306 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:b307 <http://schema.org/name> "BramptonMommyof2" .
+_:b307 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b308 <http://schema.org/caption> "Sicilian Roasted Chicken" .
+_:b308 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3922864.jpg> .
+_:b308 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b309 <http://schema.org/calories> "431.3 calories" .
+_:b309 <http://schema.org/carbohydrateContent> "0.9 g" .
+_:b309 <http://schema.org/cholesterolContent> "145.5 mg" .
+_:b309 <http://schema.org/fatContent> "25.7 g" .
+_:b309 <http://schema.org/fiberContent> "0.4 g" .
+_:b309 <http://schema.org/proteinContent> "46.1 g" .
+_:b309 <http://schema.org/saturatedFatContent> "7.2 g" .
+_:b309 <http://schema.org/sodiumContent> "528.4 mg" .
+_:b309 <http://schema.org/sugarContent> "0.2 g" .
+_:b309 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:b31 <http://schema.org/author> _:b32 .
+_:b31 <http://schema.org/datePublished> "2014-10-20T18:00:22.08Z"^^<http://schema.org/Date> .
+_:b31 <http://schema.org/reviewBody> "Ahhhhhmazing. But the Cordamom can be overpowering so my recommendation is to use a little less than the recipe calls for. Even so I followed the recipe exactly and it was fantastic. I cooked it for a friend and she couldn't get enough of it! She said to me: \"This is restaurant quality food.\" Will definitely make again and again." .
+_:b31 <http://schema.org/reviewRating> _:b33 .
+_:b31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b310 <http://schema.org/text> "Preheat oven to 425 degrees F (220 degrees C). Grease a 9x13-inch pan with cooking spray.\n" .
+_:b310 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b311 <http://schema.org/text> "Arrange chicken pieces in the baking pan. Sprinkle salt, pepper, paprika, garlic powder, and oregano over both sides.\n" .
+_:b311 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b312 <http://schema.org/text> "Roast in the preheated oven until chicken is browned and the juices run clear, about 1 hour. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).\n" .
+_:b312 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b313 <http://schema.org/author> _:b314 .
+_:b313 <http://schema.org/datePublished> "2018-02-05T01:31:00.61Z"^^<http://schema.org/Date> .
+_:b313 <http://schema.org/reviewBody> "This was just OK for us. Have to be honest, we didn’t care for the strong flavor of paprika. Don’t know why this is called “Sicilian” roasted chicken because paprika is not a spice that is really used in Sicily or any part of Italy for that matter. More like “Hungarian” chicken. I make a similar dish to this without the paprika, but add granulated garlic, onion powder, dried oregano & rosemary, or some already mixed dried Italian seasoning. First step is to  dry the chicken pieces off with paper towels before adding seasonings so it browns up nicely and has a crispy skin. If using all breasts, give them a light brushing with olive oil first. This helps to keep the meat moister.  Then just lay it out on a sheet pan and roast for about 35-45 min at  400°, depending on what kind of oven you have. Mine is convection so takes less time. Easy and delicious." .
+_:b313 <http://schema.org/reviewRating> _:b315 .
+_:b313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b314 <http://schema.org/name> "VickiefromCa" .
+_:b314 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/7021690/> .
+_:b314 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b315 <http://schema.org/bestRating> "5" .
+_:b315 <http://schema.org/ratingValue> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b315 <http://schema.org/worstRating> "1" .
+_:b315 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b316 <http://schema.org/author> _:b317 .
+_:b316 <http://schema.org/datePublished> "2018-02-03T06:58:29.6Z"^^<http://schema.org/Date> .
+_:b316 <http://schema.org/reviewBody> "Basically this is a roasted chicken but in parts rather than a whole chicken.  Roasted chicken is so much better tasting than fried chicken.  As for the comment about paprika ( it is a fine crushed red pepper which can be sweet depending on which you use), it is a staple in most Sicilian cooking recipes." .
+_:b316 <http://schema.org/reviewRating> _:b318 .
+_:b316 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b317 <http://schema.org/name> "radfox59" .
+_:b317 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/5012395/> .
+_:b317 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b318 <http://schema.org/bestRating> "5" .
+_:b318 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b318 <http://schema.org/worstRating> "1" .
+_:b318 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b319 <http://schema.org/author> _:b320 .
+_:b319 <http://schema.org/datePublished> "2018-02-03T01:51:31.177Z"^^<http://schema.org/Date> .
+_:b319 <http://schema.org/reviewBody> "Yes, I will make it again." .
+_:b319 <http://schema.org/reviewRating> _:b321 .
+_:b319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b32 <http://schema.org/name> "Christine Flower" .
+_:b32 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/14283928/> .
+_:b32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b320 <http://schema.org/name> "Elaine Kittler" .
+_:b320 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/8125788/> .
+_:b320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b321 <http://schema.org/bestRating> "5" .
+_:b321 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b321 <http://schema.org/worstRating> "1" .
+_:b321 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b322 <http://schema.org/author> _:b323 .
+_:b322 <http://schema.org/datePublished> "2017-06-15T10:00:06.143Z"^^<http://schema.org/Date> .
+_:b322 <http://schema.org/reviewBody> "I've made it several times now. Use thighs and legs." .
+_:b322 <http://schema.org/reviewRating> _:b324 .
+_:b322 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b323 <http://schema.org/name> "Donna " .
+_:b323 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/13398048/> .
+_:b323 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b324 <http://schema.org/bestRating> "5" .
+_:b324 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b324 <http://schema.org/worstRating> "1" .
+_:b324 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b325 <http://schema.org/author> _:b326 .
+_:b325 <http://schema.org/datePublished> "2016-09-08T04:25:37.3Z"^^<http://schema.org/Date> .
+_:b325 <http://schema.org/reviewBody> "Simple and yummy! I have to admit that I did just eyeball the seasonings. I used a mix of legs and thighs b/c that's what my family likes the best. Really nice flavors...I will be making this again! Thanks for sharing. :)" .
+_:b325 <http://schema.org/reviewRating> _:b327 .
+_:b325 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b326 <http://schema.org/name> "Christina" .
+_:b326 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/christina/> .
+_:b326 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b327 <http://schema.org/bestRating> "5" .
+_:b327 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b327 <http://schema.org/worstRating> "1" .
+_:b327 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b328 <http://schema.org/author> _:b329 .
+_:b328 <http://schema.org/datePublished> "2018-02-07T06:40:34.833Z"^^<http://schema.org/Date> .
+_:b328 <http://schema.org/reviewBody> "I used large chicken Breasts instead of pieces and it turned out great.  Doesn't need quite the time for baking, probably 45 minutes vs an hour.   It made the Chicken very tangy, but not too spicy.  Will keep the recipe and use it again." .
+_:b328 <http://schema.org/reviewRating> _:b330 .
+_:b328 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b329 <http://schema.org/name> "Anngabza" .
+_:b329 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/11921355/> .
+_:b329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b33 <http://schema.org/bestRating> "5" .
+_:b33 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b33 <http://schema.org/worstRating> "1" .
+_:b33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b330 <http://schema.org/bestRating> "5" .
+_:b330 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b330 <http://schema.org/worstRating> "1" .
+_:b330 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b331 <http://schema.org/author> _:b332 .
+_:b331 <http://schema.org/datePublished> "2018-02-07T07:18:13.097Z"^^<http://schema.org/Date> .
+_:b331 <http://schema.org/reviewBody> "I used Costco’s chickeb thighs, bone-in, skin-on.  It was so easy I was amazed at how delicious it was.  Both my husband and I are still raving over the yummy simplicity." .
+_:b331 <http://schema.org/reviewRating> _:b333 .
+_:b331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b332 <http://schema.org/name> "A little more gin" .
+_:b332 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/12875618/> .
+_:b332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b333 <http://schema.org/bestRating> "5" .
+_:b333 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b333 <http://schema.org/worstRating> "1" .
+_:b333 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b334 <http://schema.org/author> _:b335 .
+_:b334 <http://schema.org/datePublished> "2018-02-08T08:27:02.91Z"^^<http://schema.org/Date> .
+_:b334 <http://schema.org/reviewBody> "Simple to make and delicious! I added a bit of onion powder, but that was the only change I made. My family loved it!" .
+_:b334 <http://schema.org/reviewRating> _:b336 .
+_:b334 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b335 <http://schema.org/name> "AnnD" .
+_:b335 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/20800829/> .
+_:b335 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b336 <http://schema.org/bestRating> "5" .
+_:b336 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b336 <http://schema.org/worstRating> "1" .
+_:b336 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b337 <http://schema.org/author> _:b338 .
+_:b337 <http://schema.org/datePublished> "2018-01-31T07:57:31.233Z"^^<http://schema.org/Date> .
+_:b337 <http://schema.org/reviewBody> "I love roast chicken & loved this recipe. So flavorful and delicious!" .
+_:b337 <http://schema.org/reviewRating> _:b339 .
+_:b337 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b338 <http://schema.org/name> "Bev" .
+_:b338 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/3220549/> .
+_:b338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b339 <http://schema.org/bestRating> "5" .
+_:b339 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b339 <http://schema.org/worstRating> "1" .
+_:b339 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b34 <http://schema.org/author> _:b35 .
+_:b34 <http://schema.org/datePublished> "2016-04-12T04:41:00.92Z"^^<http://schema.org/Date> .
+_:b34 <http://schema.org/reviewBody> "delightful! we eat a lot of Indian cuisine so I had all the spices on hand. I added a little cayenne since we like heat. baked at 400 degrees for 20 minutes. To my taste the flavors were very subtle and didn't overpower the flavor of the fish but rather complemented it nicely." .
+_:b34 <http://schema.org/reviewRating> _:b36 .
+_:b34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b340 <http://schema.org/description> "This easy roasted chicken is infused with delicious Sicilian flavors!" .
+_:b340 <http://schema.org/duration> "PT1M0.075S" .
+_:b340 <http://schema.org/embedUrl> <https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6133544046001> .
+_:b340 <http://schema.org/name> "Sicilian Roasted Chicken " .
+_:b340 <http://schema.org/publisher> _:b341 .
+_:b340 <http://schema.org/thumbnailUrl> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F3efb4501-8af8-490e-be3a-ec4766bce46c%2Fdb4ba3ad-b1ec-4d41-87bb-ac83986d0a7f%2F160x90%2Fmatch%2Fimage.jpg> .
+_:b340 <http://schema.org/uploadDate> "2020-02-18T20:49:04.436Z"^^<http://schema.org/Date> .
+_:b340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoObject> .
+_:b341 <http://schema.org/logo> _:b342 .
+_:b341 <http://schema.org/name> "Allrecipes" .
+_:b341 <http://schema.org/sameAs> <https://twitter.com/Allrecipes> .
+_:b341 <http://schema.org/sameAs> <https://www.facebook.com/allrecipes> .
+_:b341 <http://schema.org/sameAs> <https://www.instagram.com/allrecipes/> .
+_:b341 <http://schema.org/sameAs> <https://www.pinterest.com/allrecipes/> .
+_:b341 <http://schema.org/url> <https://www.allrecipes.com> .
+_:b341 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:b342 <http://schema.org/height> "60"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b342 <http://schema.org/url> <https://www.allrecipes.com/img/logo.png> .
+_:b342 <http://schema.org/width> "209"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b342 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b343 <http://schema.org/itemListElement> _:b344 .
+_:b343 <http://schema.org/itemListElement> _:b345 .
+_:b343 <http://schema.org/itemListElement> _:b346 .
+_:b343 <http://schema.org/itemListElement> _:b347 .
+_:b343 <http://schema.org/itemListElement> _:b348 .
+_:b343 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> .
+_:b344 <http://schema.org/item> <https://www.allrecipes.com/> .
+_:b344 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b344 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b345 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
+_:b345 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b345 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b346 <http://schema.org/item> <https://www.allrecipes.com/recipes/92/meat-and-poultry/> .
+_:b346 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b346 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b347 <http://schema.org/item> <https://www.allrecipes.com/recipes/206/meat-and-poultry/turkey/> .
+_:b347 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b347 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b348 <http://schema.org/item> <https://www.allrecipes.com/recipes/693/meat-and-poultry/turkey/ground/> .
+_:b348 <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b349 <http://schema.org/aggregateRating> _:b350 .
+_:b349 <http://schema.org/author> _:b351 .
+_:b349 <http://schema.org/cookTime> "P0DT0H15M" .
+_:b349 <http://schema.org/datePublished> "2001-08-28T21:07:20.000Z"^^<http://schema.org/Date> .
+_:b349 <http://schema.org/description> "This is a simple and delicious recipe. After making them the first time my husband said 'no more' to beef burgers. These are really good - any cooking method may be used, and they freeze very well. The recipe can also be used for meatballs or meat loaves." .
+_:b349 <http://schema.org/image> _:b352 .
+_:b349 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/39748/actually-delicious-turkey-burgers/> .
+_:b349 <http://schema.org/name> "Actually Delicious Turkey Burgers" .
+_:b349 <http://schema.org/nutrition> _:b353 .
+_:b349 <http://schema.org/prepTime> "P0DT0H15M" .
+_:b349 <http://schema.org/recipeCategory> "Ground Turkey Recipes" .
+_:b349 <http://schema.org/recipeCategory> "Main Dishes" .
+_:b349 <http://schema.org/recipeCategory> "Turkey" .
+_:b349 <http://schema.org/recipeIngredient> "1 clove garlic, peeled and minced" .
+_:b349 <http://schema.org/recipeIngredient> "1 teaspoon salt" .
+_:b349 <http://schema.org/recipeIngredient> "2 egg whites, lightly beaten" .
+_:b349 <http://schema.org/recipeIngredient> "3 pounds ground turkey" .
+_:b349 <http://schema.org/recipeIngredient> "¼ cup chopped fresh parsley" .
+_:b349 <http://schema.org/recipeIngredient> "¼ cup finely diced onion" .
+_:b349 <http://schema.org/recipeIngredient> "¼ cup seasoned bread crumbs" .
+_:b349 <http://schema.org/recipeIngredient> "¼ teaspoon ground black pepper" .
+_:b349 <http://schema.org/recipeInstructions> _:b354 .
+_:b349 <http://schema.org/recipeInstructions> _:b355 .
+_:b349 <http://schema.org/recipeYield> "12 burgers" .
+_:b349 <http://schema.org/review> _:b356 .
+_:b349 <http://schema.org/review> _:b359 .
+_:b349 <http://schema.org/review> _:b362 .
+_:b349 <http://schema.org/review> _:b365 .
+_:b349 <http://schema.org/review> _:b368 .
+_:b349 <http://schema.org/review> _:b371 .
+_:b349 <http://schema.org/review> _:b374 .
+_:b349 <http://schema.org/review> _:b377 .
+_:b349 <http://schema.org/review> _:b380 .
+_:b349 <http://schema.org/review> _:b383 .
+_:b349 <http://schema.org/totalTime> "P0DT0H30M" .
+_:b349 <http://schema.org/video> _:b386 .
+_:b349 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b35 <http://schema.org/name> "Amanda SusieQ" .
+_:b35 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/17392447/> .
+_:b35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b350 <http://schema.org/bestRating> "5" .
+_:b350 <http://schema.org/itemReviewed> "Actually Delicious Turkey Burgers" .
+_:b350 <http://schema.org/ratingCount> "2580"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b350 <http://schema.org/ratingValue> "4.580620155038759E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b350 <http://schema.org/worstRating> "1" .
+_:b350 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:b351 <http://schema.org/name> "Trudi Davidoff" .
+_:b351 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b352 <http://schema.org/caption> "Actually Delicious Turkey Burgers" .
+_:b352 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7818569.jpg> .
+_:b352 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b353 <http://schema.org/calories> "183.5 calories" .
+_:b353 <http://schema.org/carbohydrateContent> "2.3 g" .
+_:b353 <http://schema.org/cholesterolContent> "89.6 mg" .
+_:b353 <http://schema.org/fatContent> "9.5 g" .
+_:b353 <http://schema.org/fiberContent> "0.2 g" .
+_:b353 <http://schema.org/proteinContent> "20.9 g" .
+_:b353 <http://schema.org/saturatedFatContent> "2.6 g" .
+_:b353 <http://schema.org/sodiumContent> "354.5 mg" .
+_:b353 <http://schema.org/sugarContent> "0.3 g" .
+_:b353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:b354 <http://schema.org/text> "In a large bowl, mix ground turkey, seasoned bread crumbs, onion, egg whites, parsley, garlic, salt, and pepper. Form into 12 patties.\n" .
+_:b354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b355 <http://schema.org/text> "Cook the patties in a medium skillet over medium heat, turning once, to an internal temperature of 180 degrees F (85 degrees C).\n" .
+_:b355 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b356 <http://schema.org/author> _:b357 .
+_:b356 <http://schema.org/datePublished> "2006-07-01T23:39:46.967Z"^^<http://schema.org/Date> .
+_:b356 <http://schema.org/reviewBody> "Delicious, but needed enhancements. I added 1/2 cup finely chopped red bell pepper, 10 shakes of Worcesteshire, more garlic, seasoning salt, splash of light soy, dried parsley, a whole egg not just the white. (For those that say your patties fall apart..I have a trick...You add the yolk of the egg as it helps to hold the mix together even when you have them flat as possible. Also put a light coating of flour on the patties just before you cook them ensuring that you shake off the excess flour. The flour helps form a light, crusty exterior and holds the patty and makes it easier to flip.) The egg yolk and extra bell pepper meant I had to add more breadcrumbs and for those who say their mix is sticky, you should probably add more crumbs anyway. How well they hold together in you hand is how well they hold on the pan. Juicy and very tasty." .
+_:b356 <http://schema.org/reviewRating> _:b358 .
+_:b356 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b357 <http://schema.org/name> "AUSSIEMUM1" .
+_:b357 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/1414774/> .
+_:b357 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b358 <http://schema.org/bestRating> "5" .
+_:b358 <http://schema.org/ratingValue> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b358 <http://schema.org/worstRating> "1" .
+_:b358 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b359 <http://schema.org/author> _:b360 .
+_:b359 <http://schema.org/datePublished> "2004-01-29T18:00:40.663Z"^^<http://schema.org/Date> .
+_:b359 <http://schema.org/reviewBody> "I grilled these on my George Foreman grill, however, I was concerned that the grill would cook the burgers too fast (no heat control).  So what I did was put the burgers on the cold grill, then plug it in.  15 mins later, the burgers were perfect! I cooked three and froze the rest...can't wait to see how they turn out!" .
+_:b359 <http://schema.org/reviewRating> _:b361 .
+_:b359 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b36 <http://schema.org/bestRating> "5" .
+_:b36 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b36 <http://schema.org/worstRating> "1" .
+_:b36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b360 <http://schema.org/name> "ACB2424" .
+_:b360 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/859433/> .
+_:b360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b361 <http://schema.org/bestRating> "5" .
+_:b361 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b361 <http://schema.org/worstRating> "1" .
+_:b361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b362 <http://schema.org/author> _:b363 .
+_:b362 <http://schema.org/datePublished> "2004-01-27T15:14:22.7Z"^^<http://schema.org/Date> .
+_:b362 <http://schema.org/reviewBody> "I am on a low cholesterol diet.  I am also a carnivore.  I love meat, but have been trying to cut down on fats & load up on fruit, veggies and the occasional red meat.  I found this recipe to be really good with the following additions: 1)  added a few drops of hickory seasoning liquid smoke  2)  add a few drops of Worcestershire sauce, 3) add a small, plastic package of soy sauce, leftover from a Chinese restaurant. This will guarantee that these babies will taste like beef.  I tried this on my equally carnivorous roomie, who proclaimed that due to my dilgent efforts, some can be fooled into thinking they're eating a Quarter Pounder, no cheese, extra onion.  Speaking of onion, shred fine with a shredder.  I used parsley from my garden.  Good going, Trudi!" .
+_:b362 <http://schema.org/reviewRating> _:b364 .
+_:b362 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b363 <http://schema.org/name> "OSKRWILDE1" .
+_:b363 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/225810/> .
+_:b363 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b364 <http://schema.org/bestRating> "5" .
+_:b364 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b364 <http://schema.org/worstRating> "1" .
+_:b364 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b365 <http://schema.org/author> _:b366 .
+_:b365 <http://schema.org/datePublished> "2004-01-29T18:03:22.273Z"^^<http://schema.org/Date> .
+_:b365 <http://schema.org/reviewBody> "These burgers were scrumptious! I'd take them any day over regular hamburgers! (The husband, who's a big turkey fan, adored them too). When I made them, I substituted onion powder for chopped onion, left out the garlic, and added a few tablespoons of soy sauce, a couple teaspoons of worchestershire, and a few shakes of hot sauce. I also used Lawry's seasoning salt instead of regular salt. And I used italian-style bread crumbs. I put these on the grill, and sprinkled a little garlic powder and a little more worchestershire sauce on them as they cooked. I served them topped with lettuce, red onion, ketchup, and mustard, and they were so flavorful and juicy! Some other users said they added mushrooms to keep the burgers from being dry, but i found that the worchestershire will do the job just fine, and adds better flavor!" .
+_:b365 <http://schema.org/reviewRating> _:b367 .
+_:b365 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b366 <http://schema.org/name> "LAYZIEBABY" .
+_:b366 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/845166/> .
+_:b366 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b367 <http://schema.org/bestRating> "5" .
+_:b367 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b367 <http://schema.org/worstRating> "1" .
+_:b367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b368 <http://schema.org/author> _:b369 .
+_:b368 <http://schema.org/datePublished> "2011-05-12T03:54:43.527Z"^^<http://schema.org/Date> .
+_:b368 <http://schema.org/reviewBody> "I tried this recipe three times...the first time I followed the directions exactly as written and thought that the burgers came out pretty good. The second time (after taking the advice of other users) I added a splash of liquid smoke, a splash of worcestershire sauce, and a splash of soy sauce. This recipe was a little tastier. The third time was definitely the best....instead of 1/4 cup of bread crumbs, I used 3/4 cup of Italian bread crumbs. I used one whole egg instead of two egg whites. I omitted the teaspoon of salt and added 2 Tablespoons of soy sauce instead. I added the splash of liquid smoke and worcestershire. Instead of trying to peel and mince the clove of garlic, I added 1 teaspoon of minced garlic out of the jar. The rest of the recipe (onion, parsley, pepper) I kept the same. Finally...I tried to pan fry the first two times, but grilled them on the BBQ the third time....10X better flavor! The one thing I learned is that you MUST spray the hell out of the grill with Pam to keep the patties from sticking." .
+_:b368 <http://schema.org/reviewRating> _:b370 .
+_:b368 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b369 <http://schema.org/name> "stosh63" .
+_:b369 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/4262505/> .
+_:b369 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b37 <http://schema.org/author> _:b38 .
+_:b37 <http://schema.org/datePublished> "2014-10-14T00:12:37.777Z"^^<http://schema.org/Date> .
+_:b37 <http://schema.org/reviewBody> "Tasted great. Easy to make. Family loved it." .
+_:b37 <http://schema.org/reviewRating> _:b39 .
+_:b37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b370 <http://schema.org/bestRating> "5" .
+_:b370 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b370 <http://schema.org/worstRating> "1" .
+_:b370 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b371 <http://schema.org/author> _:b372 .
+_:b371 <http://schema.org/datePublished> "2007-04-13T19:40:00.727Z"^^<http://schema.org/Date> .
+_:b371 <http://schema.org/reviewBody> "Delicious! I used fresh bread crumbs (this helps with the dryness problem others complained of) and seasoned it with a little bit of Italian seasoning.  They were really juicy. \n\nI was also careful to shape them gently (with a slight indentation in the center so that it would not \"puff\") and not press down on them during cooking, so they retained more juices." .
+_:b371 <http://schema.org/reviewRating> _:b373 .
+_:b371 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b372 <http://schema.org/name> "chavela22" .
+_:b372 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/1492742/> .
+_:b372 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b373 <http://schema.org/bestRating> "5" .
+_:b373 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b373 <http://schema.org/worstRating> "1" .
+_:b373 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b374 <http://schema.org/author> _:b375 .
+_:b374 <http://schema.org/datePublished> "2004-01-29T18:04:50.21Z"^^<http://schema.org/Date> .
+_:b374 <http://schema.org/reviewBody> "I have now made this recipe twice, and it was delicious both times.  The first time I had enough left over to make a meatloaf as well.  I combined some tomato sauce, brown sugar, salt and worcestshire sauce and poured it over the loaf in the pan before baking it.  It was great.  I would highly recommend this recipe to someone who may have tried turkey for burgers, but were turned off by the bland texture and taste.  This recipe overcomes all those issues, and is lowfat and healthful, too.  Thanks for the recipe." .
+_:b374 <http://schema.org/reviewRating> _:b376 .
+_:b374 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b375 <http://schema.org/name> "Paula" .
+_:b375 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/184913/> .
+_:b375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b376 <http://schema.org/bestRating> "5" .
+_:b376 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b376 <http://schema.org/worstRating> "1" .
+_:b376 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b377 <http://schema.org/author> _:b378 .
+_:b377 <http://schema.org/datePublished> "2004-01-27T15:12:58.78Z"^^<http://schema.org/Date> .
+_:b377 <http://schema.org/reviewBody> "I add a generous sprinkle of McCormick's Montreal Steak Seasoning on top of the patties, and they are perfect.  Works well for turkey or beef.  Also, I used Egg Beaters, and could not tell the difference." .
+_:b377 <http://schema.org/reviewRating> _:b379 .
+_:b377 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b378 <http://schema.org/name> "MARISSAW" .
+_:b378 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/242896/> .
+_:b378 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b379 <http://schema.org/bestRating> "5" .
+_:b379 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b379 <http://schema.org/worstRating> "1" .
+_:b379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b38 <http://schema.org/name> "Amanda Wangerin-Johnson" .
+_:b38 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/14449065/> .
+_:b38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b380 <http://schema.org/author> _:b381 .
+_:b380 <http://schema.org/datePublished> "2003-06-05T13:37:39.873Z"^^<http://schema.org/Date> .
+_:b380 <http://schema.org/reviewBody> "Add worchester sauce and seasoning salt. These were very good!!!" .
+_:b380 <http://schema.org/reviewRating> _:b382 .
+_:b380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b381 <http://schema.org/name> "Michelle Ramey" .
+_:b381 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/689448/> .
+_:b381 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b382 <http://schema.org/bestRating> "5" .
+_:b382 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b382 <http://schema.org/worstRating> "1" .
+_:b382 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b383 <http://schema.org/author> _:b384 .
+_:b383 <http://schema.org/datePublished> "2007-06-16T22:36:46.920Z"^^<http://schema.org/Date> .
+_:b383 <http://schema.org/reviewBody> "If you are thinking about making these on the grill, DON'T!!! I grilled them and about half of them \"melted\" through the grates." .
+_:b383 <http://schema.org/reviewRating> _:b385 .
+_:b383 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b384 <http://schema.org/name> "Amy!" .
+_:b384 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/2293706/> .
+_:b384 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b385 <http://schema.org/bestRating> "5" .
+_:b385 <http://schema.org/ratingValue> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b385 <http://schema.org/worstRating> "1" .
+_:b385 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b386 <http://schema.org/description> "These turkey burgers are so tasty, you may just give up beef for good." .
+_:b386 <http://schema.org/duration> "PT2M29.483S" .
+_:b386 <http://schema.org/embedUrl> <https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1667757629001> .
+_:b386 <http://schema.org/name> "Actually Delicious Turkey Burgers" .
+_:b386 <http://schema.org/publisher> _:b387 .
+_:b386 <http://schema.org/thumbnailUrl> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F260820f7-ad52-480c-bf2a-e1acda6791e4%2F03eb0ef4-7d32-4e5f-a07a-edb5b69dc15e%2F160x90%2Fmatch%2Fimage.jpg> .
+_:b386 <http://schema.org/uploadDate> "2012-06-01T17:05:26.980Z"^^<http://schema.org/Date> .
+_:b386 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoObject> .
+_:b387 <http://schema.org/logo> _:b388 .
+_:b387 <http://schema.org/name> "Allrecipes" .
+_:b387 <http://schema.org/sameAs> <https://twitter.com/Allrecipes> .
+_:b387 <http://schema.org/sameAs> <https://www.facebook.com/allrecipes> .
+_:b387 <http://schema.org/sameAs> <https://www.instagram.com/allrecipes/> .
+_:b387 <http://schema.org/sameAs> <https://www.pinterest.com/allrecipes/> .
+_:b387 <http://schema.org/url> <https://www.allrecipes.com> .
+_:b387 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:b388 <http://schema.org/height> "60"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b388 <http://schema.org/url> <https://www.allrecipes.com/img/logo.png> .
+_:b388 <http://schema.org/width> "209"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b388 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b389 <http://schema.org/itemListElement> _:b390 .
+_:b389 <http://schema.org/itemListElement> _:b391 .
+_:b389 <http://schema.org/itemListElement> _:b392 .
+_:b389 <http://schema.org/itemListElement> _:b393 .
+_:b389 <http://schema.org/itemListElement> _:b394 .
+_:b389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> .
+_:b39 <http://schema.org/bestRating> "5" .
+_:b39 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b39 <http://schema.org/worstRating> "1" .
+_:b39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b390 <http://schema.org/item> <https://www.allrecipes.com/> .
+_:b390 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b390 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b391 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
+_:b391 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b391 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b392 <http://schema.org/item> <https://www.allrecipes.com/recipes/80/main-dish/> .
+_:b392 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b393 <http://schema.org/item> <https://www.allrecipes.com/recipes/15455/main-dish/meatballs/> .
+_:b393 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b393 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b394 <http://schema.org/item> <https://www.allrecipes.com/recipes/17659/main-dish/meatballs/italian-meatballs/> .
+_:b394 <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b395 <http://schema.org/aggregateRating> _:b396 .
+_:b395 <http://schema.org/author> _:b397 .
+_:b395 <http://schema.org/cookTime> "P0DT0H20M" .
+_:b395 <http://schema.org/datePublished> "2019-06-30T10:26:29.000Z"^^<http://schema.org/Date> .
+_:b395 <http://schema.org/description> "These are such amazing Instant Pot® meatballs that will melt in your mouth the good way! Serve over noodles, rice, or on a sandwich roll!" .
+_:b395 <http://schema.org/image> _:b398 .
+_:b395 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/274323/natashas-out-of-this-world-instant-pot-meatballs/> .
+_:b395 <http://schema.org/name> "Natasha's Out-Of-This World Instant Pot® Meatballs" .
+_:b395 <http://schema.org/nutrition> _:b399 .
+_:b395 <http://schema.org/prepTime> "P0DT0H15M" .
+_:b395 <http://schema.org/recipeCategory> "Italian Meatball Recipes" .
+_:b395 <http://schema.org/recipeCategory> "Main Dishes" .
+_:b395 <http://schema.org/recipeCategory> "Meatball Recipes" .
+_:b395 <http://schema.org/recipeIngredient> "1 cup water" .
+_:b395 <http://schema.org/recipeIngredient> "1 pound ground beef" .
+_:b395 <http://schema.org/recipeIngredient> "1 pound ground pork" .
+_:b395 <http://schema.org/recipeIngredient> "1 small onion, finely chopped" .
+_:b395 <http://schema.org/recipeIngredient> "1 tablespoon Italian seasoning" .
+_:b395 <http://schema.org/recipeIngredient> "1 tablespoon minced garlic" .
+_:b395 <http://schema.org/recipeIngredient> "1 ¼ cups bread crumbs" .
+_:b395 <http://schema.org/recipeIngredient> "2 tablespoons mayonnaise" .
+_:b395 <http://schema.org/recipeIngredient> "3 (30 ounce) jars marinara sauce, or as needed" .
+_:b395 <http://schema.org/recipeIngredient> "salt and ground black pepper to taste" .
+_:b395 <http://schema.org/recipeIngredient> "¼ cup milk, or more as needed" .
+_:b395 <http://schema.org/recipeInstructions> _:b400 .
+_:b395 <http://schema.org/recipeInstructions> _:b401 .
+_:b395 <http://schema.org/recipeInstructions> _:b402 .
+_:b395 <http://schema.org/recipeInstructions> _:b403 .
+_:b395 <http://schema.org/recipeInstructions> _:b404 .
+_:b395 <http://schema.org/recipeYield> "10 servings" .
+_:b395 <http://schema.org/review> _:b405 .
+_:b395 <http://schema.org/totalTime> "P0DT0H40M" .
+_:b395 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b396 <http://schema.org/bestRating> "5" .
+_:b396 <http://schema.org/itemReviewed> "Natasha's Out-Of-This World Instant Pot® Meatballs" .
+_:b396 <http://schema.org/ratingCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b396 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b396 <http://schema.org/worstRating> "1" .
+_:b396 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:b397 <http://schema.org/name> "NatashaPattonII" .
+_:b397 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b398 <http://schema.org/height> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b398 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8716309.jpg> .
+_:b398 <http://schema.org/width> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b399 <http://schema.org/calories> "475 calories" .
+_:b399 <http://schema.org/carbohydrateContent> "45.8 g" .
+_:b399 <http://schema.org/cholesterolContent> "64.4 mg" .
+_:b399 <http://schema.org/fatContent> "21.8 g" .
+_:b399 <http://schema.org/fiberContent> "7.5 g" .
+_:b399 <http://schema.org/proteinContent> "22.3 g" .
+_:b399 <http://schema.org/saturatedFatContent> "6.9 g" .
+_:b399 <http://schema.org/sodiumContent> "1215.8 mg" .
+_:b399 <http://schema.org/sugarContent> "23.7 g" .
+_:b399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:b4 <http://schema.org/item> <https://www.allrecipes.com/recipes/13290/main-dish/seafood/> .
+_:b4 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b40 <http://schema.org/author> _:b41 .
+_:b40 <http://schema.org/datePublished> "2014-10-26T13:56:56.137Z"^^<http://schema.org/Date> .
+_:b40 <http://schema.org/reviewBody> "I m always looking for new ways to fix salmon. This was a nice change from what seems like the same old boring seasonings. The spice combination complimented the salmon very well. My only problem was keeping the salmon from burning. Thank goodness hubby is a sport when it comes to eating charred food. I reduced the heat to a lower setting but the longer cook time still resulted in a slightly burnt coating. I think this would be fantastic cooked on a grill." .
+_:b40 <http://schema.org/reviewRating> _:b42 .
+_:b40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b400 <http://schema.org/text> "Combine beef, pork, and onions in a large bowl using your hands or a spoon. Halfway through mixing, add garlic, Italian seasoning, salt, and pepper and mix well.\n" .
+_:b400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b401 <http://schema.org/text> "Combine bread crumbs, milk, and mayonnaise in a small bowl until you get a thick consistency, adding more milk if needed. Mix into meat mixture until thoroughly combined.\n" .
+_:b401 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b402 <http://schema.org/text> "Form golf ball-sized meatballs and place on a plate or a pan.\n" .
+_:b402 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b403 <http://schema.org/text> "Combine marinara sauce and water in a multi-functional pressure cooker (such as Instant Pot&reg;). Place meatballs in sauce, making sure meatballs are covered at all times, adding sauce and stirring if needed. Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 10 minutes. Allow 10 to 15 minutes for pressure to build.\n" .
+_:b403 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b404 <http://schema.org/text> "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid. An instant-read thermometer inserted into the center of a meatball should read at least 165 degrees F (74 degrees C).\n" .
+_:b404 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b405 <http://schema.org/author> _:b406 .
+_:b405 <http://schema.org/datePublished> "2020-11-11T03:52:51.703Z"^^<http://schema.org/Date> .
+_:b405 <http://schema.org/reviewBody> "Delicious and easy. I made a little less than half a recipe an used one jar of sauce.  I think a full recipe with 3 jars and maybe a little more water would be perfect" .
+_:b405 <http://schema.org/reviewRating> _:b407 .
+_:b405 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b406 <http://schema.org/name> "Linda T" .
+_:b406 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/lindat/> .
+_:b406 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b407 <http://schema.org/bestRating> "5" .
+_:b407 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b407 <http://schema.org/worstRating> "1" .
+_:b407 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b408 <http://schema.org/author> _:b409 .
+_:b408 <http://schema.org/dateModified> "2020-04-20T23:55:54.000Z"^^<http://schema.org/Date> .
+_:b408 <http://schema.org/datePublished> "2020-04-20T20:39:15.000Z"^^<http://schema.org/Date> .
+_:b408 <http://schema.org/description> "<p>Get your healthy broccoli the easy way! These all-in-one broccoli-based recipes are complete meals. Some get it done with a sheet pan, others a skillet, pie pan, or casserole dish. But the bottom line: all you'll need is one dish to make these delicious and diverse meals.</p>" .
+_:b408 <http://schema.org/headline> "12 One-Pot Broccoli Main Dishes for Easy, Complete Meals" .
+_:b408 <http://schema.org/image> _:b410 .
+_:b408 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/gallery/one-pot-broccoli-main-dishes/> .
+_:b408 <http://schema.org/publisher> _:b411 .
+_:b408 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> .
+_:b409 <http://schema.org/name> "Carl Hanson" .
+_:b409 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b41 <http://schema.org/name> "DIZ&#9829;" .
+_:b41 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/diz/> .
+_:b41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b410 <http://schema.org/caption> "Photo by dustysun" .
+_:b410 <http://schema.org/height> "465"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b410 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2017%2F10%2F620660-Ham-and-Broccoli-Bake-Photo-by-dustysun-resized.jpg> .
+_:b410 <http://schema.org/width> "650"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b410 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b411 <http://schema.org/logo> _:b412 .
+_:b411 <http://schema.org/name> "Allrecipes" .
+_:b411 <http://schema.org/sameAs> <https://twitter.com/Allrecipes> .
+_:b411 <http://schema.org/sameAs> <https://www.facebook.com/allrecipes> .
+_:b411 <http://schema.org/sameAs> <https://www.instagram.com/allrecipes/> .
+_:b411 <http://schema.org/sameAs> <https://www.pinterest.com/allrecipes/> .
+_:b411 <http://schema.org/url> <https://www.allrecipes.com> .
+_:b411 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:b412 <http://schema.org/height> "60"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b412 <http://schema.org/url> <https://www.allrecipes.com/img/logo.png> .
+_:b412 <http://schema.org/width> "209"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b412 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b413 <http://schema.org/itemListElement> _:b414 .
+_:b413 <http://schema.org/itemListElement> _:b415 .
+_:b413 <http://schema.org/itemListElement> _:b416 .
+_:b413 <http://schema.org/itemListElement> _:b417 .
+_:b413 <http://schema.org/itemListElement> _:b418 .
+_:b413 <http://schema.org/itemListElement> _:b419 .
+_:b413 <http://schema.org/itemListElement> _:b420 .
+_:b413 <http://schema.org/itemListElement> _:b421 .
+_:b413 <http://schema.org/itemListElement> _:b422 .
+_:b413 <http://schema.org/itemListElement> _:b423 .
+_:b413 <http://schema.org/itemListElement> _:b424 .
+_:b413 <http://schema.org/itemListElement> _:b425 .
+_:b413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> .
+_:b414 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b414 <http://schema.org/url> <https://www.allrecipes.com/recipe/241287/baked-italian-chicken-dinner/> .
+_:b414 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b415 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b415 <http://schema.org/url> <https://www.allrecipes.com/recipe/245666/healthy-broccoli-cheese-bake/> .
+_:b415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b416 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b416 <http://schema.org/url> <https://www.allrecipes.com/recipe/8854/broccoli-chicken-divan/> .
+_:b416 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b417 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b417 <http://schema.org/url> <https://www.allrecipes.com/recipe/74437/hummus-pizza/> .
+_:b417 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b418 <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b418 <http://schema.org/url> <https://www.allrecipes.com/recipe/25644/ham-potato-and-broccoli-casserole/> .
+_:b418 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b419 <http://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b419 <http://schema.org/url> <https://www.allrecipes.com/recipe/24148/easy-broccoli-quiche/> .
+_:b419 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b42 <http://schema.org/bestRating> "5" .
+_:b42 <http://schema.org/ratingValue> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b42 <http://schema.org/worstRating> "1" .
+_:b42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b420 <http://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b420 <http://schema.org/url> <https://www.allrecipes.com/recipe/20962/broccoli-lasagna/> .
+_:b420 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b421 <http://schema.org/position> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b421 <http://schema.org/url> <https://www.allrecipes.com/recipe/211166/ham-and-broccoli-bake/> .
+_:b421 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b422 <http://schema.org/position> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b422 <http://schema.org/url> <https://www.allrecipes.com/recipe/8965/broccoli-chicken-casserole-i/> .
+_:b422 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b423 <http://schema.org/position> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b423 <http://schema.org/url> <https://www.allrecipes.com/recipe/256554/chicken-sausage-gnocchi-skillet/> .
+_:b423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b424 <http://schema.org/position> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b424 <http://schema.org/url> <https://www.allrecipes.com/recipe/272257/cheesy-bacon-pasta-bake-with-broccoli-crumble/> .
+_:b424 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b425 <http://schema.org/position> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b425 <http://schema.org/url> <https://www.allrecipes.com/recipe/256394/healthy-steak-stir-fry/> .
+_:b425 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b43 <http://schema.org/author> _:b44 .
+_:b43 <http://schema.org/datePublished> "2019-05-31T17:35:08.940Z"^^<http://schema.org/Date> .
+_:b43 <http://schema.org/reviewBody> "It was ok but nothing special to my taste" .
+_:b43 <http://schema.org/reviewRating> _:b45 .
+_:b43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b44 <http://schema.org/name> "Inch" .
+_:b44 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/inch/> .
+_:b44 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b45 <http://schema.org/bestRating> "5" .
+_:b45 <http://schema.org/ratingValue> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b45 <http://schema.org/worstRating> "1" .
+_:b45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b46 <http://schema.org/itemListElement> _:b47 .
+_:b46 <http://schema.org/itemListElement> _:b48 .
+_:b46 <http://schema.org/itemListElement> _:b49 .
+_:b46 <http://schema.org/itemListElement> _:b50 .
+_:b46 <http://schema.org/itemListElement> _:b51 .
+_:b46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> .
+_:b47 <http://schema.org/item> <https://www.allrecipes.com/> .
+_:b47 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b48 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
+_:b48 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b49 <http://schema.org/item> <https://www.allrecipes.com/recipes/92/meat-and-poultry/> .
+_:b49 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b5 <http://schema.org/item> <https://www.allrecipes.com/recipes/13293/main-dish/seafood/salmon/> .
+_:b5 <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b50 <http://schema.org/item> <https://www.allrecipes.com/recipes/205/meat-and-poultry/pork/> .
+_:b50 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b51 <http://schema.org/item> <https://www.allrecipes.com/recipes/1014/meat-and-poultry/pork/tenderloin/> .
+_:b51 <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b51 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b52 <http://schema.org/aggregateRating> _:b53 .
+_:b52 <http://schema.org/author> _:b54 .
+_:b52 <http://schema.org/cookTime> "P0DT0H55M" .
+_:b52 <http://schema.org/datePublished> "2020-03-05T05:20:59.000Z"^^<http://schema.org/Date> .
+_:b52 <http://schema.org/description> "Jazz up your pork tenderloin with this spicy-sweet combo of apples, cider, sweet potatoes, and as much or as little heat as your palate requires! This easy oven dish only needs one other pot to reduce the sauce on top of the stove. It is large enough for a crowd or for leftovers later in the week. Add a green veggie or a salad, and some crusty dinner bread, and you are good to go!" .
+_:b52 <http://schema.org/image> _:b55 .
+_:b52 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/277116/spicy-pork-tenderloin-with-apples-and-sweet-potatoes/> .
+_:b52 <http://schema.org/name> "Spicy Pork Tenderloin with Apples and Sweet Potatoes" .
+_:b52 <http://schema.org/nutrition> _:b56 .
+_:b52 <http://schema.org/prepTime> "P0DT0H30M" .
+_:b52 <http://schema.org/recipeCategory> "Main Dishes" .
+_:b52 <http://schema.org/recipeCategory> "Pork Tenderloin Recipes" .
+_:b52 <http://schema.org/recipeCategory> "Pork" .
+_:b52 <http://schema.org/recipeIngredient> "1 large sweet potato, peeled and cut into 1 1/2-inch pieces" .
+_:b52 <http://schema.org/recipeIngredient> "1 lime, juiced" .
+_:b52 <http://schema.org/recipeIngredient> "1 tablespoon ground ginger" .
+_:b52 <http://schema.org/recipeIngredient> "1 tablespoon light brown sugar" .
+_:b52 <http://schema.org/recipeIngredient> "1 teaspoon chipotle chili powder, or to taste" .
+_:b52 <http://schema.org/recipeIngredient> "1 ½ cups apple cider" .
+_:b52 <http://schema.org/recipeIngredient> "2 (1 1/2 pound) pork tenderloins" .
+_:b52 <http://schema.org/recipeIngredient> "4 apples, peeled and cut into 8 pieces each" .
+_:b52 <http://schema.org/recipeIngredient> "4 tablespoons butter, cut into small pieces" .
+_:b52 <http://schema.org/recipeIngredient> "aluminum foil" .
+_:b52 <http://schema.org/recipeIngredient> "cooking spray" .
+_:b52 <http://schema.org/recipeIngredient> "salt and ground black pepper to taste" .
+_:b52 <http://schema.org/recipeIngredient> "½ teaspoon granulated garlic" .
+_:b52 <http://schema.org/recipeIngredient> "½ teaspoon ground ginger" .
+_:b52 <http://schema.org/recipeIngredient> "⅛ teaspoon chipotle chile powder" .
+_:b52 <http://schema.org/recipeIngredient> "⅛ teaspoon garam masala" .
+_:b52 <http://schema.org/recipeInstructions> _:b57 .
+_:b52 <http://schema.org/recipeInstructions> _:b58 .
+_:b52 <http://schema.org/recipeInstructions> _:b59 .
+_:b52 <http://schema.org/recipeInstructions> _:b60 .
+_:b52 <http://schema.org/recipeInstructions> _:b61 .
+_:b52 <http://schema.org/recipeInstructions> _:b62 .
+_:b52 <http://schema.org/recipeInstructions> _:b63 .
+_:b52 <http://schema.org/recipeInstructions> _:b64 .
+_:b52 <http://schema.org/recipeYield> "12 servings" .
+_:b52 <http://schema.org/review> _:b65 .
+_:b52 <http://schema.org/review> _:b68 .
+_:b52 <http://schema.org/review> _:b71 .
+_:b52 <http://schema.org/review> _:b74 .
+_:b52 <http://schema.org/review> _:b77 .
+_:b52 <http://schema.org/review> _:b80 .
+_:b52 <http://schema.org/review> _:b83 .
+_:b52 <http://schema.org/totalTime> "P0DT0H85M" .
+_:b52 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b53 <http://schema.org/bestRating> "5" .
+_:b53 <http://schema.org/itemReviewed> "Spicy Pork Tenderloin with Apples and Sweet Potatoes" .
+_:b53 <http://schema.org/ratingCount> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b53 <http://schema.org/ratingValue> "4.3E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b53 <http://schema.org/worstRating> "1" .
+_:b53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:b54 <http://schema.org/name> "Bibi" .
+_:b54 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b55 <http://schema.org/height> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b55 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7251995.jpg> .
+_:b55 <http://schema.org/width> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b56 <http://schema.org/calories> "211.7 calories" .
+_:b56 <http://schema.org/carbohydrateContent> "20.3 g" .
+_:b56 <http://schema.org/cholesterolContent> "59.3 mg" .
+_:b56 <http://schema.org/fatContent> "6.4 g" .
+_:b56 <http://schema.org/fiberContent> "2.5 g" .
+_:b56 <http://schema.org/proteinContent> "18.5 g" .
+_:b56 <http://schema.org/saturatedFatContent> "3.3 g" .
+_:b56 <http://schema.org/sodiumContent> "117.3 mg" .
+_:b56 <http://schema.org/sugarContent> "11.2 g" .
+_:b56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:b57 <http://schema.org/text> "Preheat the oven to 425 degrees F (220 degrees C). Spray a 9x13-inch baking dish with cooking spray.\n" .
+_:b57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b58 <http://schema.org/text> "Mix together 1 tablespoon ginger, brown sugar, 1 teaspoon chili powder, salt, and pepper in a bowl to create a rub. Rub combined seasonings on all sides of the pork tenderloins, using the entire amount.\n" .
+_:b58 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b59 <http://schema.org/text> "Place apples and sweet potatoes in the bottom of the prepared pan; dot with butter.\n" .
+_:b59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b6 <http://schema.org/item> <https://www.allrecipes.com/recipes/15850/main-dish/seafood/salmon/salmon-fillets/> .
+_:b6 <http://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b60 <http://schema.org/text> "Mix together apple cider, lime juice, garlic, 1/2 teaspoon ginger, 1/8 teaspoon chili powder, garam masala, salt, and pepper in a bowl. Pour over apples and sweet potatoes and place tenderloins on top.\n" .
+_:b60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b61 <http://schema.org/text> "Bake in the preheated oven for 20 minutes. Ladle cooking liquid over apples and sweet potatoes, turn tenderloins over, and continue baking until pork is slightly pink at the center, about 20 minutes longer. A meat thermometer placed in the center of the thickest tenderloin should read 145 degrees F (63 degrees C).\n" .
+_:b61 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b62 <http://schema.org/text> "Remove apples and sweet potatoes to a serving platter using a slotted spoon. Place tenderloins on top and cover with aluminum foil.\n" .
+_:b62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b63 <http://schema.org/text> "Pour cooking liquid from the baking dish into a 1-quart saucepan. Heat over medium-high heat until liquid comes to a boil. Boil, stirring occasionally, until the mixture is reduced by one half, 10 to 15 minutes.\n" .
+_:b63 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b64 <http://schema.org/text> "Drizzle sauce over pork, apples, and sweet potatoes. Slice tenderloins and serve.\n" .
+_:b64 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b65 <http://schema.org/author> _:b66 .
+_:b65 <http://schema.org/datePublished> "2019-12-16T07:21:22.597Z"^^<http://schema.org/Date> .
+_:b65 <http://schema.org/reviewBody> "Very satisfying and easy to make." .
+_:b65 <http://schema.org/reviewRating> _:b67 .
+_:b65 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b66 <http://schema.org/name> "Steve D." .
+_:b66 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/16795058/> .
+_:b66 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b67 <http://schema.org/bestRating> "5" .
+_:b67 <http://schema.org/ratingValue> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b67 <http://schema.org/worstRating> "1" .
+_:b67 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b68 <http://schema.org/author> _:b69 .
+_:b68 <http://schema.org/datePublished> "2020-01-03T10:52:12.55Z"^^<http://schema.org/Date> .
+_:b68 <http://schema.org/reviewBody> "My husband and I loved this entree and would highly recommend it! I substituted Bone-In Pork Shoulder Spare Rib meat and Yukon Gold Potatoes (what I had on hand) and found it to be delicious! The funny thing is...I'm not even a big pork fan by nature. L&M from MN" .
+_:b68 <http://schema.org/reviewRating> _:b70 .
+_:b68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b69 <http://schema.org/name> "Lynne Johnson" .
+_:b69 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/24806048/> .
+_:b69 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b7 <http://schema.org/aggregateRating> _:b8 .
+_:b7 <http://schema.org/author> _:b9 .
+_:b7 <http://schema.org/cookTime> "P0DT0H10M" .
+_:b7 <http://schema.org/datePublished> "2019-04-02T07:03:06.000Z"^^<http://schema.org/Date> .
+_:b7 <http://schema.org/description> "I am a salmon lover. This is a great recipe for a slightly exotic flavor of Indian inspiration with a maple twist. The flavor is exceptional, delicious, and unique. Orange zest may be added for an extra flavor twist." .
+_:b7 <http://schema.org/image> _:b10 .
+_:b7 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/237297/cardamom-maple-salmon/> .
+_:b7 <http://schema.org/name> "Cardamom Maple Salmon" .
+_:b7 <http://schema.org/nutrition> _:b11 .
+_:b7 <http://schema.org/prepTime> "P0DT0H15M" .
+_:b7 <http://schema.org/recipeCategory> "Main Dishes" .
+_:b7 <http://schema.org/recipeCategory> "Salmon Fillet Recipes" .
+_:b7 <http://schema.org/recipeCategory> "Salmon" .
+_:b7 <http://schema.org/recipeCategory> "Seafood Main Dish Recipes" .
+_:b7 <http://schema.org/recipeIngredient> "1 (2 pound) salmon fillet, cut into 3-inch pieces" .
+_:b7 <http://schema.org/recipeIngredient> "1 teaspoon ground cardamom" .
+_:b7 <http://schema.org/recipeIngredient> "1 teaspoon ground coriander" .
+_:b7 <http://schema.org/recipeIngredient> "1 teaspoon paprika" .
+_:b7 <http://schema.org/recipeIngredient> "1 ½ teaspoons salt" .
+_:b7 <http://schema.org/recipeIngredient> "2 tablespoons maple syrup" .
+_:b7 <http://schema.org/recipeIngredient> "¼ cup grapeseed oil" .
+_:b7 <http://schema.org/recipeIngredient> "½ teaspoon ground black pepper" .
+_:b7 <http://schema.org/recipeInstructions> _:b12 .
+_:b7 <http://schema.org/recipeInstructions> _:b13 .
+_:b7 <http://schema.org/recipeInstructions> _:b14 .
+_:b7 <http://schema.org/recipeInstructions> _:b15 .
+_:b7 <http://schema.org/recipeYield> "6 servings" .
+_:b7 <http://schema.org/review> _:b16 .
+_:b7 <http://schema.org/review> _:b19 .
+_:b7 <http://schema.org/review> _:b22 .
+_:b7 <http://schema.org/review> _:b25 .
+_:b7 <http://schema.org/review> _:b28 .
+_:b7 <http://schema.org/review> _:b31 .
+_:b7 <http://schema.org/review> _:b34 .
+_:b7 <http://schema.org/review> _:b37 .
+_:b7 <http://schema.org/review> _:b40 .
+_:b7 <http://schema.org/review> _:b43 .
+_:b7 <http://schema.org/totalTime> "P0DT0H25M" .
+_:b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b70 <http://schema.org/bestRating> "5" .
+_:b70 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b70 <http://schema.org/worstRating> "1" .
+_:b70 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b71 <http://schema.org/author> _:b72 .
+_:b71 <http://schema.org/datePublished> "2019-12-15T04:14:41.12Z"^^<http://schema.org/Date> .
+_:b71 <http://schema.org/reviewBody> "OMG this was soooo good. Leftovers were good too. I made some changes only because I bought a 3.8 pound top pork loin on sale for 8 instead of the 1.9 pound pork tenderloin for 16. So I had to go to my good old Betty Crocker cookbook and to the internet to get cooking times. Did all of the ingredients the same except left off garlic and doubled all the ingredients and increased apple cider to 2 cups. I did the rub ahead of time because I was home anyway and let it sit under a blanket of plastic rap for 4 hours before cooking. Betty Crocker said to cook Top Pork Loin at 325 for 30-40 mins per pound to get internal temp of 170. I cooked it for a total of about 2 hours at 350 with just the cider mix (no sweets or apples). Also had to look up Sweet Potatos = 350 degrees for about an hour. So added them after Pork loin cooked for one hour. And I looked up Apples = 350 for about 15 minutes (I did smaller slices - like 8/apple). Even though I did over cook it a smidge when I made the first cut liquid squirted out and I knew it would be juicy and tender which it was. For leftovers we put potoatoes/apples/juice in sauce pan on low. And my husband dabbed some of the juice on the pork slices and put brown sugar/ginger mix on each side. He cooked them separately in the oven on stoneware plate at 350 for about 7 minutes then broiled at 500 until a little bubbly - a couple minutes." .
+_:b71 <http://schema.org/reviewRating> _:b73 .
+_:b71 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b72 <http://schema.org/name> "Colleen Vaughn" .
+_:b72 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/2543524/> .
+_:b72 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b73 <http://schema.org/bestRating> "5" .
+_:b73 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b73 <http://schema.org/worstRating> "1" .
+_:b73 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b74 <http://schema.org/author> _:b75 .
+_:b74 <http://schema.org/datePublished> "2019-12-19T01:52:40.54Z"^^<http://schema.org/Date> .
+_:b74 <http://schema.org/reviewBody> "I liked the seasonings very much but while the sweet potatoes cooked to perfection the apples were mushy. I would recommend making sure you use a firm apple like Granny Smith or Pippin." .
+_:b74 <http://schema.org/reviewRating> _:b76 .
+_:b74 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b75 <http://schema.org/name> "Pam" .
+_:b75 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/15756158/> .
+_:b75 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b76 <http://schema.org/bestRating> "5" .
+_:b76 <http://schema.org/ratingValue> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b76 <http://schema.org/worstRating> "1" .
+_:b76 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b77 <http://schema.org/author> _:b78 .
+_:b77 <http://schema.org/datePublished> "2020-05-01T10:53:24.9Z"^^<http://schema.org/Date> .
+_:b77 <http://schema.org/reviewBody> "I forgot to get apple cider vinegar when I made this, but it was still delicious." .
+_:b77 <http://schema.org/reviewRating> _:b79 .
+_:b77 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b78 <http://schema.org/name> "Brian James" .
+_:b78 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/19991988/> .
+_:b78 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b79 <http://schema.org/bestRating> "5" .
+_:b79 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b79 <http://schema.org/worstRating> "1" .
+_:b79 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b8 <http://schema.org/bestRating> "5" .
+_:b8 <http://schema.org/itemReviewed> "Cardamom Maple Salmon" .
+_:b8 <http://schema.org/ratingCount> "55"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b8 <http://schema.org/ratingValue> "4.490909090909091E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b8 <http://schema.org/worstRating> "1" .
+_:b8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:b80 <http://schema.org/author> _:b81 .
+_:b80 <http://schema.org/datePublished> "2019-12-12T12:01:48.977Z"^^<http://schema.org/Date> .
+_:b80 <http://schema.org/reviewBody> "Strong cumin taste. I will probably omit the garam masala next time. Apples & sweet potatoes were perfect." .
+_:b80 <http://schema.org/reviewRating> _:b82 .
+_:b80 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b81 <http://schema.org/name> "Donna" .
+_:b81 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/25390927/> .
+_:b81 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b82 <http://schema.org/bestRating> "5" .
+_:b82 <http://schema.org/ratingValue> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b82 <http://schema.org/worstRating> "1" .
+_:b82 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b83 <http://schema.org/author> _:b84 .
+_:b83 <http://schema.org/datePublished> "2020-11-26T11:30:51.82Z"^^<http://schema.org/Date> .
+_:b83 <http://schema.org/reviewBody> "I followed the recipe exactly. It tasted good but it was dry. There was no extra sauce to cook on the stovetop. Next time I make it I will use more apples." .
+_:b83 <http://schema.org/reviewRating> _:b85 .
+_:b83 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b84 <http://schema.org/name> "Donna Corea" .
+_:b84 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/24084700/> .
+_:b84 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b85 <http://schema.org/bestRating> "5" .
+_:b85 <http://schema.org/ratingValue> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b85 <http://schema.org/worstRating> "1" .
+_:b85 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b86 <http://schema.org/itemListElement> _:b87 .
+_:b86 <http://schema.org/itemListElement> _:b88 .
+_:b86 <http://schema.org/itemListElement> _:b89 .
+_:b86 <http://schema.org/itemListElement> _:b90 .
+_:b86 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> .
+_:b87 <http://schema.org/item> <https://www.allrecipes.com/> .
+_:b87 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b87 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b88 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
+_:b88 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b88 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b89 <http://schema.org/item> <https://www.allrecipes.com/recipes/86/world-cuisine/> .
+_:b89 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b89 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b9 <http://schema.org/name> "rhardoon" .
+_:b9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b90 <http://schema.org/item> <https://www.allrecipes.com/recipes/227/world-cuisine/asian/> .
+_:b90 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b90 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b91 <http://schema.org/aggregateRating> _:b92 .
+_:b91 <http://schema.org/author> _:b93 .
+_:b91 <http://schema.org/cookTime> "P0DT2H40M" .
+_:b91 <http://schema.org/datePublished> "2020-02-19T05:50:47.000Z"^^<http://schema.org/Date> .
+_:b91 <http://schema.org/description> "A chicken curry with the balanced elements of spicy and sour with the traditional flavors of Southeast Asia. Serve with basmati rice. This will taste even better if you leave it for a day or two before eating." .
+_:b91 <http://schema.org/image> _:b94 .
+_:b91 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/276989/als-burmese-chicken-curry/> .
+_:b91 <http://schema.org/name> "Al's Burmese Chicken Curry" .
+_:b91 <http://schema.org/nutrition> _:b95 .
+_:b91 <http://schema.org/prepTime> "P0DT0H20M" .
+_:b91 <http://schema.org/recipeCategory> "Main Dishes" .
+_:b91 <http://schema.org/recipeCategory> "World Cuisine Recipes" .
+_:b91 <http://schema.org/recipeIngredient> "1 (14 ounce) can coconut milk" .
+_:b91 <http://schema.org/recipeIngredient> "1 lemongrass, smashed and cut into 1-inch pieces" .
+_:b91 <http://schema.org/recipeIngredient> "1 tablespoon ground coriander" .
+_:b91 <http://schema.org/recipeIngredient> "1 tablespoon ground red chile pepper" .
+_:b91 <http://schema.org/recipeIngredient> "1 teaspoon butter, or as needed" .
+_:b91 <http://schema.org/recipeIngredient> "10 bird's eye chile peppers, chopped, or to taste" .
+_:b91 <http://schema.org/recipeIngredient> "2 kaffir lime leaves, or to taste" .
+_:b91 <http://schema.org/recipeIngredient> "2 tablespoons hot curry powder" .
+_:b91 <http://schema.org/recipeIngredient> "2 ½ pounds chicken thighs" .
+_:b91 <http://schema.org/recipeIngredient> "3 tablespoons fish sauce" .
+_:b91 <http://schema.org/recipeIngredient> "3 tablespoons red curry paste, or more to taste" .
+_:b91 <http://schema.org/recipeIngredient> "4 tomatoes, quartered" .
+_:b91 <http://schema.org/recipeIngredient> "8 shallots, thinly sliced" .
+_:b91 <http://schema.org/recipeIngredient> "water to cover" .
+_:b91 <http://schema.org/recipeIngredient> "½ small bunch fresh cilantro, chopped, or to taste" .
+_:b91 <http://schema.org/recipeInstructions> _:b96 .
+_:b91 <http://schema.org/recipeInstructions> _:b97 .
+_:b91 <http://schema.org/recipeInstructions> _:b98 .
+_:b91 <http://schema.org/recipeYield> "6 servings" .
+_:b91 <http://schema.org/review> _:b99 .
+_:b91 <http://schema.org/totalTime> "P0DT2H60M" .
+_:b91 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b92 <http://schema.org/bestRating> "5" .
+_:b92 <http://schema.org/itemReviewed> "Al's Burmese Chicken Curry" .
+_:b92 <http://schema.org/ratingCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b92 <http://schema.org/ratingValue> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b92 <http://schema.org/worstRating> "1" .
+_:b92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:b93 <http://schema.org/name> "Alex Illes" .
+_:b93 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b94 <http://schema.org/height> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b94 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7062050.jpg> .
+_:b94 <http://schema.org/width> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b94 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+_:b95 <http://schema.org/calories> "520.8 calories" .
+_:b95 <http://schema.org/carbohydrateContent> "21.8 g" .
+_:b95 <http://schema.org/cholesterolContent> "108.2 mg" .
+_:b95 <http://schema.org/fatContent> "34.1 g" .
+_:b95 <http://schema.org/fiberContent> "3.8 g" .
+_:b95 <http://schema.org/proteinContent> "34.4 g" .
+_:b95 <http://schema.org/saturatedFatContent> "18.1 g" .
+_:b95 <http://schema.org/sodiumContent> "814.2 mg" .
+_:b95 <http://schema.org/sugarContent> "6 g" .
+_:b95 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:b96 <http://schema.org/text> "Melt butter in a wok over medium heat. Add shallots and fry until golden, about 10 minutes. Remove shallots and set aside. Add curry paste to the wok and toast until fragrant, about 3 minutes. Stir in curry powder and ground chile. Add chicken and cook, stirring, until lightly browned, about 5 minutes. Stir in lemongrass, chiles peppers, coriander, and lime leaves.\n" .
+_:b96 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b97 <http://schema.org/text> "Pour in fish sauce and enough water to cover chicken. Add coconut milk; cook for 10 minutes. Toss in tomatoes and cook until starting to soften, about 10 minutes more. Reduce heat to low and simmer until flavors blend, 2 to 3 hours.\n" .
+_:b97 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b98 <http://schema.org/text> "Remove lemongrass and lime leaves. Garnish curry with the fried shallots and cilantro.\n" .
+_:b98 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b99 <http://schema.org/author> _:b100 .
+_:b99 <http://schema.org/datePublished> "2020-09-02T02:27:51.763Z"^^<http://schema.org/Date> .
+_:b99 <http://schema.org/reviewBody> "Sorry, but this is all wrong.  Raw chicken on the bone should take no more than 45 minutes - 1 hour to cook while braising.  2 - 3 hours is way too much, and it calls for the chicken to be browned first.  I give every new recipe the benefit of the doubt, and I followed the instructions.  I went with 2 hours.  As I expected, the chicken was basically mush by the end.  The picture that accompanies this recipe is 100% misleading.  And 3 cups of water?  Way too much.  This came out like chicken soup.  It would have been WAYYY richer and superior texture-wise to cook the shallots and make a masala with the spices.  Then add only coconut milk (no water at all) and let that simmer for 10 minutes.   Brown the chicken separately and then add it into the coconut milk mixture to simmer for 10 - 15 minutes.  This wasted about 4 hours of my time and some of my $." .
+_:b99 <http://schema.org/reviewRating> _:b101 .
+_:b99 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .

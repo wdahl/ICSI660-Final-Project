@@ -1,0 +1,4 @@
+SELECT (count(distinct ?name) as ?count) WHERE {
+    ?recipe <http://schema.org/name> ?name .
+    ?recipe <http://schema.org/recipeIngredient> ?Ingredient .
+}

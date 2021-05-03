@@ -1,0 +1,3945 @@
+    [
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                "name": "Salad",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/408/salad/seafood-salad/",
+                "name": "Seafood Salad Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/2809/salad/seafood-salad/tuna-salad/",
+                "name": "Tuna Salad Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/20185/virginas-tuna-salad/",
+          "name": "Virgina's Tuna Salad",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F44694.jpg",
+            "width": 3008,
+            "height": 2000
+          },
+          "datePublished": "2000-05-17T15:37:25.000Z",
+          "description": "This was always a summer Saturday favorite for my grandparents and I. Great served on a large lettuce leaf. You may also add grapes or chopped apples if you wish.",
+          "prepTime": "P0DT0H20M",
+          "cookTime": "P0DT0H5M",
+          "totalTime": "P0DT0H40M",
+          "recipeYield": "4 servings",
+          "recipeIngredient": [
+            "1 egg",
+            "1 (5 ounce) can tuna, drained and flaked",
+            "3 tablespoons mayonnaise",
+            "2 stalks celery, chopped",
+            "2 tablespoons sweet pickle relish",
+            "1 pinch ground black pepper"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Place egg in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let egg stand in hot water for 10 to 12 minutes. Remove from hot water; cool for 5 minutes. Peel and chop into bite-sized pieces.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "In a medium bowl, mix together tuna and mayonnaise. Mix in egg, celery, relish, and black pepper.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Salad",
+            "Seafood Salad Recipes",
+            "Tuna Salad Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "KRISTIEV"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.485294117647059,
+            "ratingCount": 68,
+            "itemReviewed": "Virgina's Tuna Salad",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "142 calories",
+            "carbohydrateContent": "3.9 g",
+            "cholesterolContent": "59.9 mg",
+            "fatContent": "9.8 g",
+            "fiberContent": "0.4 g",
+            "proteinContent": "9.9 g",
+            "saturatedFatContent": "1.7 g",
+            "servingSize": null,
+            "sodiumContent": "167.5 mg",
+            "sugarContent": "2.8 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2010-06-10T15:15:18.477Z",
+              "reviewBody": "Very nice tuna salad recipe but maybe there's a misprint here - the recipe says to use 3 (6 ounce) cans of tuna. Well seeing as I really didn't have any army to feed and there's no way that 3 Tbsp. of mayo would make any sense I used only one can. I eyeballed the amount of chopped celery and left out the relish (personal preference). I added a little salt pepper garlic and onion powders. The addition of the hard boiled egg was a nice change.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Jillian",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/jillian/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-08-11T22:30:23.497Z",
+              "reviewBody": "A hard boiled egg in tuna salad is such a nice addition. I like to add chopped onion and green pepper as well as black pepper and garlic and onion powder to the mixture for more flavor.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "LINDA MCLEAN",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/268713/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-05-20T20:23:10.733Z",
+              "reviewBody": "Very easy and simple but a little plain for my taste.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Rebslo",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/5686/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-06-08T00:51:41.807Z",
+              "reviewBody": "This is a great base recipe and just needed a little tweaking to make a great sandwich. I had to add another egg it just needed more and I only used 2 cans of tuna and had to put three times the mayo it was too dry with only the 3 Tbl. I used dried celery in the jar and added some chopped onion per son's request. I was heavy handed with the pickle relish too. This made a good lunch though so thanks for sharing!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "~TxCin~ILove2Ck",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1197175/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-05-18T13:12:09.873Z",
+              "reviewBody": "Great traditional Tuna Salad.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "alsoher",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/241868/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-05-18T13:12:16.03Z",
+              "reviewBody": "I USED THIS RECIPE WHEN MY FUSSY SONINLAW CAME TO VISIT. hE THOUGHT IT WAS WAS WONDERFUL. i THOUGHT IT WAS QUICK EASY AND INEXPENSIVE THANX. MEANEST JEAN",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "TODDSMOM",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/416318/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-07-23T07:54:19.273Z",
+              "reviewBody": "I liked the addition of the egg. This is a great tuna salad recipe. Thanks Kristie.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "NJSS2000",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/52769/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-05-20T20:25:44.873Z",
+              "reviewBody": "This is exactly the recipe I was looking for. \"Like mom used to make!\" Thanks!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "ULTRATECH",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/121164/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-06-07T20:41:56.21Z",
+              "reviewBody": "I stepped it up a notch. I added diced red onion lots of celery for the crunch. Instead of sweet relish I opted to add dill or sometimes my favorite dill pickels diced up and my other version...Giuliano jalapeno spread ( it's really a relish)! WOW. Or...chili flakes. Let the flavors mesh for several hours or overnight. I've served in a hollowed our red bell pepper. Even diced the tops into the salad. Great on crackers too. Toasted bread is a must! I don't use the egg but I do use Costco's Kirkland Albacore and chill the cans ahead. I keep all in the fridge for fast cool salads or sandwiches. Also another variation....diced cucumbers (persian) dried dill.....the sky is the limit. Even added tabasco at times or lemon juice. Have fun...let the family rate them or have several and give your guests rate them. I did this for an all day bbq as lunch snacks. SoCal so we try to make it healthy. I also use light Best Foods mayo. You can do all the above and also add small shell pasta. Enjoy",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Michelle L Casey",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/4643699/"
+              }
+            }
+          ]
+        }
+      ],
+      
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                "name": "Main Dish Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+                "name": "Sandwich Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/1884/main-dish/sandwiches/grilled-cheese/",
+                "name": "Grilled Cheese",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/85901/spicy-grilled-cheese-sandwich/",
+          "name": "Spicy Grilled Cheese Sandwich",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5081856.jpg",
+            "width": 1280,
+            "height": 960
+          },
+          "datePublished": "2018-03-21T16:44:49.000Z",
+          "description": "Grilled cheese with onions, tomatoes and jalapenos-- tastier than the original!",
+          "prepTime": "P0DT0H2M",
+          "cookTime": "P0DT0H3M",
+          "totalTime": "P0DT0H5M",
+          "recipeYield": "2 sandwiches",
+          "recipeIngredient": [
+            "2 tablespoons butter or margarine",
+            "4 slices white bread",
+            "2 slices American cheese",
+            "1 roma (plum) tomato, thinly sliced",
+            "¼ small onion, chopped",
+            "1 jalapeno pepper, chopped"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Heat a large skillet over low heat. Spread butter or margarine onto one side of two slices of bread. Place both pieces buttered side down in the skillet. Lay a slice of cheese on each one, and top with slices of tomato, onion and jalapeno. Butter one side of the remaining slices of bread, and place on top buttered side up. When the bottom of the sandwiches are toasted, flip and fry until brown on the other side.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Main Dish Recipes",
+            "Sandwich Recipes",
+            "Grilled Cheese"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "PATELGURL"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.636363636363637,
+            "ratingCount": 143,
+            "itemReviewed": "Spicy Grilled Cheese Sandwich",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "352.3 calories",
+            "carbohydrateContent": "28.2 g",
+            "cholesterolContent": "57.2 mg",
+            "fatContent": "22.1 g",
+            "fiberContent": "1.9 g",
+            "proteinContent": "10.7 g",
+            "saturatedFatContent": "13.3 g",
+            "servingSize": null,
+            "sodiumContent": "846.4 mg",
+            "sugarContent": "3.7 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2007-04-26T23:18:47.657Z",
+              "reviewBody": "I've always added tomato to my GC sandwiches... but I have to say the addition of onion and jalapeno really turned an otherwise fairly boring lunch into somwthing special!\nTaste is  GREAT. I used part of a red onion, sliced into very thin rings, and added about half \nthe jalapeno, already diced in the can.\nI put all the extras between the 2 slices \nof cheese... seems the melted cheese helps hang on to the tomato, onion and pepper much better than putting it on top... and it's alot easier to flip that way, not to mention a bit less messy to eat. Butter is much better tasting on GC's, and I really wouldn't even TRY them with Margarine. Totally different taste, and the butter browns up so much nicer. I think I may have\n   found my new fave GC right here in this recipe! Next time I'll add a bit more jalapeno! \nThank you, PATELGURL... these GC's rock!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "~TAYLOR~",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1969942/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-01-15T19:07:23.933Z",
+              "reviewBody": "I've made these adult-style grilled cheese forever and LOVE them! The only difference is that I butter the bread then dust the slices with garlic powder-perfect!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Brooke Carlson",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2090066/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-08-20T21:09:44.67Z",
+              "reviewBody": "Oh my Lord this is awesome i made it tonight for dinner for me and my daughter i did not use the onion as i forgot to add it.. instead of white bread i used 100% whole wheat and i used monteray jack instead of american cheese and a whole jalapeno and had to have the roma's wouldnt have been as good with out them..this is a sure keeper im not a big fan of grilled cheese but i tell you i love it this way..along side tomato soup look out what a quick dinner thanks for sharing",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Kim Lanham - Hall",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1321228/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-06-07T18:05:01.337Z",
+              "reviewBody": "I changed this sandwich up to suit my personal tastes. I used a couple slices of hothouse tomatoes that had been left to \"drain\" on paper towels to remove some of the excess moisture. I used extra sharp white cheddar sliced cheese jarred jalapeno slices and ringed bermuda onion. Very good sandwich. I paired it with organic tomato soup. It was a great change from your basic grilled cheese.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/doublewideskilletsinglewidebudget/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-06-15T03:39:30.547Z",
+              "reviewBody": "Yummy!!! One of the best grilled cheese sandwhiches I have ever had. I don't eat white bread soI used wheat. I don't care for onions so I left them out. I used vine tomatoes and added some bacon. Oh my! I think I am going to go and make another one.Thanks for the great idea of adding the peppers.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "QUASINAUGHT",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/163293/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2012-01-18T19:10:59.253Z",
+              "reviewBody": "Nice and spicy! A delicious twist on classic grilled cheese. I used a combinaiton of green onion Cheddar cheese and sourdough bread along with the other ingredients. This was simple to put together for lunch and it went great with soup.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Jillian",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/jillian/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-09-13T16:46:13.44Z",
+              "reviewBody": "My husband HATES grilled cheese, and he hates tomatoes, but he asks for these all the time! We are stationed in Okinawa where there arent always fresh jalapenos, and if there are, they are almost $2 ea and are never really spicy, so I used crafts jalapeno cheese and it works great.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "rstokesberry",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/5184504/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-11-19T19:41:44.963Z",
+              "reviewBody": "Great with sour dough sharp cheddar and parmesan cheese dusted on the buttered bread.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "marsonna",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/4138096/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-09-23T23:37:14.697Z",
+              "reviewBody": "This Recipe is really delicious. The onions tomatoes and peppers takes a good ole grilled cheese sandwich and kicks it up many notches to a whole new level. The spicy peppers in the cheese gives a pepper jack like flavor and the onions leaves a nice tingly feeling on the tongue way after you have finished the sandwich. You'll never make grilled cheese the same 'ole way again after eating this spicy grilled cheese sandwich. Thank You for posting it.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "LUV2COOK",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/5425344/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-01-23T01:23:02.967Z",
+              "reviewBody": "These were a little too spicy for me. Hubby loves spice so he thought they were delicious. I just added onion and tomato to mine. I did not grill these on the stove but baked open face in the oven.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Mardi Gause",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1461463/"
+              }
+            }
+          ]
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                "name": "World Cuisine Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                "name": "European",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+                "name": "Italian",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/236322/chicago-inspired-italian-beef-sandwich/",
+          "name": "Chicago-Inspired Italian Beef Sandwich",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1100724.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Chicago-Inspired Italian Beef Sandwich"
+          },
+          "datePublished": "2014-01-23T01:24:51.000Z",
+          "description": "I tried to combine the traditional Italian beef sandwich with the French dip sandwich with a little nod to the pulled pork sandwich. Instead of using thinly sliced roast beef, I used stew beef, with apologies to my friends from Chicago.",
+          "prepTime": "P0DT0H15M",
+          "cookTime": "P0DT1H10M",
+          "totalTime": "P0DT1H25M",
+          "recipeYield": "4 sandwiches",
+          "recipeIngredient": [
+            "1 ½ pounds boneless beef chuck, cut into 2-inch pieces",
+            "salt and ground black pepper to taste",
+            "1 tablespoon vegetable oil",
+            "6 cloves garlic, sliced",
+            "2 tablespoons white vinegar",
+            "1 tablespoon dried oregano",
+            "1 ½ teaspoons salt, or to taste",
+            "1 teaspoon dried thyme",
+            "1 teaspoon dried rosemary",
+            "1 teaspoon freshly ground black pepper",
+            "1 bay leaf",
+            "¼ teaspoon red pepper flakes, or to taste",
+            "3 cups chicken broth, or as needed",
+            "4 ciabatta rolls, sliced in half",
+            "1 cup chopped giardiniera (pickled Italian vegetables)",
+            "2 teaspoons chopped fresh flat-leaf parsley"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Season beef with a pinch of salt and black pepper. Heat vegetable oil in a heavy pot over high heat. Cook and stir beef in hot oil until browned, 5 to 8 minutes.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Stir garlic, vinegar, oregano, 1 1/2 teaspoons salt, thyme, rosemary, 1 teaspoon black pepper, bay leaf, and red pepper flakes into beef. Pour enough chicken broth into beef mixture to cover the meat by 1 inch and bring to a simmer.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Cover pot with a lid, reduce heat to low, and simmer until meat is fork-tender, 1 to 1 1/2 hours.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Transfer meat with a strainer or slotted spoon to a separate pot; pour about 1/4 cup of meat broth into pot. Use a wooden spoon to gently break meat into smaller chunks. Cover pot with a lid or aluminum foil and keep warm.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Skim excess grease from top of broth remaining in the first pot; season with salt and pepper to taste. Cover pot with a lid or aluminum foil and keep broth warm.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Lay halves of a roll out on a work surface and spoon 2 to 3 tablespoons meat broth over each half. Top bottom half of roll with a generous portion of meat and a spoonful of pickled vegetables. Place tops on sandwich. Repeat with remaining buns, broth, meat, and pickled vegetables to make 3 more sandwiches.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Spoon hot meat broth into ramekins and top each ramekin with 1/2 teaspoon parsley. Serve sandwiches with hot broth for dipping.\n"
+            }
+          ],
+          "recipeCategory": [
+            "World Cuisine Recipes",
+            "European",
+            "Italian"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Chef John"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.660377358490566,
+            "ratingCount": 53,
+            "itemReviewed": "Chicago-Inspired Italian Beef Sandwich",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "406 calories",
+            "carbohydrateContent": "35.7 g",
+            "cholesterolContent": "78.7 mg",
+            "fatContent": "15.7 g",
+            "fiberContent": "3.5 g",
+            "proteinContent": "29.3 g",
+            "saturatedFatContent": "5 g",
+            "servingSize": null,
+            "sodiumContent": "1398.8 mg",
+            "sugarContent": "2.1 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2014-09-16T01:43:08.433Z",
+              "reviewBody": "Made this for my fiance and I after trying other recipes for Italian beef and this one is our favorite. I toasted the buns before topping them with the meat and broth kept the rolls from getting soggy. Then popped them back in the oven with a slice of provolone before topping with the giardiniera. We will definitely be making these again!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Michelle Kasprzak",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/14039285/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2016-11-18T01:04:04.79Z",
+              "reviewBody": "Great taste! Very close to the Chicago beef I know and love; the shredded meat was a little different. Next time I will try in a crock pot because meat didn't fall apart easily. Update: Crock pot version much easier! I skipped the browning and just put whole roast and all spices in crock pot and let it cook on low all day. Meat fell apart as I was taking it out of the corckpot.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Kris",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/9042694/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2014-03-02T02:06:22.41Z",
+              "reviewBody": "wow.. just wow.. we so loved this.. we wouldn't know a true chicago italian beef sandwich from a fake one since we're from so cal.. we already had california hot mix giardiniera so subbed that for the original.. we used top round beef slices as they were on sale and telera mexican flat bread (which is kind of like a wide & short french roll) for the ciabatta.. ty so much for the recipe",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "just_jam",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/4763812/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2014-03-16T02:17:33.677Z",
+              "reviewBody": "This is exactly the way I made this last summer with a different recipe.......only difference was the vegetables......my other recipe didn't call for any but it was so very awesome......so now I'm addicted to this sandwich.......to me and my dear hubby.......there's no other sandwich in the world that even comes close to the quality of this one.....I have just started experimenting with fresh herbs and spices......and like I said there's no comparison! This wonderful sandwich just melts in your mouth.......try it sometime......I promise you won't be disappointed:) Thank you so much for this wonderful recipe:)",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "rmekani",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/12719954/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2014-12-31T02:47:00.857Z",
+              "reviewBody": "Browned roast as directed but then used crockpot to cook the meat. We really liked the flavors of the sauce however it was on the salty side. Maybe the buillion I used was salty to begin with? I will be making this recipe again but omitting the salt. I also think I would recommend straining the dipping sauce before using as the first few dips tasted way stronger because all the floating spices stuck to the sandwich.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "carebee14",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/15043361/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2017-02-28T12:31:15.053Z",
+              "reviewBody": "I grew up eating the real deal from my uncle's restaurant in Chicago. This is a bit different but it is simply delicious. It's good with provolone cheese melted on it though I prefer it plain. I used my homemade giardiniera and next summer during pepper season I'm going to can extra just to use in this recipe! Thanks Chef John!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Delores Wilson",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/10908673/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2015-12-26T18:18:44.037Z",
+              "reviewBody": "My husband raved and raved while eating these sandwiches. I used the hot giardiniera recipe on this website instead of store bought giardiniera and it was fabulous. My husband said it was too good of a recipe not to invite others over for it as a meal but it might be a little too messy to serve to company. Tasted great but very messy. Have lots of napkins nearby.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "udolikeme2",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/6321844/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2017-04-20T02:16:37.263Z",
+              "reviewBody": "Like some others I made the meal as directed but browned the beef then cooked meal in the slow cooker. I used less salt as well. It was delicious; my girlfriend and I happily had it for lunch and dinner the day after. We will also be doing this with roasted peppers next time instead of pickled vegetables as we did not like the giardiniera at all.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "ChristianKaoss",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/21709845/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2015-12-28T20:42:40.28Z",
+              "reviewBody": "This was just fantastic.I live south side Chicago (N IN) and i have to tell you this is the bomb.I have made many beef sandwich recipes in my day but this one has the best flavor of theme all.i just eyed the ingredients and used better than bullion for the chicken stock.and cut it down to 2 cups.and maybe a little bit more on the red pepper flakes.AAA",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "gordwa",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2791276/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2018-03-02T07:30:23.7Z",
+              "reviewBody": "As an \"inspired\" dish this is pretty good! But definitely NOT what you'd get at a Chicago institution like Al's beef or something similar. I did it exactly like you did but would probably do it in a slow cooker next time. The gravy was delicious and the seasoning was spot on! But needs to be done in the oven and sliced on a slicer before soaking in gravy to be 100%.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Pete Goodrich",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/21586299/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Chicago-Inspired Italian Beef Sandwich",
+            "description": "It’s Chef John’s tasty take on classic Chicago-style beef sandwich.",
+            "uploadDate": "2014-01-14T18:59:26.955Z",
+            "duration": "PT6M0.064S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2Fdbf27b19-1ae5-4cf1-9db2-295b17f29a18%2F5221da15-15fa-4e63-a094-5304cb32e62f%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=3053935340001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                "name": "Soups, Stews and Chili Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                "name": "Soup Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/170/soups-stews-and-chili/soup/beans-and-peas/",
+                "name": "Beans and Peas",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/237568/basic-italian-bean-soup/",
+          "name": "Basic Italian Bean Soup",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1938306.jpg",
+            "width": 2592,
+            "height": 2592
+          },
+          "datePublished": "2018-06-08T14:14:34.000Z",
+          "description": "Simple and basic Italian bean soup. Great for a quick fix during the week. My Italian mother-in-law rattled this one out to me over the phone years ago. So glad I wrote it down quick! She doesn't remember telling me. The kids love it for a simple and quick dinner.",
+          "prepTime": "P0DT0H10M",
+          "cookTime": "P0DT0H15M",
+          "totalTime": "P0DT0H25M",
+          "recipeYield": "4 servings",
+          "recipeIngredient": [
+            "olive oil",
+            "1 large onion, diced",
+            "2 cloves garlic, or more to taste",
+            "2 cups tomato sauce",
+            "24 ounces prepared cannellini beans",
+            "1 tablespoon dried basil",
+            "½ teaspoon oregano",
+            "salt and ground black pepper to taste"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Heat olive oil in a pot over medium-high heat. Cook and stir onion in hot oil until tender, about 5 minutes; add garlic and continue cooking until fragrant, 1 to 2 minutes more.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Pour tomato sauce into the pot; stir. Add cannelini beans, basil, oregano, salt, and pepper. Bring the mixture to a simmer, reduce heat to medium-low, and cook until the beans are hot, 5 to 7 minutes more.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Soups, Stews and Chili Recipes",
+            "Soup Recipes",
+            "Beans and Peas"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Dawn Wensdofer Brower"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4,
+            "ratingCount": 11,
+            "itemReviewed": "Basic Italian Bean Soup",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "210 calories",
+            "carbohydrateContent": "34.6 g",
+            "cholesterolContent": null,
+            "fatContent": "4.3 g",
+            "fiberContent": "9.3 g",
+            "proteinContent": "8.9 g",
+            "saturatedFatContent": "0.5 g",
+            "servingSize": null,
+            "sodiumContent": "997.3 mg",
+            "sugarContent": "6.5 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2015-01-12T14:06:08.493Z",
+              "reviewBody": "I have to admit I was a little skeptical of how the finished product would taste because of so few ingredients but it turned out great! The only issue I have is the stated amounts for the tomato sauce and the beans are a little odd. 2 cups of sauce is slightly more than what comes in a standard can of tomato sauce so I added in some water to make up the difference. My bigger issue was the 24 oz of prepared beans. A standard can of beans is 15oz and if you drain and rinse them they are about 8oz. So are we to measure 1.5 cans undrained? Or 3 cans drained? Since the recipe was a little vague I just threw in 2 cans of rinsed beans and that seemed to be a good consistency. Instead of using 1 tbsp of basil (because this seemed like a lot to me) I used 1 tsp. This was really tasty with freshly grated parmesan on top.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "France C",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/francecevallos/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2015-02-08T00:45:37.283Z",
+              "reviewBody": "Simply quick and delicious!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "DIANNAW",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/364688/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2015-09-29T19:57:56.24Z",
+              "reviewBody": "My husband liked it so all was not lost but this \"soup\" which is more like a tomato-based bean stew (and a plain one at that) called for entirely too much onion and was just boring to me.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Marcy",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2695482/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2018-10-31T09:52:46.937Z",
+              "reviewBody": "Simple food but delicious. Doing it again today",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "John Sheen",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/24464168/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2018-09-02T23:04:50.38Z",
+              "reviewBody": "Great soup for a quick meal. I added grated Parmesan and Romano cheese and it was a really good complement to the tomato flavor.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Jade Sewell",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/23837888/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-02-13T22:19:52.317Z",
+              "reviewBody": "I made this exactly as written. I let it simmer a couple minutes longer on the stove. It was filling and quick. I tasted it before sitting down and decided it needed some parmesan cheese on it. That help a lot but not enough to want to make it again. Ya'll enjoy! I'm moving on to somethin else.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Chickadee",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/10004436/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-01-19T01:04:21.727Z",
+              "reviewBody": "Simple but delicious. Easy to throw together in a pinch. My only complaint is that it's a bit too thick but that's easy to fix. I did make a few changes though: I added some mild italian sausage about halfway between adding the onion and adding the garlic. Some other people have said already another change I made which was adding a bit of water to the can of tomato sauce to get it to 2 cups. It doesn't mess with the flavor and it helps to thin the soup just a tad. Finally I used dried Herbs de Provence instead of the basil since it's a bit too strong for me and I just love Herbs de Provence.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MattBacon",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/25306233/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2018-12-12T01:26:32.45Z",
+              "reviewBody": "Delicious and quick healthy meal.. Very simple and would cost so much more if you purchased it and it took a total of 30 minutes to make.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "bstrudel",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/21703924/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-02-01T23:21:12.04Z",
+              "reviewBody": "I made the soup with pinto beans and It tasted sooo good. the basil made it taste...ITAILAN!!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Joaquin Garcia",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/26963095/"
+              }
+            }
+          ]
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                "name": "Salad",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/14415/cobb-salad/",
+          "name": "Cobb Salad",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2369484.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Cobb Salad"
+          },
+          "datePublished": "1999-09-22T22:01:00.000Z",
+          "description": "This Cobb salad has some of my favorite ingredients: chicken, egg, tomatoes, blue cheese and avocado.",
+          "prepTime": "P0DT0H20M",
+          "cookTime": "P0DT0H30M",
+          "totalTime": "P0DT0H50M",
+          "recipeYield": "6 servings",
+          "recipeIngredient": [
+            "6 slices bacon",
+            "3 eggs",
+            "1 head iceberg lettuce, shredded",
+            "3 cups chopped, cooked chicken meat",
+            "2 tomatoes, seeded and chopped",
+            "¾ cup blue cheese, crumbled",
+            "1 avocado - peeled, pitted and diced",
+            "3 green onions, chopped",
+            "1 (8 ounce) bottle Ranch-style salad dressing"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Place eggs in a saucepan and cover completely with cold water. Bring water to a boil. Cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Divide shredded lettuce among individual plates.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Evenly divide and arrange chicken, eggs, tomatoes, blue cheese, bacon, avocado and green onions in a row on top of the lettuce.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Drizzle with your favorite dressing and enjoy.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Salad"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Bill"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.729338842975206,
+            "ratingCount": 484,
+            "itemReviewed": "Cobb Salad",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "525.2 calories",
+            "carbohydrateContent": "10.2 g",
+            "cholesterolContent": "179.1 mg",
+            "fatContent": "39.9 g",
+            "fiberContent": "4.1 g",
+            "proteinContent": "31.7 g",
+            "saturatedFatContent": "9.9 g",
+            "servingSize": null,
+            "sodiumContent": "915.2 mg",
+            "sugarContent": "5 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2010-04-12T20:59:09.1Z",
+              "reviewBody": "I travel frequently and often have Cobb Salads when I do - on planes, in restaurants, hotels and even from grocery stores.  I love a good Cobb Salad, but I never much paid attention to what I know is a classic list of ingredients.  So glad to find this recipe here, and this is quite easily the best Cobb Salad I've ever had anywhere, probably because I controlled the ingredients, their quality and their freshness.  I stuck to the ingredients as written as, again, I recognize them to be critical to an authentic Cobb Salad.  I did, however, make my own Buttermilk Ranch Dressing.   This was an ideal dinner to make for myself since Hubs is out of town and he would have never eaten this in a million years - well, not with the Blue cheese anyway.  My tummy is happy.  (Tip: Penzey's Spices makes a seasoning blend called \"Buttermilk Dressing and Dip\" which makes a quick but awesome ranch dressing!  I don't even use buttermilk - just sour cream, mayo and half and half to desired thickness)",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "naples34102",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/naples34102/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-07-23T07:55:16.257Z",
+              "reviewBody": "Hmmm....Ranch dressing and iceberg? Now that's a first for me, including the reviewer who said that thousand island was the only way to go. However, who cares if it's not the \"original\" recipe; if it tastes good, eat it! I prefer a mixture of romaine and butter lettuce with a dressing consisting of red wine vinegar, olive oil (which I drizzle in slowly to emulsify) dijon mustard, chopped fresh chives and crumbled blue cheese. Any way you decide to make this salad with whatever dressing, it will always be a hit. Thanks so much Mr. Bill!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "LINDA MCLEAN",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/268713/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-09-06T18:28:17.713Z",
+              "reviewBody": "Delicious salad!!  I usually don't like vegetables or salad, but I ate this salad every day for lunch until it was gone.  Will def. make again.  UPDATE: I always buy rotisserie chicken and crumbled gorgonzola cheese from the grocery store so that I can put this salad together quickly.  I also use home-made ranch dressing II (from this site) and it makes this salad even better.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "RALWATTAR",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1281438/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-08-12T17:52:41.03Z",
+              "reviewBody": "Delicious!! Delicious!! Delicious!! I omitted the green onions (just don't like them) and added some canned peas and black olives.  Used the Ranch (despite the controversy going on about what dressing to use) and wouldn't have it any other way.  I think it's all about the Ranch you choose to use.  I used Marie's Creamy Ranch (found in the produce isle) and experienced heaven for a short while!!  Try this!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "A277387",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/399489/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-08-12T17:02:40.907Z",
+              "reviewBody": "Since it was way too hot to cook tonight this salad was perfect! Plus I was able to use up some left over grilled chicken. Talk about a win - win situation! Not to mention it has three of my husband's favorite things - hard boiled eggs bacon and ranch dressing. This salad was cool crisp and full of great tasting ingredients. I've always ordered Cobb Salad's out but it's nice to make this at home. Thanks for a great recipe!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Jillian",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/jillian/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2005-02-21T03:48:42.497Z",
+              "reviewBody": "I use feta instead of blue cheese for a milder taste.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "JENN_77",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/644962/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-04-24T01:40:29.76Z",
+              "reviewBody": "I love ordering Cobb Salad at restaurants but the fresh salad at home was even more fabulous. I put some boneless chicken breast in a garlic flavored italian dressing in the morning and threw them on the grill while chopping up all the other ingredients. This one is a bit time-consuming in the prep department but the finished product is well worth it. Tasty and a beautiful presentation with all the colors and textures!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Tammy G",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/651082/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-07-23T07:55:00.18Z",
+              "reviewBody": "We really enjoyed this salad! The kids are off of school today & wanted to go to one of those buffet places (in which all they eat is a salad anyway & why pay 20 when I had all the ingredients on hand..even the blue cheese). I did use 1/2 iceberg & 1/2 spinich (uncooked) & used left over turkey it's delicious! OOPS I forgot to mention to the kids that there is blue cheese in it & they never even noticed;) Thanks Bill!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "I'm nuts too",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/610376/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-08-22T03:03:31.45Z",
+              "reviewBody": "This is a fabulous recipe! To make it better use Bleu Cheese Dressing. Deelish!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "SUNFLOWER9",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/622402/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-04-27T22:02:48.877Z",
+              "reviewBody": "I had such high expectations for this! I didn't like it at all. There was too much lettuce not enough \"stuff \" and the flavor of it was just very bland. It had a lot of prep-work to it and the result wasn't worth it. Thanks for the recipe anyway though!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 1
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MrsChmerkovskiy",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3506657/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Cobb Salad",
+            "description": "This classic main-dish salad stars eggs, crispy bacon, chicken, and avocadoes.",
+            "uploadDate": "2013-09-30T16:31:21.290Z",
+            "duration": "PT2M44.731S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F167930a1-77cd-4c35-bda9-c9a219e8c1d6%2Ffedce1d6-662f-40ce-a94a-bbe54793d43b%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2707334358001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                "name": "World Cuisine Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+                "name": "Asian",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/187342/banh-mi/",
+          "name": "Banh Mi",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1039590.jpg",
+            "width": 1300,
+            "height": 1300
+          },
+          "datePublished": "2020-06-19T03:38:58.000Z",
+          "description": "A Vietnamese sandwich, made with chicken and full of pickled vegetables. My husband works around a lot of Vietnamese restaurants, and I was making him bring me home these tasty sandwiches. Finally I attempted to make one, and found that my recipe was even better than the restaurants, mainly because I used chicken breast and fresher ingredients. I also love the pickled vegetables, so I made sure there was plenty of those.",
+          "prepTime": "P0DT0H30M",
+          "cookTime": "P0DT0H20M",
+          "totalTime": "P0DT0H50M",
+          "recipeYield": "1 sandwich",
+          "recipeIngredient": [
+            "½ cup rice vinegar",
+            "¼ cup water",
+            "¼ cup white sugar",
+            "¼ cup carrot, cut into 1/16-inch-thick matchsticks",
+            "¼ cup white (daikon) radish, cut into 1/16-inch-thick matchsticks",
+            "¼ cup thinly sliced white onion",
+            "1 skinless, boneless chicken breast half",
+            "garlic salt to taste",
+            "ground black pepper to taste",
+            "1 (12 inch) French baguette",
+            "4 tablespoons mayonnaise",
+            "¼ cup thinly sliced cucumber ",
+            "1 tablespoon fresh cilantro leaves",
+            "1 small jalapeno pepper - seeded and cut into 1/16-inch-thick matchsticks",
+            "1 wedge lime"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Place rice vinegar, water, and sugar into a saucepan over medium heat, bring to a boil, and stir until the sugar has dissolved, about 1 minute. Allow the mixture to cool.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Pour the cooled vinegar mixture over the carrot, radish, and onion in a bowl, and allow to stand for at least 30 minutes. Drain off the excess vinegar mixture after the vegetables have marinated.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "While the vegetables are marinating, preheat the oven's broiler, and set the oven rack about 6 inches from the heat source. Lightly oil a slotted broiler pan.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Sprinkle the chicken breast with garlic salt and pepper, and broil on slotted broiler pan, turning once, until the center of the chicken breast is no longer pink and the surface has browned, about 6 minutes per side. Remove the broiled chicken, and slice into bite-size pieces.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Slice the baguette in half the long way, and pull the center of the bread out of the baguette halves, leaving a cavity for the filling. Place the baguette halves under the broiler to lightly toast, 2 to 3 minutes.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "To assemble the bahn mi sandwich, spread each half of the toasted baguette with mayonnaise, and fill the cavity of the bottom half of the bread with broiled chicken, cucumber slices, pickled carrot, onion, and radish, cilantro leaves, and jalapeno pepper. Squeeze a wedge of lime over the filling, and top with the other half of the baguette.\n"
+            }
+          ],
+          "recipeCategory": [
+            "World Cuisine Recipes",
+            "Asian"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "metzstar"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.650602409638554,
+            "ratingCount": 83,
+            "itemReviewed": "Banh Mi",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "657.2 calories",
+            "carbohydrateContent": "85.2 g",
+            "cholesterolContent": "42.8 mg",
+            "fatContent": "25.2 g",
+            "fiberContent": "3.7 g",
+            "proteinContent": "24 g",
+            "saturatedFatContent": "4.2 g",
+            "servingSize": null,
+            "sodiumContent": "990 mg",
+            "sugarContent": "30 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2011-09-03T03:47:49.323Z",
+              "reviewBody": "This recipe is a nice base for Banh Mi and those who are not familiar with Vietnamese subs/food. Adding additional ingredients could make this a much better a more solid Banh Mi. One key ingredient that was not mentioned here is the soy sauce which is typically added atop the mayo and for those feeling a bit more adventurous, duck/chicken pate. As far as meat goes, the most popular/common filling is the cha siu (xa xiu) pork which is a sweet BBQ pork that is grilled/fried (my personal favorite as it goes well with the pickled veggies). Chicken can be used as well, Vietnamese  cold cuts, pork meatballs or even firm fried tofu for a vegetarian option.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "trendypencil",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/5179615/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-07-25T15:58:30.18Z",
+              "reviewBody": "I used this recipe as my inspiration & only made the marinade, adding 1/4 tsp. kosher salt. I'd had pork to use from a slow smoked butt roast which was moist & wonderfully seasoned so I think any good flavored pork or chicken might work just as well. I let the veggies marinate 1 hour & they were great - lots of flavor but still fresh & crunchy! I lightly toasted just the crusts of my bagette, & I used all the veg & garnish suggested but added a dash of soy sauce over all because the mayo just didn't do enough, so I'll hafta figure that out next. But try it - it's a great sandwich!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "BudsGurls",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3604493/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-08-14T21:48:23.993Z",
+              "reviewBody": "We LOVE Banh Mi at our house, and I've been experimenting as well.  I like the marinade for the veggies in this recipe, although I think the mayo needs to be infused with something to make it more authentic (at least, they do at our VN Baguette shop...)  I tried adding garlic powder and a little Chinese 5 spice just to see.  We loved it.  Next we're gonna try the Asian BBQ Pork from Costco as a sandwich filler.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Poppins",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1507373/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-11-09T23:37:49.203Z",
+              "reviewBody": "I've never had a Banh Mi before but decided to look it up and try it because I watched The Great Food Truck Race with Nom Nom and it peaked my interest. So I can't attest to whether or not it is authentic but I will say I followed this recipe pretty closely and it was delicious and very fresh. The only changes I made were I used a whole grain hoagie roll instead of a French baguette and I mixed in Sriracha with my mayonnaise. My husband thoroughly enjoyed it and we plan on making more meat tomorrow to eat with the left over veggies I prepared. I'm letting the slaw marinate overnight as well and expect it to be even more fantastic tomorrow. Definitely would recommend trying.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MUSTANGKERI",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1079118/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-03-30T00:14:15.287Z",
+              "reviewBody": "Delicious and easy! Next time I make it though I'll definitely include some chili garlic sauce (e.g. siracha) mixed in with the mayo to give it a bite.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "afreund",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/6804135/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-10-06T00:14:09.223Z",
+              "reviewBody": "I loved this!!! The marinade for the veggies is OUTSTANDING even though it's so simple. I marinated the chicken in soy sauce and chili paste for a bit before cooking and made a cilantro mayo instead of putting cilantro on top (dont like the bits in my teeth) Just personal preference I made the sammich open faced. ALl in all a great try! Only 4 stars because the one at my local VN place is better.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MomZilla (Evin)",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2701003/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-09-14T14:00:01.073Z",
+              "reviewBody": "I am Vietnamese and I just would like to say that 'Banh Mi' is literally translated as 'sandwich.' So when you say 'Banh Mi Sandwich ' you're saying 'Sandwich Sandwich.' I do admire your own rendition of it though! Good work!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "FeverClone",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/7673402/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-07-27T21:48:36.097Z",
+              "reviewBody": "So flavourful! I really enjoyed the pickled vegetables and I didn't find it time consuming to do at all. I used my julienning peeler from Pampered Chef and was done in a snap! I added siracha chili paste to my sandwich instead of using jalepenos as I felt the siracha would complement the flavours better. I will definitely be making this again. A wonderful summer time meal.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Mollycurls77",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/644579/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-05-04T15:22:15.793Z",
+              "reviewBody": "My new favorite sandwich. Hands down. Thank you so much for sharing this recipe!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Angela Dayle Windley",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/897676/"
+              }
+            }
+          ]
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                "name": "Main Dish Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+                "name": "Sandwich Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/1032/main-dish/sandwiches/chicken/",
+                "name": "Chicken",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/143587/grilled-chicken-salad-sandwich/",
+          "name": "Grilled Chicken Salad Sandwich",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1313977.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Grilled Chicken Salad Sandwich"
+          },
+          "datePublished": "2019-04-02T06:49:19.000Z",
+          "description": "This is a great way to use leftover grilled chicken breasts from dinner the night before.  I like it on wheat. My husband likes it on sourdough.",
+          "prepTime": "P0DT0H15M",
+          "cookTime": null,
+          "totalTime": "P0DT0H15M",
+          "recipeYield": "4 sandwiches",
+          "recipeIngredient": [
+            "1 cup mayonnaise",
+            "⅛ teaspoon ground black pepper",
+            "⅛ teaspoon garlic powder",
+            "⅛ teaspoon celery salt",
+            "4 cups chopped leftover grilled chicken",
+            "2 celery stalks, sliced",
+            "½ cup sweetened dried cranberries",
+            "⅔ cup salted cashews",
+            "8 slices bread, toasted",
+            "4 tablespoons mayonnaise",
+            "4 large red leaf lettuce leaves",
+            "1 ripe tomato, sliced"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Whisk together  1 cup of mayonnaise, pepper, garlic powder, and celery salt until combined. Combine the chicken, celery, cranberries, and cashews in a large bowl. Pour the mayonnaise mixture over the chicken mixture and stir until evenly combined.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Spread 1/2 tablespoon of mayonnaise on each slice of toasted bread. Divide the chicken salad between four of the slices of toast; top each with a lettuce leaf and a slice of tomato. Complete each sandwich with the remaining toast slices.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Main Dish Recipes",
+            "Sandwich Recipes",
+            "Chicken"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Erin Noel"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.568627450980392,
+            "ratingCount": 51,
+            "itemReviewed": "Grilled Chicken Salad Sandwich",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "1077.7 calories",
+            "carbohydrateContent": "50 g",
+            "cholesterolContent": "131.1 mg",
+            "fatContent": "77.4 g",
+            "fiberContent": "3.7 g",
+            "proteinContent": "46.9 g",
+            "saturatedFatContent": "13.6 g",
+            "servingSize": null,
+            "sodiumContent": "1048.2 mg",
+            "sugarContent": "17.1 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2011-05-31T23:33:32.52Z",
+              "reviewBody": "Delicious! Plus it's a great way to use up leftover grilled chicken or rotisserie chicken. I used 3/4 cup of Hellman's light mayo cut with 1/4 cup of reduced fat sour cream. I added a bit of curry powder for a little kick and I love the crunch from the celery. Since I didn't have any cashews on hand I added some chopped apple. This was perfect on toasted whole grain bread and didn't require any extra mayo or tomato just some crisp lettuce - YUM!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Jillian",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/jillian/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-08-13T18:31:33.957Z",
+              "reviewBody": "This chicken salad was GREAT!! I made it for a party of about 30 people & everyone loved it. I ran a little short on mayo so I added a small amount of pineapple juice to keep it moist. I will make this again - just a smaller amount.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Katie",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3917163/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-11-13T20:36:20.64Z",
+              "reviewBody": "I added twice the cranberries and no cashews...it tasted great because the chicken I used was grilled and blacked and it really added to the flavor! MMMM...",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Heidi",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2579994/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-10-22T21:16:00.59Z",
+              "reviewBody": "This is very good. I have made it several times and it's the only chicken salad recipe I make. We prefer extra nuts and craisins and I use light FF yogurt w/some lemon juice rather than mayo because of an egg allergy. It's also good with pecans instead of cashews.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "linda2d",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3733363/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-10-01T15:20:22.93Z",
+              "reviewBody": "Wonderful! I prepared this for a group of friends who totally loved it and today I'm sending them the recipe. Besides being great for sandwiches it would also be great on crackers.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "GRAMMY225",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1100591/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-06-27T00:36:24.947Z",
+              "reviewBody": "Yummy! I cut the recipe in half because I only had 2 chicken breasts. I used 1 clove of garlic minced instead of powder. We didn't top with lettuce or tomatoe but it was still just fabulous! Perfect way to use that leftover chicken.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Heather Pulley",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/hkp123/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-06-01T01:31:24.73Z",
+              "reviewBody": "I used sliced almonds because that is what I had on hand. I added sliced grapes and a touch of spicy mustard. Yummy!!!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "homecookingwife",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/6908062/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-08-28T20:02:07.54Z",
+              "reviewBody": "Wonderful combination. I used leftover baked chicken-very moist..",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Anne",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2303427/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-05-12T19:55:25.957Z",
+              "reviewBody": "I was not sure about the crasins and cashews but it was great! My son said it was delish! Next time I may chop the cashews and maybe try sourdough.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "kandarin",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/4497281/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-12-04T03:04:35.277Z",
+              "reviewBody": "Very good easy to prepare",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "karenscookiesnmore",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2653586/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Grilled Chicken Salad Sandwich",
+            "description": "See how to make a tasty chicken salad using leftover grilled chicken.",
+            "uploadDate": "2012-11-14T18:38:26.129Z",
+            "duration": "PT3M34.714S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2Fa81c2b75-b9d5-48e1-ad13-bd59008534aa%2F6e47b4f1-bd78-40df-af41-dc28538c7e45%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1969082659001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                "name": "Main Dish Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+                "name": "Sandwich Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/16715/vegetarian-chickpea-sandwich-filling/",
+          "name": "Vegetarian Chickpea Sandwich Filling",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F362677.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Vegetarian Chickpea Sandwich Filling"
+          },
+          "datePublished": "1999-09-25T07:10:30.000Z",
+          "description": "Serve this tasty sandwich spread on crusty whole grain rolls or pita bread, with lettuce and tomato. Other raw, chopped vegetables can be substituted for the celery.  Your favorite salad dressing can be substituted for the mayo.",
+          "prepTime": "P0DT0H20M",
+          "cookTime": null,
+          "totalTime": "P0DT0H20M",
+          "recipeYield": "2 to 3 servings",
+          "recipeIngredient": [
+            "1 (19 ounce) can garbanzo beans, drained and rinsed",
+            "1 stalk celery, chopped",
+            "½ onion, chopped",
+            "1 tablespoon mayonnaise",
+            "1 tablespoon lemon juice",
+            "1 teaspoon dried dill weed",
+            "salt and pepper to taste"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Drain and rinse chickpeas. Pour chickpeas into a medium size mixing bowl and mash with a fork. Mix in celery, onion, mayonnaise (to taste), lemon juice, dill, salt and pepper to taste.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Main Dish Recipes",
+            "Sandwich Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "FISHLOVE"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.433462532299742,
+            "ratingCount": 1548,
+            "itemReviewed": "Vegetarian Chickpea Sandwich Filling",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "258.6 calories",
+            "carbohydrateContent": "43.5 g",
+            "cholesterolContent": "1.7 mg",
+            "fatContent": "5.8 g",
+            "fiberContent": "8.5 g",
+            "proteinContent": "9.3 g",
+            "saturatedFatContent": "0.8 g",
+            "servingSize": null,
+            "sodiumContent": "576.1 mg",
+            "sugarContent": "1.2 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2007-09-24T18:11:11.547Z",
+              "reviewBody": "I'm in love with this. I made it last night and let it sit in the fridge for a day, that may have helped. Tonight I warmed some Turkish flatbread in the oven, spread the chickpea filling on it generously, threw some halved cherry tomatoes and thin slices of cucumber on and drizzled with a bit of light yoghurt. Then wrapped it all up burrito-style. After the first bite I thought it was a nice 4 star spread, but it kept tasting better and better with each bite. Now I am finding it hard no to attack the leftovers with a spoon and eat up the whole lot. So good. Wonderful texture, the dill works great (esecially with the salad and yoghurt) and its so healthy. Fingerlicking good. Thanks.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Babzil",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1855628/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-05-20T15:20:45.86Z",
+              "reviewBody": "My vegetarian sister taught me to make this several years ago. It's a great sandwich filling and also tastes delicious as a filling for stuffed tomatoes (very pretty topped with fresh parsley). I make mine in the food processor and always add a dash of Tabasco to it. We've also made it with Dijon mustard replacing the lemon juice... very versatile and yummy recipe!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Diana S.",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/8799/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-04-23T01:04:16.89Z",
+              "reviewBody": "WOW!!!  This was fantastic!!!  I am so glad I finally tried this recipe, because it was perfect for a light summer dinner.  I omitted the celery (personal preference) and used less onions.  I used fat free mayo, no sugar added relish, and the dill weed and lemon were perfect!!  mashing the chickpeas took some time (I tried using a mixer... not the best idea.  There were chickpeas firing everywhere!) but it was all well worth it!  \n\nWe used it to fill pitas, along with romaine and tomato slices.  Thanks so much for the great recipe!!  With 3 vegetarians and 3 non-veg, we all agreeded it was simply amazing!!!  My Grandmother didn't even realize it wasn't tuna!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Brooke Elizabeth",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2251060/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-03-08T22:07:17.85Z",
+              "reviewBody": "WOW is the only word that describes this sandwich.  This was delicious. It was so good that I was eating it straight out of the bowl.  I served this filling on a toasted whole wheat pita with lettuce and tomato.  To keep the chick peas moist, just add a few TB of the liquid in the can along with your mayonnaise.  Mine was very moist by doing this.  Thank you for offering this healthy alternative.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "swtrading7",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2257688/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-11-10T21:57:37.95Z",
+              "reviewBody": "This was pretty good. I did add one large chopped garlic dill, a teaspoon garlic powder and one chopped organic hard boiled egg. I did not use the whole onion, just a few green onions. My littlest loved this, too, believe it or not. I was shocked. I spread his on Dave's Killer Bread but I had mine spread on cucumber slices. NOTE: I used olive oil mayonnaise and I did need an extra tablespoon. Next time, I might add a little dijon and a few shakes Frank's Hot Sauce. I also used organic garbanzo beans.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/doublewideskilletsinglewidebudget/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-09-25T14:31:26.203Z",
+              "reviewBody": "Heather this was SO good! Threw the beans into my food processor added a tad more lemon and lots of garlic. I sliced whole wheat pitas into triangles baked them in the oven until nice and crispy and used them as a dipping device for the wonderful bean mixture! Incredible and thank you!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "LINDA MCLEAN",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/268713/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-01-25T22:32:12.683Z",
+              "reviewBody": "Super healthful and a great alternative to tuna fish or egg salad. I served it with leaves of romaine lettuce and tomato to make lettuce wraps. I thought the lemon juice was a bit overpowering next time I might halve it. I will also add some chopped carrot and garlic powder and maybe sub green onion for regular onion just for more color.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "kmtod1",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3634082/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-03-06T00:16:53.313Z",
+              "reviewBody": "This is pretty tasty for someone who eats hummus almost every single day.  Seriously.  I added lots of garlic and about a half cup of salsa.  Tasty!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Melanie b",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2563463/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2004-08-04T00:37:00.623Z",
+              "reviewBody": "My husband and I really enjoyed this. We are always looking for healthy low-fat alternatives. I added some non-fat sour cream to make it more spreadable. It was good on a pita with some crunchy dill pickles. Thanks Heather",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "gyngerT",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1140174/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Vegetarian Chickpea Sandwich Filling",
+            "description": "See how to make a Vegetarian Chickpea Sandwich Filling.",
+            "uploadDate": "2013-01-04T17:40:39.343Z",
+            "duration": "PT3M8.313S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2Fd79a98f4-0e9d-456c-a1e5-3c4ea456f4e8%2Fe61883e2-79ba-417b-9249-8ac9989cca0b%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2073160067001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                "name": "Main Dish Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/673/main-dish/pork/",
+                "name": "Pork",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/16543/main-dish/pork/pulled-pork/",
+                "name": "100+ Pulled Pork Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/92462/slow-cooker-texas-pulled-pork/",
+          "name": "Slow Cooker Texas Pulled Pork",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4560053.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Slow Cooker Texas Pulled Pork"
+          },
+          "datePublished": "2020-03-05T04:59:43.000Z",
+          "description": "Slow cooked, Texas-style pulled pork that is served on a buttered and toasted roll.  My family's favorite.",
+          "prepTime": "P0DT0H15M",
+          "cookTime": "P0DT5H0M",
+          "totalTime": "P0DT5H15M",
+          "recipeYield": "8 sandwiches",
+          "recipeIngredient": [
+            "1 teaspoon vegetable oil",
+            "1 (4 pound) pork shoulder roast ",
+            "1 cup barbeque sauce",
+            "½ cup apple cider vinegar",
+            "½ cup chicken broth",
+            "¼ cup light brown sugar",
+            "1 tablespoon prepared yellow mustard",
+            "1 tablespoon Worcestershire sauce",
+            "1 tablespoon chili powder",
+            "1 extra large onion, chopped",
+            "2 large cloves garlic, crushed",
+            "1 ½ teaspoons dried thyme",
+            "8 hamburger buns, split",
+            "2 tablespoons butter, or as needed"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Pour the vegetable oil into the bottom of a slow cooker. Place the pork roast into the slow cooker; pour in the barbecue sauce, apple cider vinegar, and chicken broth. Stir in the brown sugar, yellow mustard, Worcestershire sauce, chili powder, onion, garlic, and thyme. Cover and cook on High until the roast shreds easily with a fork, 5 to 6 hours.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Remove the roast from the slow cooker, and shred the meat using two forks. Return the shredded pork to the slow cooker, and stir the meat into the juices.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Spread the inside of both halves of hamburger buns with butter. Toast the buns, butter side down, in a skillet over medium heat until golden brown. Spoon pork into the toasted buns.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Main Dish Recipes",
+            "Pork",
+            "100+ Pulled Pork Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "cmccreight"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.528504359490275,
+            "ratingCount": 2982,
+            "itemReviewed": "Slow Cooker Texas Pulled Pork",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "527.7 calories",
+            "carbohydrateContent": "45.5 g",
+            "cholesterolContent": "98.4 mg",
+            "fatContent": "23.2 g",
+            "fiberContent": "2.6 g",
+            "proteinContent": "31.9 g",
+            "saturatedFatContent": "8.7 g",
+            "servingSize": null,
+            "sodiumContent": "802.7 mg",
+            "sugarContent": "17.1 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2009-11-23T19:58:08.503Z",
+              "reviewBody": "Perfect!  Followed the recipe to a T and it was great.  There were a TON of leftovers. I used a 5 pound roast.  I put some of the extra meat in the fridge for later and still had a lot of leftover meat.  I filled my muffin pan with scoops of meat.  Each individual muffin tin holds the same as a typical sandwich.  I put the muffin tin in the freezer and froze the individual serving size leftovers.  After about 2 hours I took the tin out removed the meat  muffins.  Next they went into a ziploc and they will not all stick together.  To reheat just pop one in the microwave on 50% power.  These are great for a quick sandwich, with rice, with beans, or with eggs.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "LOACHIE",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/892653/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-07-02T19:52:46.863Z",
+              "reviewBody": "Absolutely delicious!!! I would give this one 10 stars! I cooked on low for 10 hours, then shredded and kept it on warm for a couple more hours. I am seriously keeping this recipe forever. This is the perfect weekend bbq/potluck food, and went great with grilled corn on the cob and red potato salad. Also, when you shred the meat you can remove most of the fat. I think you could do without the oil. I used kraft honey bbq sauce - just what I had on hand. SOOOO tasty. You can't stop eating this. ",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "KrisMarie",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3716871/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-05-26T17:03:21.96Z",
+              "reviewBody": "I pulled 40 lbs. of pork using this recipe for my son's graduation party. I also froze it before reheating it in crockpots. I received many compliments.  It turned out much more moist than the root beer recipe I tried earlier. I did serve BBQ on the side, but I'm not sure it needed it.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "ORNURSE",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3756940/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2012-06-17T01:38:09.267Z",
+              "reviewBody": "I love this recipe! I've made it several times and everyone always goes crazy for it. I use a 6-7 lb. bone-in shoulder. I've used a deboned and a bone-in and the bone-in definitely comes out a little tastier. I leave out the oil and the chicken broth, because I think the broth makes it too juicy and I just don't think the oil is necessary. Instead, I just put in the entire bottle of barbeque sauce. I use like 10 cloves of garlic and a huge vidalia onion. You don't have to bother chopping up the onions or garlic too small because by the time it's done, they're all dissolved. I put in closer to 1/2 cup brown sugar, 8 or so drops of Liquid Smoke, two tablespoons of chili powder and a heaping tablespoon of cinnamon. In my opinion, and I think everyone I've fed this to would agree, the cinnamon is KEY. It makes it SO GOOD and adds such a depth of flavor. The recipe doesn't mention this, but make sure you put the roast in the slow cooker fat side up so it can drip down into the meat while it cooks. I cook it on low overnight for about 12 hours, then pull it and remove all the fat, strain the liquid and add it all back to the cooker for another 4 hours or so. The leftovers really do taste better every day. Make sure to make a semi-sweet southern slaw to go along with it - HEAVEN!  ;)",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "jenleighd",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/9451235/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-01-12T19:30:39.27Z",
+              "reviewBody": "Made this with a 6 lb. pork loin roast I had bought on reduced for quick sale. I followed the ingredients increased for my size of roast, except for using dry mustard in lieu of prepared and adding liquid smoke. I cooked on high two hours and then low for seven. I took the meat out and it shredded with complete ease two hours before serving, then placed back in the crockpot. There was alot of liquid and needed to reduce a good two cups worth after placing the shredded meat back in the crockpot. Added a bit of BBQ sauce and liquid smoke at that point to give the meat a bit more flavor, even though it was tender, still lacked that BBQ flavor. After another two hours this was the best tasting pork I've evern made in the slow cooker. Our guest even requested to take home some for lunch the next day. I'm not sure I'd add the broth next time, I feel the fat in the meat made plenty of juice.  *Note when placing meat in crockpot, always leave the fat side on top so the juices sink down into the meat while cooking...read that somewhere.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "*Sherri*",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2129429/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-09-19T14:47:15.327Z",
+              "reviewBody": "I was so excited to try this, but ended up a little disappointed. Although it was very easy to get together and the pork turned out perfectly and just fell apart, the taste just wasn't doing it for me. It was way too sweet for me, I was hoping for more of that smoky flavor. If I make this again I won't be adding any sugar, maybe more vinegar and maybe some liquid smoke to give it that pulled pork flavor.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Laura",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2612600/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-06-08T23:19:30.703Z",
+              "reviewBody": "Good flavor. Estimated cooking time was about right. The only change I made was omitting the thyme as I don't like the flavor with pork. I'll definitely make it again.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "joefarmer",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1197850/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-05-08T19:09:56.97Z",
+              "reviewBody": "This is amazingly good!!  The roast I had was 8 pounds and this recipe easily doubled in my large oval crock pot!!  We had lots of leftovers which we froze....and it was just as good after freezing!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Judith Biggs",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3632685/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-07-21T20:59:14.503Z",
+              "reviewBody": "This is an excellent recipe.  My family loved it and it quickly disappeard.  I used a 2 1/2 pound pork roast and it turned out perfect. I have tried to find a good recipe for pulled pork for years.  My search is over, this is it!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Nanamama",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2931433/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Slow Cooker Texas Pulled Pork",
+            "description": "See how to make tender pulled pork with flavor as big as Texas.",
+            "uploadDate": "2012-08-10T22:25:51.943Z",
+            "duration": "PT3M24.121S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F11b138f2-9984-4864-be28-943a1737ed42%2F78364b3a-fe58-499e-bfae-bba8a9fd810a%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1780426219001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                "name": "Salad",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/1986/salad/egg-salad/",
+                "name": "Egg Salad Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/",
+          "name": "Delicious Egg Salad for Sandwiches",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F191517.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Delicious Egg Salad for Sandwiches"
+          },
+          "datePublished": "2007-08-12T05:48:39.000Z",
+          "description": "This is a wonderful-tasting egg salad sandwich that you will definitely devour. It's really good on rye.",
+          "prepTime": "P0DT0H10M",
+          "cookTime": "P0DT0H15M",
+          "totalTime": "P0DT0H35M",
+          "recipeYield": "4 servings",
+          "recipeIngredient": [
+            "8 eggs",
+            "½ cup mayonnaise",
+            "1 teaspoon prepared yellow mustard",
+            "¼ cup chopped green onion",
+            "salt and pepper to taste",
+            "¼ teaspoon paprika"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Place egg in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Place the chopped eggs in a bowl, and stir in the mayonnaise, mustard and green onion. Season with salt, pepper and paprika. Stir and serve on your favorite bread or crackers.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Salad",
+            "Egg Salad Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "wifeyluvs2cook"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.644864341085271,
+            "ratingCount": 2064,
+            "itemReviewed": "Delicious Egg Salad for Sandwiches",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "343.8 calories",
+            "carbohydrateContent": "2.3 g",
+            "cholesterolContent": "382.5 mg",
+            "fatContent": "31.9 g",
+            "fiberContent": "0.3 g",
+            "proteinContent": "13 g",
+            "saturatedFatContent": "6.4 g",
+            "servingSize": null,
+            "sodiumContent": "350.6 mg",
+            "sugarContent": "1.2 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2008-03-27T07:14:19.923Z",
+              "reviewBody": "This is my recipe, and it states 1/4 cup of green onion, but my recipe is only about 2tbs or to your preference. Oh and its a simple recipe, open to add any other things you would like to it if you are a veggie lover.  Hope you like",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "wifeyluvs2cook",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2309128/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-05-22T17:11:31.92Z",
+              "reviewBody": "Very good!  I subbed pickels for the green onion and used dijon mustard.  I liked the addition of paprika.  Served it on a bun with lettuce, tomato, and a few more pickle planks.  Thanks Wifey!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Susan May",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2324640/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-05-26T16:23:44.633Z",
+              "reviewBody": "Wonderful recipe starting with a good base that is great \"as is\" or with additions.  The ratio of egg/mayo/mustard are perfect in this.  I have had this twice.  The first try was just as the recipe states and the second time I added a little celery and dill.  Both times were very good!  I will be making this again! Thank you for sharing your recipe!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "crazycatlady -  \"CCL\"",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1226023/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-03-18T01:30:04.077Z",
+              "reviewBody": "My Mother taught me the secret to great egg salad is to mix the cold mayo with the still hot yolks.  This makes a much creamier base to add the rest of the ingredients to.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Melinda Prewitt Scurlock",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/762298/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-04-06T19:17:06.28Z",
+              "reviewBody": "Perfect...... after some tweaking.  I hate when people drastically change recipes, but I couldnt find anything on here with all the KEY ingredients for great egg salad.  This recipe had a great start.  I just added some finely diced celery for crunch, 1 tsp dill weed (gotta have dill in your egg salad sandwich), 1/2 tsp onion powder instead of the green onions (didnt have any on hand) and used dijon mustard for a little more flavor.  Turned out great, I ate half of it before it even made it to the fridge for lunch the next day.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "tiffjergy",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1971421/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2012-06-12T22:41:00.793Z",
+              "reviewBody": "My original plan was for an egg salad recipe I had chosen that was a little fussier than this.  However, after an earlier experience today with a recipe with a more \"complicated flavor,\" I decided to play it safe and go on the basic side with this recipe instead.  It IS delicious, taking me back to earlier days and a simpler style of cooking. (For me that would mean waaaay back in the day :)  I mean, didn't everyone's mom make egg salad just like this?  This is good just as is, but you can doll it up any way you like.  For me, that meant adding celery, because for us it just isn't egg salad without it.  But in the end, this is an egg salad recipe for what it is -  a good, basic, classic, egg salad, and not for all the fussier things it isn't.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "naples34102",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/naples34102/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-03-25T22:40:38.577Z",
+              "reviewBody": "it was ok.  i would consider it a base recipe.  my egg salad was begging for additions, i.e., celery, red bell peppers, or anything with more flavor and color",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "FrankieNeedlz",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2827953/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-06-12T13:10:24.933Z",
+              "reviewBody": "Update: left in the frig for a bit, but I wouldn't suggest this because it got very runny. It was best when I first mixed it up. Still, a great egg salad/spread! I am going to use the filling for deviled eggs for Father's Day. Original review: I wanted a cold salad/spread for sandwiches for lunch today. I chose this one, and my husband said it tasted like his grandmother's egg salad, which is high praise indeed! Thanks for the post!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Tanaquil",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1982546/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2008-09-24T03:34:11.413Z",
+              "reviewBody": "Good basic recipe (which is what I was looking for).  I left out the onion on personal preference.  I added a tiny bit of pickle juice to give it some oomph, next time I think I'll add more.\n\nTo heck with dicing the eggs by hand (it takes FOREVER), I used my Pampered Chef chopper.  Took just minutes to chop up all the eggs!\n\nFor perfect hard-cooked eggs, the Broiler & Egg Association of Minnesota says to place eggs in single layer in covered saucepan in cold water, bring to boil, remove from heat and let stand for 15 minutes.  Once the time has elapsed, place eggs in ice water until cool.  This works beautifully - the eggs are done to perfection, there's no green edges, and they peeled quite easily, no tearing!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "WeirdAuntMartha",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/527644/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Delicious Egg Salad for Sandwiches",
+            "description": "See how to make a classic egg salad for sandwiches and crackers.",
+            "uploadDate": "2012-10-10T22:13:49.226Z",
+            "duration": "PT2M31.485S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F952e480b-889d-4527-8f06-537723f5f600%2F6782e254-4a33-424c-aa2f-e9e2a2d770b5%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1892556557001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                "name": "Main Dish Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+                "name": "Sandwich Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/1031/main-dish/sandwiches/beef/",
+                "name": "Beef",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/47717/reuben-sandwich-ii/",
+          "name": "Reuben Sandwich II",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1340290.jpg",
+            "width": null,
+            "height": null,
+            "caption": "Reuben Sandwich II"
+          },
+          "datePublished": "2019-05-16T22:16:13.000Z",
+          "description": "These sandwiches are really delicious and easy to make. They are one of my family's fix-it-quick favorites. I like to serve them with big bowls of steaming vegetable soup and dill pickles on the side. Enjoy!",
+          "prepTime": "P0DT0H15M",
+          "cookTime": "P0DT0H10M",
+          "totalTime": "P0DT0H25M",
+          "recipeYield": "4 sandwiches",
+          "recipeIngredient": [
+            "2 tablespoons butter",
+            "8 slices rye bread",
+            "8 slices deli sliced corned beef",
+            "8 slices Swiss cheese",
+            "1 cup sauerkraut, drained",
+            "½ cup Thousand Island dressing"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Preheat a large skillet or griddle on medium heat.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Lightly butter one side of bread slices. Spread non-buttered sides with Thousand Island dressing. On 4 bread slices, layer 1 slice Swiss cheese, 2 slices corned beef, 1/4 cup sauerkraut and second slice of Swiss cheese. Top with remaining bread slices, buttered sides out.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Grill sandwiches until both sides are golden brown, about 5 minutes per side. Serve hot.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Main Dish Recipes",
+            "Sandwich Recipes",
+            "Beef"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "COLETTE G."
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.678571428571429,
+            "ratingCount": 672,
+            "itemReviewed": "Reuben Sandwich II",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "657 calories",
+            "carbohydrateContent": "43.5 g",
+            "cholesterolContent": "115 mg",
+            "fatContent": "40.3 g",
+            "fiberContent": "4.7 g",
+            "proteinContent": "32.1 g",
+            "saturatedFatContent": "17.9 g",
+            "servingSize": null,
+            "sodiumContent": "1930.3 mg",
+            "sugarContent": "10.2 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2006-11-05T01:59:33.437Z",
+              "reviewBody": "I followed the recipe pretty closely but used some reviewers suggestions.  I drained the sourkraut but didn't rinse it, because we like the tangy taste of the sourkraut.  I buttered rye bread slices on one side and spread Thousand Island dressing on the other side.  On the dressing side I placed a slice of swiss cheese, sliced  Pastrami from the deli and then topped with sourkraut.  I cooked them on my George Foreman grill until the cheese was melted and the bread was nice and toasted.  They were delicious!  I only gave the four star rating because the sourkraut in the middle wasn't very warm.  Next time I make these I will warm the sourkraut in the microwave first and maybe add another slice of swiss too!  If you like Rueben sandwiches you will love this one!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Barbi",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1739423/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2013-06-18T17:14:42.507Z",
+              "reviewBody": "I work as a grill cook at Cracker Barrel, and while the Reuben is one of the most annoying things to make at a busy time, It doesn't take nearly 45 minutes to make. Maybe 5 at most from start to finish. If this recipe works for you, then good. However, we do it quite differently. We start off by putting approximately 1/4 cup sauerkraut (we never measure it, we just grab some) on the grill, and a bag of about the same amount of chip corn beef on top of that. Then we put two pieces of bread down with some butter, and put two pieces of swiss cheese on each piece of bread. Once the sauerkraut and beef has heated up for a minute or two, we put it on one piece of bread, and put the 1000 island dressing on the other piece. As I said before, it shouldn't take more than 5-10 minutes to make.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "ajlargent",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/11555360/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-04-19T11:41:27.067Z",
+              "reviewBody": "Great sandwich. The only change I made was to heat the sauerkraut in the microwave for 20 seconds before adding to the sandwich. I like my sandwich warmed all the way through. Thanks.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "mominpa",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/899090/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2005-03-04T01:32:53.793Z",
+              "reviewBody": "These were great.  I used George Foreman grill, which was easy and quick.  I don’t like soggy bread, so I put the dressing and sauerkraut between the meat and cheese.  I also only used one slice of cheese per sandwich.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MAIREE",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/422077/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-04-19T14:44:16.217Z",
+              "reviewBody": "A good mustard is the way to make a Reuben. Down in south Alabama we did not start hearing about this thousand island business until about 10 years ago.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Mr. Wonderful",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1816670/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-11-27T18:12:57.31Z",
+              "reviewBody": "So good, but grilling each side on medium heat for 15 minutes each?! The bread would have been charred! Mine were perfectly browned at about 5-6 minutes per side. I would recommend keeping a good eye on your bread and toast it to your liking. Great recipe.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "MBKRH",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/lilkegs/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-04-13T01:48:13.937Z",
+              "reviewBody": "Hubby and I love this sandwich. I like to use the sweeter \"bavarian style\" sauerkraut with the caraway seeds. Somtimes I change it up and use mustard instead of thousand island dressing.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "~TxCin~ILove2Ck",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1197175/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2011-03-28T17:33:50.637Z",
+              "reviewBody": "Great sandwich! The classics never die! This was so good and so easy to make. If you use good quality ingredients you'll end up with a wonderful sandwich. I used \"Thousand Island Dressing II\" from this site. Perfect for a quick lunch - YUM!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Jillian",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/jillian/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2005-03-18T02:39:02.62Z",
+              "reviewBody": "Well liked by all.  I also spread the 1000 island dressing between meat and cheese to keep bread from getting soggy, and agree with another review, you have to use butter, not margerine.  Use deli corned beef and you have the genuine deal here.  Great recipe!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Vicky Gunkel",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/727164/"
+              }
+            }
+          ],
+          "video": {
+            "@context": "http://schema.org/",
+            "@type": "VideoObject",
+            "name": "Reuben Sandwich II",
+            "description": "See how to make a classic corned-beef deli sandwich.",
+            "uploadDate": "2012-11-14T18:27:09.350Z",
+            "duration": "PT2M53.715S",
+            "thumbnailUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2Ff7c04054-2a57-4ed7-a10b-2a26438d7b19%2F6a51b4b1-a0f7-4705-85c2-d9c28c0bf2ea%2F160x90%2Fmatch%2Fimage.jpg",
+            "publisher": {
+              "@type": "Organization",
+              "name": "Allrecipes",
+              "url": "https://www.allrecipes.com",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/img/logo.png",
+                "width": 209,
+                "height": 60
+              },
+              "sameAs": [
+                "https://www.facebook.com/allrecipes",
+                "https://twitter.com/Allrecipes",
+                "https://www.pinterest.com/allrecipes/",
+                "https://www.instagram.com/allrecipes/"
+              ]
+            },
+            "embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1969082643001"
+          }
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                "name": "Salad",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/408/salad/seafood-salad/",
+                "name": "Seafood Salad Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/2809/salad/seafood-salad/tuna-salad/",
+                "name": "Tuna Salad Recipes",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/272787/avocado-tuna-salad/",
+          "name": "Avocado Tuna Salad",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9146010.jpg",
+            "width": 0,
+            "height": 0
+          },
+          "datePublished": "2019-04-16T02:56:19.000Z",
+          "description": "Great tuna avocado salad as a side dish or meal. Serve on toasted bread (gluten-free if needed), on top of greens, or enjoy it all by itself.",
+          "prepTime": "P0DT0H10M",
+          "cookTime": null,
+          "totalTime": "P0DT0H10M",
+          "recipeYield": "4 servings",
+          "recipeIngredient": [
+            "1 ripe avocado",
+            "2 (5 ounce) cans flaked light tuna",
+            "½ red apple, chopped",
+            "½ cup chopped red onion",
+            "½ cup chopped celery",
+            "¼ cup chopped toasted walnuts",
+            "2 tablespoons mayonnaise",
+            "1 tablespoon pickle juice",
+            "1 teaspoon dried dill weed",
+            "½ teaspoon Dijon mustard",
+            "¼ teaspoon ground cumin",
+            "salt and pepper to taste"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Cut avocado in half, scoop out the flesh into a large bowl, and mash avocado with the back of a fork or potato masher. Add tuna, apple, onion, celery, toasted walnuts, mayonnaise, pickle juice, dill, Dijon mustard, cumin, salt, and pepper; mix well.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Salad",
+            "Seafood Salad Recipes",
+            "Tuna Salad Recipes"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "Dbanakis"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.588235294117647,
+            "ratingCount": 17,
+            "itemReviewed": "Avocado Tuna Salad",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "273.8 calories",
+            "carbohydrateContent": "10.7 g",
+            "cholesterolContent": "21.5 mg",
+            "fatContent": "18.4 g",
+            "fiberContent": "4.9 g",
+            "proteinContent": "18.7 g",
+            "saturatedFatContent": "2.5 g",
+            "servingSize": null,
+            "sodiumContent": "212 mg",
+            "sugarContent": "3.5 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2020-03-12T07:22:54.493Z",
+              "reviewBody": "Delish. Didn't have pickle juice and used a whole avacado.  I spread Hummus on my bread, quick broil them mixture.  Thanks for this!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "sherry",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2666805/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2020-04-09T22:39:20.203Z",
+              "reviewBody": "LOVE it!!  It takes away any fishy taste from the tuna. I usually put pickles in but now prefer avocado!!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Mic Matt",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/17107788/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-02-25T08:07:22.447Z",
+              "reviewBody": "Loved the fresh flavors of this recipe! I did only use 1/4 cup of red onions in my mix.  The cumin and avocado were a nice added touch of flavors!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Chef Mo",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/chefmo/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2019-08-11T01:32:08.227Z",
+              "reviewBody": "DELICIOUS !!!!!!!!! I JUST LOVED THE DILL I HAVE NEVER USED IN TUNA SALAD BEFORE. THE MAYO I USED THE NEW AVOCADO MAYO TO GET MORE OF THE AVOCADO TASTE OTHERWISE EVERYTHING ELSE WAS THE SAME. I MADE TWO SERVINGS. THAT USES ONLY 1 CAN OF TUNA.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Sandi",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/24184060/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-04-10T23:39:08.537Z",
+              "reviewBody": "Thoroughly enjoyed making this salad. Tastes great- so healthy too.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Cris T",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/16109608/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-04-12T13:40:03.66Z",
+              "reviewBody": "Good, reminds me of Waldorf salad. Easy and great for a party",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Michael Buckley",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/26481602/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-04-12T23:48:13.257Z",
+              "reviewBody": "This was really good and healthy. Will definitely add this to my list of good recipes!  Didn’t change a thing.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "BarbieLee",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/5859695/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-04-10T06:47:37.257Z",
+              "reviewBody": "Easy to make and the taste is a mixture of everything, will make it again. Good for a diet meal or a snack on crackers",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Lisa Staehler",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/5994721/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2021-04-21T23:04:33.91Z",
+              "reviewBody": "The problem with this might not have been the recipe itself, but I found it too strong from the onion I used and I forgot I was using my own home canned tuna and put a little too much salt in.  I think  I would like to try it again and use a milder onion and leave out the salt.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Fay Chappell Dozier",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/4600104/"
+              }
+            }
+          ]
+        }
+      ],
+        
+      [
+        {
+          "@context": "http://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@id": "https://www.allrecipes.com/",
+                "name": "Home",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/",
+                "name": "Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                "name": "Meat and Poultry Recipes",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/206/meat-and-poultry/turkey/",
+                "name": "Turkey",
+                "image": null
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@id": "https://www.allrecipes.com/recipes/16232/meat-and-poultry/turkey/breasts/",
+                "name": "Breasts",
+                "image": null
+              }
+            }
+          ]
+        },
+        {
+          "@context": "http://schema.org/",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.allrecipes.com/recipe/32150/lorraines-club-sandwich/",
+          "name": "Lorraine's Club Sandwich",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1004601.jpg",
+            "width": 1768,
+            "height": 1768
+          },
+          "datePublished": "2018-03-21T16:22:50.000Z",
+          "description": "An easy, quick, and delicious sandwich to eat anytime.",
+          "prepTime": "P0DT0H5M",
+          "cookTime": "P0DT0H5M",
+          "totalTime": "P0DT0H10M",
+          "recipeYield": "1 sandwich",
+          "recipeIngredient": [
+            "2 slices bacon",
+            "3 slices bread, toasted",
+            "3 tablespoons mayonnaise",
+            "2 leaves lettuce",
+            "2 (1 ounce) slices cooked deli turkey breast",
+            "2 slices tomato"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Place bacon in a heavy skillet. Cook over medium high heat until evenly brown. Drain on paper towels.\n"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Spread each slice of bread with mayonnaise. On one slice of toast, place the turkey and lettuce. Cover with a slice of toast, then the bacon and tomato. Top with last slice of toast.\n"
+            }
+          ],
+          "recipeCategory": [
+            "Meat and Poultry Recipes",
+            "Turkey",
+            "Breasts"
+          ],
+          "recipeCuisine": [],
+          "author": [
+            {
+              "@type": "Person",
+              "name": "LORRAINEWINKEL"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.5636363636363635,
+            "ratingCount": 110,
+            "itemReviewed": "Lorraine's Club Sandwich",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "818 calories",
+            "carbohydrateContent": "44.2 g",
+            "cholesterolContent": "76.4 mg",
+            "fatContent": "61.7 g",
+            "fiberContent": "2.6 g",
+            "proteinContent": "22.4 g",
+            "saturatedFatContent": "14.4 g",
+            "servingSize": null,
+            "sodiumContent": "1873.6 mg",
+            "sugarContent": "5.5 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "datePublished": "2012-06-26T23:04:30.173Z",
+              "reviewBody": "Quick dinner tonight--I doubled this to make two sandwiches. I made this exact using reduced fat mayonnaise and whole wheat bread. I paired this with homemade chunky tomato soup. Kids thought this was great.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Sarah Jo",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/doublewideskilletsinglewidebudget/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-09-15T16:31:33.89Z",
+              "reviewBody": "I think some of the reveiws where very harsh in what they said.  Sometimes we need to be reminded of the simple things in life.  This could be a starter sandwich and then you could use your imagination on what to add to your sandwich.  Thanks Lorraine for reminding us about the simple things.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Kim",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/2428014/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2009-08-05T15:23:34.433Z",
+              "reviewBody": "It was too rainy last night to grill, so we made club sandwiches instead.  There's nothing like hickory smoked bacon, fresh tomatoes, leafy green lettuce (as opposed to iceberg), and Boar's head turkey breast.  I also added some swiss cheese.  This was so good between toasted bread with a bit of mayo.  All that was left was to add a dill pickle and some kettle cooked chips.  Sometimes the simplest meals are the best!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Jillian",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/jillian/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-07-09T04:20:47.147Z",
+              "reviewBody": "This is a basic club sandwich you'll find on the menus of most restaurants in Canada with the exception it doesn't include cheese whether it be processed or swiss. I always add salt and pepper in moderation to the tomatoes. I also find Miracle Whip rather than mayonnaise adds a little more pizzazz.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "COVERDALE",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/1240830/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2007-06-12T17:08:37.12Z",
+              "reviewBody": "This a good basic recipe. I used the 3 pieces as stated however I layered the turkey bacon veggie mix on both layers. I also added avocado to the sandwich and served with a sliced dill pickle.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 4
+              },
+              "author": {
+                "@type": "Person",
+                "name": "CreoleMom",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/903391/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2003-08-12T02:52:12.637Z",
+              "reviewBody": "A \"good\" sandwich. With the exception of the third peice of bread (in the middle of the sandwich) - its much like the sandwiches I make normally. We tried one sandwich with 3 peices of toast but prefer to cram all the meat & veggies between 2 peices. I also added some red onion and a squirt of dijon mustard. Thanks!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 3
+              },
+              "author": {
+                "@type": "Person",
+                "name": "DREGINEK",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/379190/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-05-24T15:59:35.077Z",
+              "reviewBody": "this is really good! simple and matches flavors beautifully! and it is good to have a recipe! why ruin all of the ingrediants if you add something wrong! thanks for sharing!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Live, Laugh, Love, Cook",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/3847878/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2010-09-27T22:00:22.64Z",
+              "reviewBody": "It sure is nice when someone takes the time and effort to provide guidelines (which may seem easy to some but are a real bonus for a learner like I am) to resolve the need for a quick snack. It's also nice to see Hellman's seeming support for allrecipes.com. I use nothing else but Hellman's because it is the only one I can find without SOY!",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Mike",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/sawdusty/"
+              }
+            },
+            {
+              "@type": "Review",
+              "datePublished": "2006-10-28T14:44:47.077Z",
+              "reviewBody": "Sometimes basic is best. Added some Colby Jack cheese and it was delicious. Definately a keeper for those lazy Saturday afternoon lunches. Thanks for the post.",
+              "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": 5
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Momof2",
+                "image": null,
+                "sameAs": "https://www.allrecipes.com/cook/821228/"
+              }
+            }
+          ]
+        }
+      ]    
+    ]
+        
