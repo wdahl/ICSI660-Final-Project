@@ -1,0 +1,7 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX sc: <http://purl.org/science/owl/sciencecommons/>
+
+SELECT ?HealthSocre (COUNT(?recipe) as ?Count) ((?Count/50) as ?Percentage) WHERE {
+    ?node schema:name ?recipe .
+  	?node sc:HealthScore ?HealthSocre .
+} group by ?HealthSocre
