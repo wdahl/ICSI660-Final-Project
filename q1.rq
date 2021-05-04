@@ -1,0 +1,7 @@
+PREFIX schema: <http://schema.org/>
+
+SELECT distinct ?recipe ?Ingredient WHERE {
+    ?node schema:name ?recipe .
+    ?node schema:recipeIngredient ?Ingredient .
+    FILTER regex(str(?Ingredient), "\\beggs{0,1}\\b")
+}

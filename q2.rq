@@ -1,0 +1,14 @@
+PREFIX schema: <http://schema.org/>
+
+SELECT distinct ?recipe ?Ingredient WHERE {
+    ?node schema:name ?recipe .
+    ?node schema:recipeIngredient ?Ingredient .
+    FILTER (
+        regex(str(?Ingredient), "\\beggplants{0,1}\\b")
+        || regex(str(?Ingredient), "\\btomatoes{0,1}\\b")
+        || regex(str(?Ingredient), "\\bzucchinis{0,1}\\b")
+        || regex(str(?Ingredient), "\\bonions{0,1}\\b")
+        || regex(str(?Ingredient), "\\bgarlics{0,1}\\b")
+        || regex(str(?Ingredient), "\\bbell peppers{0,1}\\b")
+    )
+}

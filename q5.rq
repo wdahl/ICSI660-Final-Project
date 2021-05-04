@@ -1,0 +1,52 @@
+PREFIX schema: <http://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT distinct ?category ?recipe (?score7 as ?HealthSocre) WHERE {
+    ?node schema:name ?recipe .
+    ?node schema:recipeCategory ?category .
+    FILTER (?category in ("Meat and Poultry"))
+    ?node schema:nutrition ?nutritionNode .
+
+    ?node schema:recipeYield ?recipeYield .
+    BIND(strbefore(?recipeYield, " ") as ?yieldStr)
+    BIND(xsd:double(?yieldStr) as ?yield)
+
+    ?nutritionNode schema:proteinContent ?proteinContent .
+    BIND(strbefore(?proteinContent, " ") as ?proteinStr)
+    BIND(xsd:double(?proteinStr) as ?protein)
+
+    ?nutritionNode schema:carbohydrateContent ?carbContent .
+    BIND(strbefore(?carbContent, " ") as ?carbStr)
+    BIND(xsd:double(?carbStr) as ?carbs)
+
+    ?nutritionNode schema:sugarContent ?sugarContent .
+    BIND(strbefore(?sugarContent, " ") as ?sugarStr)
+    BIND(xsd:double(?sugarStr) as ?sugars)
+
+    ?nutritionNode schema:sodiumContent ?saltContent .
+    BIND(strbefore(?saltContent, " ") as ?saltStr)
+    BIND(xsd:double(?saltStr) as ?salt)
+
+    ?nutritionNode schema:fatContent ?fatContent .
+    BIND(strbefore(?fatContent, " ") as ?fatStr)
+    BIND(xsd:double(?fatStr) as ?fat)
+
+    ?nutritionNode schema:saturatedFatContent ?satContent .
+    BIND(strbefore(?satContent, " ") as ?satStr)
+    BIND(xsd:double(?satStr) as ?sat)
+
+    ?nutritionNode schema:fiberContent ?fiberContent .
+    BIND(strbefore(?fiberContent, " ") as ?fiberStr)
+    BIND(xsd:double(?fiberStr) as ?fiber)
+
+    BIND(0 as ?score0)
+    
+    BIND(?score0 + if(?protein/?yield <= 50/3, 1, 0) as ?score1)
+    BIND(?score1 + if(?carbs/?yield <= 130/3, 1, 0) as ?score2)
+    BIND(?score2 + if(?sugars/?yield <= 90/3, 1, 0) as ?score3)
+    BIND(?score3 + if(?salt/?yield <= 6000/3, 1, 0) as ?score4)
+    BIND(?score4 + if(?fat/?yield <= 70/3, 1, 0) as ?score5)
+    BIND(?score5 + if(?sat/?yield <= 20/3, 1, 0) as ?score6)
+    BIND(?score6 + if(?fiber/?yield >= 25/3, 1, 0) as ?score7)
+} ORDER BY DESC(?HealthSocre)
+Limit 1
