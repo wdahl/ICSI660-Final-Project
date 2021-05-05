@@ -8,10 +8,6 @@ WHERE {
     ?node schema:name ?recipe .
     ?node schema:nutrition ?nutritionNode .
 
-    ?node schema:recipeYield ?recipeYield .
-    BIND(strbefore(?recipeYield, " ") as ?yieldStr)
-    BIND(xsd:double(?yieldStr) as ?yield)
-
     ?nutritionNode schema:proteinContent ?proteinContent .
     BIND(strbefore(?proteinContent, " ") as ?proteinStr)
     BIND(xsd:double(?proteinStr) as ?protein)
@@ -42,11 +38,11 @@ WHERE {
 
     BIND(0 as ?score0)
     
-    BIND(?score0 + if(?protein/?yield <= 50, 1, 0) as ?score1)
-    BIND(?score1 + if(?carbs/?yield <= 130, 1, 0) as ?score2)
-    BIND(?score2 + if(?sugars/?yield <= 90, 1, 0) as ?score3)
-    BIND(?score3 + if(?salt/?yield <= 6000, 1, 0) as ?score4)
-    BIND(?score4 + if(?fat/?yield <= 70, 1, 0) as ?score5)
-    BIND(?score5 + if(?sat/?yield <= 20, 1, 0) as ?score6)
-    BIND(?score6 + if(?fiber/?yield >= 25, 1, 0) as ?score7)
+    BIND(?score0 + if(?protein <= 50, 1, 0) as ?score1)
+    BIND(?score1 + if(?carbs <= 130, 1, 0) as ?score2)
+    BIND(?score2 + if(?sugars <= 90, 1, 0) as ?score3)
+    BIND(?score3 + if(?salt <= 6000, 1, 0) as ?score4)
+    BIND(?score4 + if(?fat <= 70, 1, 0) as ?score5)
+    BIND(?score5 + if(?sat <= 20, 1, 0) as ?score6)
+    BIND(?score6 + if(?fiber >= 25, 1, 0) as ?score7)
 }
