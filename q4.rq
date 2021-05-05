@@ -41,13 +41,13 @@ SELECT distinct ?category (avg(?score7) as ?AVGHealthSocre) WHERE {
 
     BIND(0 as ?score0)
     
-    BIND(?score0 + if(?protein/?yield <= 50/3, 1, 0) as ?score1)
-    BIND(?score1 + if(?carbs/?yield <= 130/3, 1, 0) as ?score2)
-    BIND(?score2 + if(?sugars/?yield <= 90/3, 1, 0) as ?score3)
-    BIND(?score3 + if(?salt/?yield <= 6000/3, 1, 0) as ?score4)
-    BIND(?score4 + if(?fat/?yield <= 70/3, 1, 0) as ?score5)
-    BIND(?score5 + if(?sat/?yield <= 20/3, 1, 0) as ?score6)
-    BIND(?score6 + if(?fiber/?yield >= 25/3, 1, 0) as ?score7)
+    BIND(?score0 + if(?protein/?yield <= 50, 1, 0) as ?score1)
+    BIND(?score1 + if(?carbs/?yield <= 130, 1, 0) as ?score2)
+    BIND(?score2 + if(?sugars/?yield <= 90, 1, 0) as ?score3)
+    BIND(?score3 + if(?salt/?yield <= 6000, 1, 0) as ?score4)
+    BIND(?score4 + if(?fat/?yield <= 70, 1, 0) as ?score5)
+    BIND(?score5 + if(?sat/?yield <= 20, 1, 0) as ?score6)
+    BIND(?score6 + if(?fiber/?yield >= 25, 1, 0) as ?score7)
 } Group by (?category)
 order by ?AVGHealthSocre
 Limit 1

@@ -1,35 +1,37 @@
 <https://www.allrecipes.com/> <http://schema.org/name> "Home" .
-<https://www.allrecipes.com/recipes/1316/breakfast-and-brunch/waffles/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/156/bread/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/1562/desserts/cookies/brownies/chocolate-brownies/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/16394/desserts/cookies/drop-cookies/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/17100/desserts/frostings-and-icings/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/17426/side-dish/vegetables/asparagus/baked/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/17655/side-dish/sauces-and-condiments/sauces/pasta-sauces/creamy/alfredo-sauce/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/225/side-dish/vegetables/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/231/world-cuisine/european/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/2421/desserts/frostings-and-icings/buttercream/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/339/bread/yeast-bread/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/362/desserts/cookies/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/496/side-dish/sauces-and-condiments/sauces/pasta-sauces/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/563/side-dish/sauces-and-condiments/sauces/pasta-sauces/creamy/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/662/meat-and-poultry/chicken/whole-chicken/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/78/breakfast-and-brunch/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/79/desserts/> <http://schema.org/name> "Ingredients" .
+<https://www.allrecipes.com/recipes/1316/breakfast-and-brunch/waffles/> <http://schema.org/name> "Waffle Recipes" .
+<https://www.allrecipes.com/recipes/156/bread/> <http://schema.org/name> "Bread" .
+<https://www.allrecipes.com/recipes/1562/desserts/cookies/brownies/chocolate-brownies/> <http://schema.org/name> "Chocolate Brownie Recipes" .
+<https://www.allrecipes.com/recipes/16394/desserts/cookies/drop-cookies/> <http://schema.org/name> "Drop Cookie Recipes" .
+<https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/> <http://schema.org/name> "Sauces and Condiments Recipes" .
+<https://www.allrecipes.com/recipes/17100/desserts/frostings-and-icings/> <http://schema.org/name> "Frostings and Icings" .
+<https://www.allrecipes.com/recipes/17426/side-dish/vegetables/asparagus/baked/> <http://schema.org/name> "Baked" .
+<https://www.allrecipes.com/recipes/17655/side-dish/sauces-and-condiments/sauces/pasta-sauces/creamy/alfredo-sauce/> <http://schema.org/name> "Alfredo Pasta Sauce Recipes" .
+<https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/> <http://schema.org/name> "Sauce Recipes" .
+<https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/> <http://schema.org/name> "Chicken" .
+<https://www.allrecipes.com/recipes/225/side-dish/vegetables/> <http://schema.org/name> "Vegetables" .
+<https://www.allrecipes.com/recipes/231/world-cuisine/european/> <http://schema.org/name> "European" .
+<https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/> <http://schema.org/name> "Latin American" .
+<https://www.allrecipes.com/recipes/2421/desserts/frostings-and-icings/buttercream/> <http://schema.org/name> "Buttercream" .
+<https://www.allrecipes.com/recipes/276/desserts/cakes/> <http://schema.org/name> "Cakes" .
+<https://www.allrecipes.com/recipes/339/bread/yeast-bread/> <http://schema.org/name> "Yeast Bread Recipes" .
+<https://www.allrecipes.com/recipes/362/desserts/cookies/> <http://schema.org/name> "Cookies" .
+<https://www.allrecipes.com/recipes/399/desserts/cakes/white-cake/> <http://schema.org/name> "White Cake Recipes" .
+<https://www.allrecipes.com/recipes/496/side-dish/sauces-and-condiments/sauces/pasta-sauces/> <http://schema.org/name> "Pasta Sauce Recipes" .
+<https://www.allrecipes.com/recipes/563/side-dish/sauces-and-condiments/sauces/pasta-sauces/creamy/> <http://schema.org/name> "Creamy" .
+<https://www.allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/> <http://schema.org/name> "Chicken Breast Recipes" .
+<https://www.allrecipes.com/recipes/662/meat-and-poultry/chicken/whole-chicken/> <http://schema.org/name> "Whole Chicken Recipes" .
+<https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/> <http://schema.org/name> "Italian" .
+<https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/> <http://schema.org/name> "Mexican" .
+<https://www.allrecipes.com/recipes/78/breakfast-and-brunch/> <http://schema.org/name> "100+ Breakfast and Brunch Recipes" .
+<https://www.allrecipes.com/recipes/79/desserts/> <http://schema.org/name> "Dessert Recipes" .
 <https://www.allrecipes.com/recipes/79/desserts/> <http://schema.org/name> "Ingredients" .
 <https://www.allrecipes.com/recipes/81/side-dish/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/81/side-dish/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/838/desserts/cookies/brownies/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/86/world-cuisine/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/918/side-dish/vegetables/asparagus/> <http://schema.org/name> "Ingredients" .
-<https://www.allrecipes.com/recipes/92/meat-and-poultry/> <http://schema.org/name> "Ingredients" .
+<https://www.allrecipes.com/recipes/81/side-dish/> <http://schema.org/name> "Side Dish" .
+<https://www.allrecipes.com/recipes/838/desserts/cookies/brownies/> <http://schema.org/name> "Brownie Recipes" .
+<https://www.allrecipes.com/recipes/86/world-cuisine/> <http://schema.org/name> "World Cuisine Recipes" .
+<https://www.allrecipes.com/recipes/918/side-dish/vegetables/asparagus/> <http://schema.org/name> "Asparagus" .
+<https://www.allrecipes.com/recipes/92/meat-and-poultry/> <http://schema.org/name> "Meat and Poultry Recipes" .
 <https://www.allrecipes.com/recipes/> <http://schema.org/name> "Recipes" .
 _:b0 <http://schema.org/itemListElement> _:b1 .
 _:b0 <http://schema.org/itemListElement> _:b2 .
@@ -770,8 +772,8 @@ _:b235 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/2
 _:b235 <http://schema.org/name> "Mayo Chicken" .
 _:b235 <http://schema.org/nutrition> _:b239 .
 _:b235 <http://schema.org/prepTime> "P0DT0H15M" .
+_:b235 <http://schema.org/recipeCategory> "Chicken" .
 _:b235 <http://schema.org/recipeCategory> "Ingredients" .
-_:b235 <http://schema.org/recipeCategory> "Meat and Poultry Recipes" .
 _:b235 <http://schema.org/recipeCategory> "Whole Chicken Recipes" .
 _:b235 <http://schema.org/recipeIngredient> "1 cup mayonnaise" .
 _:b235 <http://schema.org/recipeIngredient> "1 tablespoon finely chopped fresh rosemary" .
@@ -1943,8 +1945,8 @@ _:b459 <http://schema.org/name> "Smothered Chicken with Spinach, Potatoes, and M
 _:b459 <http://schema.org/nutrition> _:b463 .
 _:b459 <http://schema.org/prepTime> "P0DT0H30M" .
 _:b459 <http://schema.org/recipeCategory> "Chicken Breast Recipes" .
+_:b459 <http://schema.org/recipeCategory> "Chicken" .
 _:b459 <http://schema.org/recipeCategory> "Ingredients" .
-_:b459 <http://schema.org/recipeCategory> "Meat and Poultry Recipes" .
 _:b459 <http://schema.org/recipeIngredient> "1 (10.75 ounce) can  condensed cream of chicken soup" .
 _:b459 <http://schema.org/recipeIngredient> "1 (8 ounce) package fresh spinach" .
 _:b459 <http://schema.org/recipeIngredient> "1 (8 ounce) package shredded mozzarella cheese" .
@@ -2171,15 +2173,203 @@ _:b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListIt
 _:b50 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
 _:b50 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
 _:b50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b500 <http://schema.org/itemListElement> _:b501 .
+_:b500 <http://schema.org/itemListElement> _:b502 .
+_:b500 <http://schema.org/itemListElement> _:b503 .
+_:b500 <http://schema.org/itemListElement> _:b504 .
+_:b500 <http://schema.org/itemListElement> _:b505 .
+_:b500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BreadcrumbList> .
+_:b501 <http://schema.org/item> <https://www.allrecipes.com/> .
+_:b501 <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b501 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b502 <http://schema.org/item> <https://www.allrecipes.com/recipes/> .
+_:b502 <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b502 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b503 <http://schema.org/item> <https://www.allrecipes.com/recipes/79/desserts/> .
+_:b503 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b503 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b504 <http://schema.org/item> <https://www.allrecipes.com/recipes/276/desserts/cakes/> .
+_:b504 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b504 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b505 <http://schema.org/item> <https://www.allrecipes.com/recipes/399/desserts/cakes/white-cake/> .
+_:b505 <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b505 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b506 <http://schema.org/aggregateRating> _:b507 .
+_:b506 <http://schema.org/author> _:b508 .
+_:b506 <http://schema.org/cookTime> "P0DT0H30M" .
+_:b506 <http://schema.org/datePublished> "2000-01-09T00:41:25.000Z"^^<http://schema.org/Date> .
+_:b506 <http://schema.org/description> "This cake was sent home from our children's school. It is the simplest, great tasting cake I've ever made. Great to make with the kids, especially for cupcakes." .
+_:b506 <http://schema.org/image> _:b509 .
+_:b506 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/17481/simple-white-cake/> .
+_:b506 <http://schema.org/name> "Simple White Cake" .
+_:b506 <http://schema.org/nutrition> _:b510 .
+_:b506 <http://schema.org/prepTime> "P0DT0H20M" .
+_:b506 <http://schema.org/recipeCategory> "Ingredients" .
+_:b506 <http://schema.org/recipeCategory> "Dessert Recipes" .
+_:b506 <http://schema.org/recipeCategory> "White Cake Recipes" .
+_:b506 <http://schema.org/recipeIngredient> "1 cup white sugar" .
+_:b506 <http://schema.org/recipeIngredient> "1 1/2 cups all-purpose flour" .
+_:b506 <http://schema.org/recipeIngredient> "1 3/4 teaspoons baking powder" .
+_:b506 <http://schema.org/recipeIngredient> "2 eggs" .
+_:b506 <http://schema.org/recipeIngredient> "2 teaspoons vanilla extract" .
+_:b506 <http://schema.org/recipeIngredient> "1/2 cup butter" .
+_:b506 <http://schema.org/recipeIngredient> "1/2 cup milk" .
+_:b506 <http://schema.org/recipeInstructions> _:b511 .
+_:b506 <http://schema.org/recipeInstructions> _:b512 .
+_:b506 <http://schema.org/recipeInstructions> _:b513 .
+_:b506 <http://schema.org/recipeYield> "12 cupcakes or 1- 9x9 inch pan" .
+_:b506 <http://schema.org/review> _:b514 .
+_:b506 <http://schema.org/review> _:b517 .
+_:b506 <http://schema.org/review> _:b520 .
+_:b506 <http://schema.org/review> _:b523 .
+_:b506 <http://schema.org/review> _:b526 .
+_:b506 <http://schema.org/review> _:b529 .
+_:b506 <http://schema.org/review> _:b532 .
+_:b506 <http://schema.org/review> _:b535 .
+_:b506 <http://schema.org/review> _:b538 .
+_:b506 <http://schema.org/totalTime> "P0DT0H50M" .
+_:b506 <http://schema.org/video> _:b541 .
+_:b506 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b507 <http://schema.org/bestRating> "5" .
+_:b507 <http://schema.org/itemReviewed> "Simple White Cake" .
+_:b507 <http://schema.org/ratingCount> "4065"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b507 <http://schema.org/ratingValue> "4.21869618696187E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b507 <http://schema.org/worstRating> "1" .
+_:b507 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> .
+_:b508 <http://schema.org/name> "SCOTTOSMAN" .
+_:b508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b509 <http://schema.org/caption> "Simple White Cake" .
+_:b509 <http://schema.org/url> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1437162.jpg> .
+_:b509 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
 _:b51 <http://schema.org/item> <https://www.allrecipes.com/recipes/79/desserts/> .
 _:b51 <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
 _:b51 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b510 <http://schema.org/calories> "208.6 calories" .
+_:b510 <http://schema.org/carbohydrateContent> "29.4 g" .
+_:b510 <http://schema.org/cholesterolContent> "52.1 mg" .
+_:b510 <http://schema.org/fatContent> "8.9 g" .
+_:b510 <http://schema.org/fiberContent> "0.4 g" .
+_:b510 <http://schema.org/proteinContent> "3.1 g" .
+_:b510 <http://schema.org/saturatedFatContent> "5.3 g" .
+_:b510 <http://schema.org/sodiumContent> "141.8 mg" .
+_:b510 <http://schema.org/sugarContent> "17.3 g" .
+_:b510 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NutritionInformation> .
+_:b511 <http://schema.org/text> "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x9 inch pan or line a muffin pan with paper liners.\n" .
+_:b511 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b512 <http://schema.org/text> "In a medium bowl, cream together the sugar and butter. Beat in the eggs, one at a time, then stir in the vanilla. Combine flour and baking powder, add to the creamed mixture and mix well. Finally stir in the milk until batter is smooth. Pour or spoon batter into the prepared pan.\n" .
+_:b512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b513 <http://schema.org/text> "Bake for 30 to 40 minutes in the preheated oven. For cupcakes, bake 20 to 25 minutes. Cake is done when it springs back to the touch.\n" .
+_:b513 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HowToStep> .
+_:b514 <http://schema.org/author> _:b515 .
+_:b514 <http://schema.org/datePublished> "2012-04-26T00:46:48.437Z"^^<http://schema.org/Date> .
+_:b514 <http://schema.org/reviewBody> "This cake is fabulous! And it actually tastes just like a really good sugar cookie!  I doubled the recipe and used 2 tbsp. of vanilla and 1 & 1/2 cups of milk.  This cake is moist, dense and above all delicious! Plus it only took 35 minutes to bake.  It was perfect for a cookies n cream cake.  I will definitely make this again!" .
+_:b514 <http://schema.org/reviewRating> _:b516 .
+_:b514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b515 <http://schema.org/name> "Jillian" .
+_:b515 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/jillian/> .
+_:b515 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b516 <http://schema.org/bestRating> "5" .
+_:b516 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b516 <http://schema.org/worstRating> "1" .
+_:b516 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b517 <http://schema.org/author> _:b518 .
+_:b517 <http://schema.org/datePublished> "2008-02-11T16:22:12.683Z"^^<http://schema.org/Date> .
+_:b517 <http://schema.org/reviewBody> "This recipe is SO WONDERFUL!  \n(Be advised that this recipe as it stands is for a 9x9 cake not a 9x13 large cake.)  \nI \"taste-tested\" it this past weekend to see if it was good enough to use at my daughters B-Day party... and OH MY GOSH everyone loved it!  It is a dense cake, so if you are looking for light and fluffy, keep looking.  But If you are looking for really good 'wedding cake' type of cake... here it is! \nI put on the \"Buttercream icing\" from LISKAGIRL on this site and it was really good combo!!  One person said the cake with the frosting tasted almost like a really good sugar cookie!  But it was not overpowering sweet.\nI followed other reviewers and added an extra 1/4 cup of milk.  I also beat the heck out of every step.  MAKE SURE you beat the sugar and the butter for 8-10 minutes!!  BUT IT IS SOOOOO WORTH IT!!  I couldn't keep away from it!" .
+_:b517 <http://schema.org/reviewRating> _:b519 .
+_:b517 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b518 <http://schema.org/name> "KAZSIL" .
+_:b518 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/1375256/> .
+_:b518 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b519 <http://schema.org/bestRating> "5" .
+_:b519 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b519 <http://schema.org/worstRating> "1" .
+_:b519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
 _:b52 <http://schema.org/item> <https://www.allrecipes.com/recipes/362/desserts/cookies/> .
 _:b52 <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
 _:b52 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b520 <http://schema.org/author> _:b521 .
+_:b520 <http://schema.org/datePublished> "2007-01-22T19:55:56.933Z"^^<http://schema.org/Date> .
+_:b520 <http://schema.org/reviewBody> "This recipe actually deserves 4 1/2 stars.  I made it twice in the same night.  The first batch was perfect!  5 stars all the way.  The batter was rather fluffy.  I made it the second time around (I don't think I let the eggs  beat as long) The batter was a lot thinner (although both times I added about 1/4 cup of extra milk).  After baking, The first batch was fantastic!  Great cake, easy to frost.  The second time around, however, deserves about 3 stars.  As others have said, it had a cornbread type element to it.  It was bad, but it was incredibly hard to frost.  I made 9x13, 8x11, 9x9, and 4x9 of this cake and it cooked well and evenly in every pan. All I can say is, pay very close attention to the directions, sift your ingredients, and let your eggs beat awhile.  If your batter looks somewhat like yellowish coolwhip, you're gonna have a great cake :)" .
+_:b520 <http://schema.org/reviewRating> _:b522 .
+_:b520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b521 <http://schema.org/name> "Cassandra B." .
+_:b521 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/2201905/> .
+_:b521 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b522 <http://schema.org/bestRating> "5" .
+_:b522 <http://schema.org/ratingValue> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b522 <http://schema.org/worstRating> "1" .
+_:b522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b523 <http://schema.org/author> _:b524 .
+_:b523 <http://schema.org/datePublished> "2011-05-23T05:34:16.893Z"^^<http://schema.org/Date> .
+_:b523 <http://schema.org/reviewBody> "I thinks it pretty crazy that 1280 people actually reviewed a baking recipe that doesn't have vanilla extract and salt, the two most crucial ingredients. I think this recipe is great with following changes: 1-2 tsp vanilla, 1/2 tsp salt, increase milk to 3/4 cup and use buttermilk if you have it. Also if you want a lighter texture you really need to use cake flour, if you don't have any make you own by replacing 2 tbsp of cornstarch in 1 cup of all purpose." .
+_:b523 <http://schema.org/reviewRating> _:b525 .
+_:b523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b524 <http://schema.org/name> "clegg_connie@yahoo.com" .
+_:b524 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/3750784/> .
+_:b524 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b525 <http://schema.org/bestRating> "5" .
+_:b525 <http://schema.org/ratingValue> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b525 <http://schema.org/worstRating> "1" .
+_:b525 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b526 <http://schema.org/author> _:b527 .
+_:b526 <http://schema.org/datePublished> "2010-01-21T00:35:16.32Z"^^<http://schema.org/Date> .
+_:b526 <http://schema.org/reviewBody> "I've long ago learned to be skeptical of the results with white cake recipes. They can be dry, tasteless, or have what some call a similarity to cornbread.  I wanted a white cake that was moist, sweet and flavorful, without having to resort to a pound cake recipe, which would be heavier.  I wanted a light, fluffy cake with a tender crumb.  Butter isn't going to necessarily get you that, nor is a shortage of eggs or sugar.  In this recipe I was tempted to reduce the amount of flour, and increase the amount of sugar and eggs but decided to leave it alone, especially for the sake of properly accessing this recipe - except for one small change, which probably was an important one. I used half butter for flavor and richness, and half shortening, to help ensure moistness.  Cream the shortening and butter very well with the sugar, a good few minutes, add each egg separately and beat  well after each addition.  I added the WHOLE milk alternately with the flour mixture, beginning and ending with the flour, and mixing lightly, only enough to combine the ingredients. I made cupcakes, and dropped about 1/2 tsp. raspberry jam in the center of the batter before baking.  I frosted them with pink buttercream frosting.  I tasted one before I frosted them to make an accurate judgment of their quality. Perfect.  Moist, yes moist! Tender, flavorful and pleasantly sweet.  The failure or success of this recipe is hugely dependent upon proper mixing technique and not overbaking!" .
+_:b526 <http://schema.org/reviewRating> _:b528 .
+_:b526 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b527 <http://schema.org/name> "naples34102" .
+_:b527 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/naples34102/> .
+_:b527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b528 <http://schema.org/bestRating> "5" .
+_:b528 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b528 <http://schema.org/worstRating> "1" .
+_:b528 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b529 <http://schema.org/author> _:b530 .
+_:b529 <http://schema.org/datePublished> "2004-03-23T18:22:52.013Z"^^<http://schema.org/Date> .
+_:b529 <http://schema.org/reviewBody> "I made this twice last week, for both my daughter's birthdays. The first time I followed the recipe exactly, and the cupcakes were a little dry, but still edible. The second time, I upped the vanilla to a full tablespoon and added about 1/8 cup more milk. They came out very moist and delicious!" .
+_:b529 <http://schema.org/reviewRating> _:b531 .
+_:b529 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
 _:b53 <http://schema.org/item> <https://www.allrecipes.com/recipes/16394/desserts/cookies/drop-cookies/> .
 _:b53 <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
 _:b53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ListItem> .
+_:b530 <http://schema.org/name> "BLACKRAYNE" .
+_:b530 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/410047/> .
+_:b530 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b531 <http://schema.org/bestRating> "5" .
+_:b531 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b531 <http://schema.org/worstRating> "1" .
+_:b531 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b532 <http://schema.org/author> _:b533 .
+_:b532 <http://schema.org/datePublished> "2007-09-15T20:32:12.767Z"^^<http://schema.org/Date> .
+_:b532 <http://schema.org/reviewBody> "This is by far the simplest and tastiest cake recipe I've ever tried. I like to add a bit extra milk which keeps it soft and moist." .
+_:b532 <http://schema.org/reviewRating> _:b534 .
+_:b532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b533 <http://schema.org/name> "Sonia" .
+_:b533 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/2295443/> .
+_:b533 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b534 <http://schema.org/bestRating> "5" .
+_:b534 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b534 <http://schema.org/worstRating> "1" .
+_:b534 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b535 <http://schema.org/author> _:b536 .
+_:b535 <http://schema.org/datePublished> "2008-02-24T00:38:33.263Z"^^<http://schema.org/Date> .
+_:b535 <http://schema.org/reviewBody> "Yum! i just made cupcakes with this recipe and they're delicious! I don't know why many people said that their cake was dense and dry mine turned out fluffy and moist and yummy! This is a great recipe as long as you cream the butter til it's VERY fluffy and light as well as when you add the eggs. I added a touch more milk but other than that i followed the recipe exactly. It was great way better that a mix it's not as sugary and sticky. Thank you for this recipe it's delicious!" .
+_:b535 <http://schema.org/reviewRating> _:b537 .
+_:b535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b536 <http://schema.org/name> "Georganne" .
+_:b536 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/2808677/> .
+_:b536 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b537 <http://schema.org/bestRating> "5" .
+_:b537 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b537 <http://schema.org/worstRating> "1" .
+_:b537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b538 <http://schema.org/author> _:b539 .
+_:b538 <http://schema.org/datePublished> "2004-01-25T16:45:33.623Z"^^<http://schema.org/Date> .
+_:b538 <http://schema.org/reviewBody> "As advertised, it is simple to make and easy to change into whatever is needed for the occasion.  We started this one off without changing the recipe and it came out nice.  Can't wait to start fiddling with it.\r\n\r\nIt's been a nearly a year and we've changed this up a few times for the better.  If you want to stick as close to the recipe try this variation out.  \r\n\r\nAdd 1 egg yolk, 1 teaspoon of butter flavoring and substitute half and half for the milk.\r\nIf you have a kithenaid mixer, break out the whip instead of the batter blade.  It produces a fluffier batter.  Mix it until it puffs up a bit and bake it for the 30-40 mins.  We used a 9x9 glass pan.  Now if you have gotten to the 40 min mark and the center is still a bit liquidy, turn the oven down to 250 and let it sit on the top shelf of oven for an addtional 10 mins.  It will set up well this way and you don't risk burning the edges of the cake.  \r\n\r\nThis cake was gone in 1 setting when my in laws dropped in.  We've also mixed strawberry jam into the butter/egg mixture and gotten great results and we've done a chocolate version by making the milk into a cocoa mixture.  Next up to try will be spumoni.  We love to experiment!" .
+_:b538 <http://schema.org/reviewRating> _:b540 .
+_:b538 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+_:b539 <http://schema.org/name> "FEEDMENOW" .
+_:b539 <http://schema.org/sameAs> <https://www.allrecipes.com/cook/189418/> .
+_:b539 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 _:b54 <http://schema.org/aggregateRating> _:b55 .
 _:b54 <http://schema.org/author> _:b56 .
 _:b54 <http://schema.org/cookTime> "P0DT0H10M" .
@@ -2221,6 +2411,30 @@ _:b54 <http://schema.org/review> _:b89 .
 _:b54 <http://schema.org/totalTime> "P0DT0H60M" .
 _:b54 <http://schema.org/video> _:b92 .
 _:b54 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> .
+_:b540 <http://schema.org/bestRating> "5" .
+_:b540 <http://schema.org/ratingValue> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b540 <http://schema.org/worstRating> "1" .
+_:b540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> .
+_:b541 <http://schema.org/description> "See how to make a versatile white cake that’s perfect for cupcakes." .
+_:b541 <http://schema.org/duration> "PT3M24.538S" .
+_:b541 <http://schema.org/embedUrl> <https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1560928328001> .
+_:b541 <http://schema.org/name> "Simple White Cake" .
+_:b541 <http://schema.org/publisher> _:b542 .
+_:b541 <http://schema.org/thumbnailUrl> <https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F76aab5ed-39b7-4d62-b626-16c2bbedad74%2Ff3739bb1-66ec-4153-be66-9568d3ac8ada%2F160x90%2Fmatch%2Fimage.jpg> .
+_:b541 <http://schema.org/uploadDate> "2012-04-13T18:28:11.326Z"^^<http://schema.org/Date> .
+_:b541 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoObject> .
+_:b542 <http://schema.org/logo> _:b543 .
+_:b542 <http://schema.org/name> "Allrecipes" .
+_:b542 <http://schema.org/sameAs> <https://twitter.com/Allrecipes> .
+_:b542 <http://schema.org/sameAs> <https://www.facebook.com/allrecipes> .
+_:b542 <http://schema.org/sameAs> <https://www.instagram.com/allrecipes/> .
+_:b542 <http://schema.org/sameAs> <https://www.pinterest.com/allrecipes/> .
+_:b542 <http://schema.org/url> <https://www.allrecipes.com> .
+_:b542 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+_:b543 <http://schema.org/height> "60"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b543 <http://schema.org/url> <https://www.allrecipes.com/img/logo.png> .
+_:b543 <http://schema.org/width> "209"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
 _:b55 <http://schema.org/bestRating> "5" .
 _:b55 <http://schema.org/itemReviewed> "Best Chocolate Chip Cookies" .
 _:b55 <http://schema.org/ratingCount> "18013"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -2291,8 +2505,8 @@ _:b7 <http://schema.org/image> _:b10 .
 _:b7 <http://schema.org/mainEntityOfPage> <https://www.allrecipes.com/recipe/214931/oven-roasted-asparagus/> .
 _:b7 <http://schema.org/name> "Oven-Roasted Asparagus" .
 _:b7 <http://schema.org/nutrition> _:b11 .
+_:b7 <http://schema.org/recipeCategory> "Asparagus" .
 _:b7 <http://schema.org/recipeCategory> "Ingredients" .
-_:b7 <http://schema.org/recipeCategory> "Baked" .
 _:b7 <http://schema.org/recipeCategory> "Side Dish" .
 _:b7 <http://schema.org/recipeCategory> "Vegetables" .
 _:b7 <http://schema.org/recipeIngredient> "1 bunch thin asparagus spears, trimmed" .

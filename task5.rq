@@ -1,13 +1,12 @@
 PREFIX schema: <http://schema.org/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX sc: <http://purl.org/science/owl/sciencecommons/>
 
-SELECT ?category (COUNT(distinct ?recipe) as ?n) (AVG(?cal) as ?energy) (AVG(?fatNum) as ?fat) (AVG(?sat) as ?satfat) (AVG(?sugars) as ?sugar) (AVG(?salt) as ?sodium) (AVG(?ratingValue) as ?rating) (COUNT(?ratingValue) as ?numOfRatings) (AVG(?HealthScore) as ?Score) WHERE {
+SELECT ?category (COUNT(distinct ?recipe) as ?n) (AVG(?cal) as ?energy) (AVG(?fatNum) as ?fat) (AVG(?sat) as ?satfat) (AVG(?sugars) as ?sugar) (AVG(?salt) as ?sodium) (AVG(?ratingValue) as ?rating) (SUM(?ratingCount) as ?numOfRatings) (AVG(?HealthScore) as ?Score) WHERE {
     ?node schema:name ?recipe .
     ?node schema:recipeCategory ?category.
     FILTER (?category IN ("Ingredients", "Lunch Recipes", "Main Dishes", "Meat and Poultry"))
     ?node schema:nutrition ?nutritionNode .
-  	?node sc:HealthScore ?HealthScore .
+  	?node schema:HealthScore ?HealthScore .
   
   	?nutritionNode schema:calories ?calories .
     BIND(strbefore(?calories, " ") as ?calStr)
@@ -29,8 +28,8 @@ SELECT ?category (COUNT(distinct ?recipe) as ?n) (AVG(?cal) as ?energy) (AVG(?fa
     BIND(strbefore(?satContent, " ") as ?satStr)
     BIND(xsd:double(?satStr) as ?sat)
   
-  	?node schema:review ?reviewNode .
-  	?reviewNode schema:reviewRating ?ratingNode .
+  	?node schema:aggregateRating ?ratingNode .
   	?ratingNode schema:ratingValue ?ratingValue .
+  	?ratingNode schema:ratingCount ?ratingCount .
   
 } group by ?category
