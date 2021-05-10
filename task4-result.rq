@@ -1,0 +1,8 @@
+PREFIX schema: <http://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?Healthscore (COUNT (distinct recipe) as ?count) ((?count/50) as ?Percentage) 
+WHERE{
+    ?node schema:name ?recipe .
+    ?node schema:HealthScore ?HealthScore.
+}group by ?HealthScore
