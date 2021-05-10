@@ -1,35 +1,49 @@
 PREFIX schema: <http://schema.org/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
-SELECT ?category (COUNT(distinct ?recipe) as ?n) (AVG(?cal) as ?energy) (AVG(?fatNum) as ?fat) (AVG(?sat) as ?satfat) (AVG(?sugars) as ?sugar) (AVG(?salt) as ?sodium) (AVG(?ratingValue) as ?rating) (SUM(?ratingCount) as ?numOfRatings) (AVG(?HealthScore) as ?Score) WHERE {
+
+INSERT {
+  ?node schema:HealthScore ?score7 .
+}
+WHERE {
     ?node schema:name ?recipe .
-    ?node schema:recipeCategory ?category.
-    FILTER (?category IN ("Ingredients", "Lunch Recipes", "Main Dishes", "Meat and Poultry"))
     ?node schema:nutrition ?nutritionNode .
-  	?node schema:HealthScore ?HealthScore .
-  
-  	?nutritionNode schema:calories ?calories .
-    BIND(strbefore(?calories, " ") as ?calStr)
-    BIND(xsd:double(?calStr) as ?cal)
-  
-  	?nutritionNode schema:sugarContent ?sugarContent .
+
+    ?nutritionNode schema:proteinContent ?proteinContent .
+    BIND(strbefore(?proteinContent, " ") as ?proteinStr)
+    BIND(xsd:double(?proteinStr) as ?protein)
+
+    ?nutritionNode schema:carbohydrateContent ?carbContent .
+    BIND(strbefore(?carbContent, " ") as ?carbStr)
+    BIND(xsd:double(?carbStr) as ?carbs)
+
+    ?nutritionNode schema:sugarContent ?sugarContent .
     BIND(strbefore(?sugarContent, " ") as ?sugarStr)
     BIND(xsd:double(?sugarStr) as ?sugars)
 
     ?nutritionNode schema:sodiumContent ?saltContent .
     BIND(strbefore(?saltContent, " ") as ?saltStr)
-    BIND(xsd:double(?saltStr)/1000 as ?salt)
+    BIND(xsd:double(?saltStr) as ?salt)
 
     ?nutritionNode schema:fatContent ?fatContent .
     BIND(strbefore(?fatContent, " ") as ?fatStr)
-    BIND(xsd:double(?fatStr) as ?fatNum)
+    BIND(xsd:double(?fatStr) as ?fat)
 
     ?nutritionNode schema:saturatedFatContent ?satContent .
     BIND(strbefore(?satContent, " ") as ?satStr)
     BIND(xsd:double(?satStr) as ?sat)
-  
-  	?node schema:aggregateRating ?ratingNode .
-  	?ratingNode schema:ratingValue ?ratingValue .
-  	?ratingNode schema:ratingCount ?ratingCount .
-  
-} group by ?category
+
+    ?nutritionNode schema:fiberContent ?fiberContent .
+    BIND(strbefore(?fiberContent, " ") as ?fiberStr)
+    BIND(xsd:double(?fiberStr) as ?fiber)
+
+    BIND(0 as ?score0)
+    
+    BIND(?score0 + if(?protein <= 50, 1, 0) as ?score1)
+    BIND(?score1 + if(?carbs <= 130, 1, 0) as ?score2)
+    BIND(?score2 + if(?sugars <= 90, 1, 0) as ?score3)
+    BIND(?score3 + if(?salt <= 6000, 1, 0) as ?score4)
+    BIND(?score4 + if(?fat <= 70, 1, 0) as ?score5)
+    BIND(?score5 + if(?sat <= 20, 1, 0) as ?score6)
+    BIND(?score6 + if(?fiber >= 25, 1, 0) as ?score7)
+}
