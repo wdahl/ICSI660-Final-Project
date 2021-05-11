@@ -1,5 +1,9 @@
 # ICSI660-Final-Project
 
+## Names
+William Dahl: 001273655
+Vijay Yeruva: 001455318
+
 ## Step 1.
 Run tdbloader:
 ```bash
